@@ -143,6 +143,13 @@ Function parse_show_feed(xml As Object, feed As Object) As Void
         if item.StreamFormat = "" then  'set default streamFormat to mp4 if doesn't exist in xml
             item.StreamFormat = "mp4"
         endif
+
+        'setting publish date
+        date = validstr(curShow.publish_date.GetText())
+        month = mid(date, 6,2)
+        day = mid(date, 9,2)
+        year = left(date, 4)
+        item.ReleaseDate = month + "/" + day + "/" + year
         
         'map xml attributes into screen specific variables
         item.ShortDescriptionLine1 = item.Title 
