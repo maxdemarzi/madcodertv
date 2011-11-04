@@ -1,7 +1,13 @@
-The videoplayer example demonstrates a hierarchical,
+== MadCoder.tv
+
+This is the repository for the website http://madcoder.tv and the Roku Channel MadCoder.tv
+
+
+
+The madcod demonstrates a hierarchical,
 category based video playback application. The
 application allows the playback of a selection 
-of TED Talks videos which are organized by category.
+of Development videos which are organized by category.
   
 The application uses a category based XML feed 
 to drive the application. The XML describes all
@@ -17,27 +23,20 @@ included in that category. The XML for the leaf
 nodes is also included and named in the format 
 <category>.xml.
 
-It is possible to easily use this as a template 
-for a production application by implementing the 
-appropriate web service API's to provide the 
-category and content XML feeds. You must also
-provide the artwork and brand specific assets 
-appropriate for your application.
-
 Contents of the application directories are:
 
+In the gh-pages branch:
+xml      - Categories and Episodes of videos
+           available for playback.
+images   - Screenshots and Logos for the categories
+           and episodes described in the xml directory.
+
+In the master branch:
 images   - Artwork that is embedded as part of 
-           the application. In general, this 
-           should be kept to a minimum to conserve 
-           space on flash, and is usually just the 
-           main menu icons, plus the logo and 
-           overhang used for branding.
+           the application. 
 source   - The complete BrightScript source code 
            for the application
-xml      - Examples of the XML returned by the 
-           server for reference
-artwork  - Examples of the artwork returned by the 
-           server for reference.  
+artwork  - Photoshop versions of the images.  
 manifest - This file describes the application 
            package and is used on the main menu 
            prior to the start of execution for the 
@@ -47,21 +46,12 @@ Makefile - Optional method of building the application
            convenience and tested on OSX and linux.
 
 
-Note: The xml and artwork directories are NOT part of the application
-      package, but can be saved as an archive using the "make archive"
-      target. The makefile also can push the development app directly
-      to the device if "make" and "curl" are available. See the comments
-      in the Makefile for more information.
-
       **************************************************
 
-This example uses videos streamed directly from the TED Talks 
-website (www.ted.com). Please visit the TED website to see the
-full lineup of talks made available by TED. 
+This channel uses videos streamed directly from Confreaks ( http://confreaks.com ) 
+and RailsCasts (railscasts.com). Please visit their websites to see the latest
+available videos and premium features and services. 
 
 Please see the following for license details:
 http://creativecommons.org/licenses/by-nc-nd/3.0/
-
-
-
 
