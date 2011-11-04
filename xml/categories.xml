@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories>	  
+	<category title="Confreaks" description="Conference Recordings" sd_img="http://madcoder.tv/images/confreaks/confreaks_logo.png" hd_img="http://madcoder.tv/images/confreaks/confreaks_logo.png">
+  	    <categoryLeaf title="Golden Gate Ruby Conference 2011" description="" feed="http://madcoder.tv/xml/cf46.xml"/>
+	    <categoryLeaf title="Cascadia Ruby 2011" description="" feed="http://madcoder.tv/xml/cf43.xml"/>
+	    <categoryLeaf title="SRC 2011" description="Scotland Ruby 2011" feed="http://madcoder.tv/xml/cf41.xml"/>
+	    <categoryLeaf title="Farmhouse 2011" description="Farmhouse Conf 2011" feed="http://madcoder.tv/xml/cf40.xml"/>
+	    <categoryLeaf title="ROA 2011" description="Ruby On Ales 2011" feed="http://madcoder.tv/xml/cf39.xml"/>
+	    <categoryLeaf title="MWRC 2011" description="Mountain West Ruby Conference 2011" feed="http://madcoder.tv/xml/cf38.xml"/>
+	    <categoryLeaf title="LA Ruby 2011" description="LA Ruby Conference 2011" feed="http://madcoder.tv/xml/cf37.xml"/>
+	    <categoryLeaf title="Mountain.rb 2010" description="Mountain.rb 2010" feed="http://madcoder.tv/xml/cf35.xml"/>
+	    <categoryLeaf title="Ruby Conf 2010" description="Ruby Conference 2010" feed="http://madcoder.tv/xml/cf33.xml"/>
+	    <categoryLeaf title="GGRC 2010" description="Golden Gate Ruby Conference 2010" feed="http://madcoder.tv/xml/cf32.xml"/>
+	    <categoryLeaf title="Ruby Web 2010" description="Ruby|Web Conference 2010" feed="http://madcoder.tv/xml/cf31.xml"/>
+	    <categoryLeaf title="JRuby 2009" description="JRuby Conference 2009" feed="http://madcoder.tv/xml/cf30.xml"/>
+	    <categoryLeaf title="LSRC 2010" description="Lone Star Ruby Conference 2010" feed="http://madcoder.tv/xml/cf29.xml"/>
+	    <categoryLeaf title="ELC 2010" description="Emerging Languages Camp 2010" feed="http://madcoder.tv/xml/cf28.xml"/>
+	    <categoryLeaf title="LSRC 2009" description="Lone Star Ruby Conference 2009" feed="http://madcoder.tv/xml/cf26.xml"/>
+	    <categoryLeaf title="Ruby Hoedown 2008" description="Ruby Hoedown 2008" feed="http://madcoder.tv/xml/cf22.xml"/>
+	    <categoryLeaf title="LA Ruby 2010" description="LA Ruby Conference 2010" feed="http://madcoder.tv/xml/cf17.xml"/>
+	    <categoryLeaf title="LA Ruby 2009" description="LA Ruby Conference 2009" feed="http://madcoder.tv/xml/cf16.xml"/>
+	    <categoryLeaf title="Ruby Conf 2009" description="Ruby Conference 2009" feed="http://madcoder.tv/xml/cf15.xml"/>
+	    <categoryLeaf title="Agile Roots 2009" description="Agile Roots 2009" feed="http://madcoder.tv/xml/cf14.xml"/>
+	    <categoryLeaf title="MWRC 2009" description="Mountain West Ruby Conference 2009" feed="http://madcoder.tv/xml/cf11.xml"/>
+	    <categoryLeaf title="Agile Roots 2010" description="Agile Roots 2010" feed="http://madcoder.tv/xml/cf10.xml"/>
+	    <categoryLeaf title="GoRuCo 2009" description="2009 Gotham Ruby Conference" feed="http://madcoder.tv/xml/cf2.xml"/>
+	    <categoryLeaf title="MWRC 2010" description="Mountain West Ruby Conference 2010" feed="http://madcoder.tv/xml/cf1.xml"/>
+	</category>
+	<category title="RailsCasts" description="Ruby on Rails Screencasts" sd_img="http://madcoder.tv/images/rc/rc_logo.png" hd_img="http://madcoder.tv/images/rc/rc_logo.png">
+		<categoryLeaf title="Latest" description="" feed="http://madcoder.tv/xml/rc_latest.xml"/>
+		<categoryLeaf title="300-251" description="" feed="http://madcoder.tv/xml/rc_300.xml" />
+		<categoryLeaf title="250-201" description="" feed="http://madcoder.tv/xml/rc_250.xml" />
+		<categoryLeaf title="200-151" description="" feed="http://madcoder.tv/xml/rc_200.xml" />
+		<categoryLeaf title="150-101" description="" feed="http://madcoder.tv/xml/rc_150.xml" />
+		<categoryLeaf title="100-51" description="" feed="http://madcoder.tv/xml/rc_100.xml" />
+		<categoryLeaf title="50-1" description="" feed="http://madcoder.tv/xml/rc_50.xml" />
+	</category>
+ </categories>

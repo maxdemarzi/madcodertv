@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_653_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_653_screen.png">
+	<title>0-60 with Goliath: building high-performance (Ruby) web services - Ilya Grigorik - Golden Gate Ruby Conference 2011</title>
+	<contentId>653</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2237/original/653-gogaruco2011-0-60-with-goliath-building-high-performance-ruby-web-services-large.mp4?1318755710</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2236/original/653-gogaruco2011-0-60-with-goliath-building-high-performance-ruby-web-services-small.mp4?1318755705</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-10-16</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_652_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_652_screen.png">
+	<title>You Ain't SPDY - Chris Strom - Golden Gate Ruby Conference 2011</title>
+	<contentId>652</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2234/original/652-gogaruco2011-you-ain-t-spdy-large.mp4?1318755688</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2233/original/652-gogaruco2011-you-ain-t-spdy-small.mp4?1318755684</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-10-16</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_651_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_651_screen.png">
+	<title>Keynote: On Building Frameworks - Yehuda Katz - Golden Gate Ruby Conference 2011</title>
+	<contentId>651</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2231/original/651-gogaruco2011-keynote-on-building-frameworks-large.mp4?1318755667</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2230/original/651-gogaruco2011-keynote-on-building-frameworks-small.mp4?1318755659</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-10-16</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_748_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_748_screen.png">
+	<title>A Special Message - Tim Connor - Golden Gate Ruby Conference 2011</title>
+	<contentId>748</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2225/original/748-gogaruco2011-a-special-message-large.mp4?1318747585</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2224/original/748-gogaruco2011-a-special-message-small.mp4?1318747584</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-10-15</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_650_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_650_screen.png">
+	<title>Lightning Talks - Aaron Patterson, Various Presenters - Golden Gate Ruby Conference 2011</title>
+	<contentId>650</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2228/original/650-gogaruco2011-lightning-talks-large.mp4?1318755640</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2227/original/650-gogaruco2011-lightning-talks-small.mp4?1318755619</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_649_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_649_screen.png">
+	<title>Failing Fast - Stuff We Should have Done Better at Square - Erica Kwan - Golden Gate Ruby Conference 2011</title>
+	<contentId>649</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2240/original/649-gogaruco2011-failing-fast-stuff-we-should-have-done-better-at-square-large.mp4?1318755735</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2239/original/649-gogaruco2011-failing-fast-stuff-we-should-have-done-better-at-square-small.mp4?1318755730</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-10-16</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_648_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_648_screen.png">
+	<title>Ruby/JavaScript and the mobile web - Ryan Dy - Golden Gate Ruby Conference 2011</title>
+	<contentId>648</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2243/original/648-gogaruco2011-ruby-javascript-and-the-mobile-web-large.mp4?1318755757</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2242/original/648-gogaruco2011-ruby-javascript-and-the-mobile-web-small.mp4?1318755752</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-10-16</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_647_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_647_screen.png">
+	<title>Sass: The Future of Stylesheets - Chris Eppstein - Golden Gate Ruby Conference 2011</title>
+	<contentId>647</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2149/original/647-gogaruco2011-sass-the-future-of-stylesheets-large.mp4?1318456378</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2148/original/647-gogaruco2011-sass-the-future-of-stylesheets-small.mp4?1318456374</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-10-12</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_646_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_646_screen.png">
+	<title>The Problem is Your Ruby - Jeff Casimir - Golden Gate Ruby Conference 2011</title>
+	<contentId>646</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2146/original/646-gogaruco2011-the-problem-is-your-ruby-large.mp4?1318411353</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2145/original/646-gogaruco2011-the-problem-is-your-ruby-small.mp4?1318411349</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-10-12</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_645_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_645_screen.png">
+	<title>Smalltalk On Rubinius - or How to Implement Your Own Programming Language - Konstantin Haase - Golden Gate Ruby Conference 2011</title>
+	<contentId>645</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2135/original/645-gogaruco2011-smalltalk-on-rubinius-or-how-to-implement-your-own-programming-language-large.mp4?1318407852</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2134/original/645-gogaruco2011-smalltalk-on-rubinius-or-how-to-implement-your-own-programming-language-small.mp4?1318407838</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-10-11</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_644_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_644_screen.png">
+	<title>Go for the Rubyist: Appropriation of Great Ideas in Ruby - Dave Grijalva - Golden Gate Ruby Conference 2011</title>
+	<contentId>644</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2113/original/644-gogaruco2011-go-for-the-rubyist-appropriation-of-great-ideas-in-ruby-large.mp4?1318226022</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2112/original/644-gogaruco2011-go-for-the-rubyist-appropriation-of-great-ideas-in-ruby-small.mp4?1318226015</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-10-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_643_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_643_screen.png">
+	<title>Keynote: Writing your own programming language to understand Ruby better - José Valim - Golden Gate Ruby Conference 2011</title>
+	<contentId>643</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2020/original/643-gogaruco2011-keynote-writing-your-own-programming-language-to-understand-ruby-better-large.mp4?1317859946</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/2019/original/643-gogaruco2011-keynote-writing-your-own-programming-language-to-understand-ruby-better-small.mp4?1317859937</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-10-05</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_642_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_642_screen.png">
+	<title>CouchDB & Ruby: You're Doing It Wrong - Tim Anglade - Golden Gate Ruby Conference 2011</title>
+	<contentId>642</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1954/original/642-gogaruco2011-couchdb-ruby-you-re-doing-it-wrong-large.mp4?1317103359</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1953/original/642-gogaruco2011-couchdb-ruby-you-re-doing-it-wrong-small.mp4?1317103353</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-09-26</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_641_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_641_screen.png">
+	<title>Fast Rails Tests - Corey Haines - Golden Gate Ruby Conference 2011</title>
+	<contentId>641</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1939/original/641-gogaruco2011-fast-rails-tests-large.mp4?1316802908</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1938/original/641-gogaruco2011-fast-rails-tests-small.mp4?1316802898</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-09-23</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_640_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_640_screen.png">
+	<title>API: Assumptions Probably Incorrect - Wesley Beary - Golden Gate Ruby Conference 2011</title>
+	<contentId>640</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1942/original/640-gogaruco2011-api-assumptions-probably-incorrect-large.mp4?1316802951</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1941/original/640-gogaruco2011-api-assumptions-probably-incorrect-small.mp4?1316802947</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-09-23</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_639_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_639_screen.png">
+	<title>Distributed Systems Primer with Ruby - Tyler McMullen - Golden Gate Ruby Conference 2011</title>
+	<contentId>639</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1928/original/639-gogaruco2011-distributed-systems-primer-with-ruby-large.mp4?1316531048</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1927/original/639-gogaruco2011-distributed-systems-primer-with-ruby-small.mp4?1316531040</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-09-19</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_638_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_638_screen.png">
+	<title>Test-drive the development of your command-line applications - David Copeland - Golden Gate Ruby Conference 2011</title>
+	<contentId>638</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1907/original/638-gogaruco2011-test-drive-the-development-of-your-command-line-applications-large.mp4?1316489861</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1906/original/638-gogaruco2011-test-drive-the-development-of-your-command-line-applications-small.mp4?1316489857</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-09-19</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_637_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_637_screen.png">
+	<title>KidsRuby: Think of the Children - Ron Evans - Golden Gate Ruby Conference 2011</title>
+	<contentId>637</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1900/original/637-gogaruco2011-kidsruby-think-of-the-children-large.mp4?1316469567</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1899/original/637-gogaruco2011-kidsruby-think-of-the-children-small.mp4?1316469557</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-09-19</publish_date>
+	</item>
+</feed>

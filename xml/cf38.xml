@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_583_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_583_screen.png">
+	<title>The State of C Extensions: Alive and Well, so Learn to Deal - Sam Rawlins - Mountain West Ruby Conference 2011</title>
+	<contentId>583</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1618/original/583-mwrc2011-the-state-of-c-extensions-alive-and-well-so-learn-to-deal-large.mp4?1306203924</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1617/original/583-mwrc2011-the-state-of-c-extensions-alive-and-well-so-learn-to-deal-small.mp4?1306203888</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_582_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_582_screen.png">
+	<title>Parsing Expressions in Ruby - Michael J. I. Jackson - Mountain West Ruby Conference 2011</title>
+	<contentId>582</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1621/original/582-mwrc2011-parsing-expressions-in-ruby-large.mp4?1306203996</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1620/original/582-mwrc2011-parsing-expressions-in-ruby-small.mp4?1306203971</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_581_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_581_screen.png">
+	<title>Modeling concurrency in Ruby and Beyond - Ilya Grigorik - Mountain West Ruby Conference 2011</title>
+	<contentId>581</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1624/original/581-mwrc2011-modeling-concurrency-in-ruby-and-beyond-large.mp4?1306204076</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1623/original/581-mwrc2011-modeling-concurrency-in-ruby-and-beyond-small.mp4?1306204038</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+</feed>

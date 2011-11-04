@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_593_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_593_screen.png">
+	<title>Stratocaster: Redis Event Timeline - Rick Olson - Ruby On Ales 2011</title>
+	<contentId>593</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1921/original/593-roa2011-stratocaster-redis-event-timeline-large.mp4?1316494749</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1920/original/593-roa2011-stratocaster-redis-event-timeline-small.mp4?1316494742</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-09-19</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_592_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_592_screen.png">
+	<title>One Ruby App to Rule Them All - Ian Hunter - Ruby On Ales 2011</title>
+	<contentId>592</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1918/original/592-roa2011-one-ruby-app-to-rule-them-all-large.mp4?1316491929</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1917/original/592-roa2011-one-ruby-app-to-rule-them-all-small.mp4?1316491926</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-09-19</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_526_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_526_screen.png">
+	<title>Ruby Hero Tenderlove! - Ron Evans, Jim Weirich, Aaron Patterson, Josh Susser - Ruby On Ales 2011</title>
+	<contentId>526</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1092/original/tenderlove_1.mp4?1301507393</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1093/original/526-roa2011-ruby-hero-tenderlove-small.mp4?1301510513</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-03-30</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_525_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_525_screen.png">
+	<title>The Ruby Environment - Bradley Grzesiak - Ruby On Ales 2011</title>
+	<contentId>525</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1893/original/525-roa2011-the-ruby-environment-large.mp4?1315197943</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1892/original/525-roa2011-the-ruby-environment-small.mp4?1315197939</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-09-04</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_524_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_524_screen.png">
+	<title>You Got Ruby In My PHP! (You Got PHP In My Ruby!)  - Rein Henrichs - Ruby On Ales 2011</title>
+	<contentId>524</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1883/original/524-roa2011-you-got-ruby-in-my-php-you-got-php-in-my-ruby-large.mp4?1315195952</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1882/original/524-roa2011-you-got-ruby-in-my-php-you-got-php-in-my-ruby-small.mp4?1315195950</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-09-04</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_523_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_523_screen.png">
+	<title>Exceptional Ruby - Avdi Grimm - Ruby On Ales 2011</title>
+	<contentId>523</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1880/original/523-roa2011-exceptional-ruby-large.mp4?1315195674</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1879/original/523-roa2011-exceptional-ruby-small.mp4?1315195672</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-09-04</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_522_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_522_screen.png">
+	<title>Design hacks for the pragmatic minded  - Kyle Neath - Ruby On Ales 2011</title>
+	<contentId>522</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1877/original/522-roa2011-design-hacks-for-the-pragmatic-minded-large.mp4?1315191243</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1876/original/522-roa2011-design-hacks-for-the-pragmatic-minded-small.mp4?1315191239</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-09-04</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_521_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_521_screen.png">
+	<title>Why is configuration management software written in Ruby?  - Richard Crowley - Ruby On Ales 2011</title>
+	<contentId>521</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1854/original/521-roa2011-why-is-configuration-management-software-written-in-ruby-large.mp4?1313307824</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1853/original/521-roa2011-why-is-configuration-management-software-written-in-ruby-small.mp4?1313307815</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-08-14</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_520_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_520_screen.png">
+	<title>Gui Programming with Mac Ruby - Erik Michaels-Ober - Ruby On Ales 2011</title>
+	<contentId>520</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1847/original/520-roa2011-gui-programming-with-mac-ruby-large.mp4?1313227781</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1846/original/520-roa2011-gui-programming-with-mac-ruby-small.mp4?1313227769</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-08-13</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_519_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_519_screen.png">
+	<title>Securing Your Rails App - Jim Weirich, Matt Yoho - Ruby On Ales 2011</title>
+	<contentId>519</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1695/original/519-roa2011-securing-your-rails-app-large.mp4?1311576160</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1694/original/519-roa2011-securing-your-rails-app-small.mp4?1311576151</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-07-23</publish_date>
+	</item>
+</feed>

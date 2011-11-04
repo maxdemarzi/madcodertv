@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_424_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_424_screen.png">
+	<title>Must. Try. Harder. - Keavy McMinn - Mountain rb 2010</title>
+	<contentId>424</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/647/original/must_try_harder-mcminn-large.mp4?1290417157</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/646/original/must_try_harder-mcminn-small.mp4?1290417147</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-11-23</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_412_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_412_screen.png">
+	<title>Has Anyone Seen my Code? - Jim Weirich, Chad Fowler - Mountain rb 2010</title>
+	<contentId>412</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/659/original/has_anyone_seen_my_code-weirich-large.mp4?1290422270</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/658/original/has_anyone_seen_my_code-weirich-small.mp4?1290422266</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_423_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_423_screen.png">
+	<title>1000 ways to kill a Buffalo - Blake Mizerany - Mountain rb 2010</title>
+	<contentId>423</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/643/original/1000_ways_to_kill_a_buffalo-mizerany-large.mp4?1290281963</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/642/original/1000_ways_to_kill_a_buffalo-mizerany-small.mp4?1290281947</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_422_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_422_screen.png">
+	<title>Forms Don't Have to be this Complicated - Paul Sadauskas - Mountain rb 2010</title>
+	<contentId>422</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/645/original/forms_dont_have_to_be_this_complicated-sadauskas-large.mp4?1290282220</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/644/original/forms_dont_have_to_be_this_complicated-sadauskas-small.mp4?1290282211</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_421_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_421_screen.png">
+	<title>Frontend Testing Frontier - CJ Kihlborn - Mountain rb 2010</title>
+	<contentId>421</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/805/original/frontend_testing_frontier-kihlbom-large.mp4?1293528258</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/681/original/frontend_testing_frontier-kihlbom-small.mp4?1290572673</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_420_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_420_screen.png">
+	<title>Functionally Equivalent - Jim Remsik - Mountain rb 2010</title>
+	<contentId>420</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/680/original/functionally_equivalent-remsik-large.mp4?1290572311</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/660/original/functionally_equivalent-remsik-small.mp4?1290422950</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_419_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_419_screen.png">
+	<title>Programming and minimalism: lessons from Orwell and the Clash - Jonathan Dahl - Mountain rb 2010</title>
+	<contentId>419</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/649/original/programming_and_minimalism-dahl-large.mp4?1290419513</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/648/original/programming_and_minimalism-dahl-small.mp4?1290419505</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-11-22</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_418_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_418_screen.png">
+	<title>How to Develop without Circling the Wagons - Aaron Patterson - Mountain rb 2010</title>
+	<contentId>418</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/657/original/how_to_develop_without_circling_the_wagons-patterson-large.mp4?1290422134</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/656/original/how_to_develop_without_circling_the_wagons-patterson-small.mp4?1290422126</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_429_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_429_screen.png">
+	<title>Panel Session - Dr. Nic Williams - Mountain rb 2010</title>
+	<contentId>429</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/655/original/panel-dr_nic-large.mp4?1290421912</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/654/original/panel-dr_nic-small.mp4?1290421886</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_417_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_417_screen.png">
+	<title>Avoiding the Seven Year Itch - Jay Zeschin - Mountain rb 2010</title>
+	<contentId>417</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/667/original/avoiding_the_seven_year_itch-zeschin-large.mp4?1290452545</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/666/original/avoiding_the_seven_year_itch-zeschin-small.mp4?1290452530</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-11-22</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_416_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_416_screen.png">
+	<title>Introduction to Geospatial Programming with GeoRuby, PostGIS, and OpenLayers - Peter Jackson - Mountain rb 2010</title>
+	<contentId>416</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/675/original/introduction_to_geospatial_programming-jackson-large.mp4?1290460820</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/674/original/introduction_to_geospatial_programming-jackson-small.mp4?1290460798</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_415_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_415_screen.png">
+	<title>Everyone should know a little about Sales - Joe O'Brien - Mountain rb 2010</title>
+	<contentId>415</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/653/original/everyone_should_know_a_little_about_sales-obrien-large.mp4?1290420727</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/652/original/everyone_should_know_a_little_about_sales-obrien-small.mp4?1290420718</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_414_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_414_screen.png">
+	<title>Staking your Claim in OSS - Evan Phoenix - Mountain rb 2010</title>
+	<contentId>414</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/679/original/staking_your_claim_in_oss-phoenix-large.mp4?1290570588</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/670/original/staking_your_claim_in_oss-phoenix-small.mp4?1290458250</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-11-22</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_413_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_413_screen.png">
+	<title>Reia: Ruby Evolved - Tony Arcieri - Mountain rb 2010</title>
+	<contentId>413</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/673/original/reia_ruby_evolved-arcieri-large.mp4?1290459739</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/672/original/reia_ruby_evolved-arcieri-small.mp4?1290459730</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_411_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_411_screen.png">
+	<title>Do not Bring a Sword to a Gun Fight - Wayne E.  Seguin - Mountain rb 2010</title>
+	<contentId>411</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/651/original/do_not_bring_a_sword_to_a_gun_fight-seguin-large.mp4?1290420015</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/650/original/do_not_bring_a_sword_to_a_gun_fight-seguin-small.mp4?1290420006</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_410_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_410_screen.png">
+	<title>Ruby on Android with Ruboto - Jay McGavren - Mountain rb 2010</title>
+	<contentId>410</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/669/original/ruby_on_android_with_ruboto-mcgavren-large.mp4?1290452946</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/668/original/ruby_on_android_with_ruboto-mcgavren-small.mp4?1290452936</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_409_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_409_screen.png">
+	<title>Keynote: To Infinity and Beyond - Jim Weirich - Mountain rb 2010</title>
+	<contentId>409</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/678/original/to_infinity_and_beyond-weirich-large.mp4?1290463952</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/662/original/to_infinity_and_beyond-weirich-small.mp4?1290452095</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-11-22</publish_date>
+	</item>
+</feed>

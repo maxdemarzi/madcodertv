@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_153_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_153_screen.png">
+	<title>New Relic: Web App Performance Monitoring / Paul MacCready - Gossamer Condor - Bjorn Freeman-Benson - LA Ruby Conference 2010</title>
+	<contentId>153</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/197/original/20-feb-2010-13-30-new-relic-web-app-performance-monitoring-paul-maccready-gossamer-condor-bjorn-freeman-benson-large.mp4?1284067570</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/196/original/20-feb-2010-13-30-new-relic-web-app-performance-monitoring-paul-maccready-gossamer-condor-bjorn-freeman-benson-small.mp4?1284067570</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_152_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_152_screen.png">
+	<title>Everything you ever wanted to know about threads and fibers but were afraid to ask - Joe Damato, Aman Gupta - LA Ruby Conference 2010</title>
+	<contentId>152</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/195/original/20-feb-2010-11-45-everything-you-ever-wanted-to-know-about-threads-and-fibers-but-were-afraid-to-ask-joe-damato-aman-gupta-large.mp4?1284067380</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/194/original/20-feb-2010-11-45-everything-you-ever-wanted-to-know-about-threads-and-fibers-but-were-afraid-to-ask-joe-damato-aman-gupta-small.mp4?1284067376</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_151_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_151_screen.png">
+	<title>Indoctrinating the Next Generation: Teaching Ruby to Kids - Sarah Mei - LA Ruby Conference 2010</title>
+	<contentId>151</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/193/original/20-feb-2010-10-55-indoctrinating-the-next-generation-teaching-ruby-to-kids-sarah-mei-large.mp4?1284066863</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/192/original/20-feb-2010-10-55-indoctrinating-the-next-generation-teaching-ruby-to-kids-sarah-mei-small.mp4?1284066860</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_150_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_150_screen.png">
+	<title>Alternative Data Structures in Ruby - Tyler McMullen - LA Ruby Conference 2010</title>
+	<contentId>150</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/187/original/20-feb-2010-10-05-alternative-data-structures-in-ruby-tyler-mcmullen-large.mp4?1284062811</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/186/original/20-feb-2010-10-05-alternative-data-structures-in-ruby-tyler-mcmullen-small.mp4?1284062809</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_138_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_138_screen.png">
+	<title>Oh S***: How to bring a big Rails website down (and how not to) - Tim Morgan - LA Ruby Conference 2010</title>
+	<contentId>138</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/185/original/20-feb-2010-09-15-oh-s-how-to-bring-a-big-rails-website-down-and-how-not-to-tim-morgan-large.mp4?1284062389</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/184/original/20-feb-2010-09-15-oh-s-how-to-bring-a-big-rails-website-down-and-how-not-to-tim-morgan-small.mp4?1284062386</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+</feed>

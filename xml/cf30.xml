@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_319_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_319_screen.png">
+	<title>JRuby on Rails - Nick Sieger - JRuby Conference 2009</title>
+	<contentId>319</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/201/original/22-nov-2009-11-00-jruby-on-rails-nick-sieger-large.mp4?1284068525</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/200/original/22-nov-2009-11-00-jruby-on-rails-nick-sieger-small.mp4?1284068522</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_318_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_318_screen.png">
+	<title>JRuby State of the Union - Charles Nutter, Thomas Enebo - JRuby Conference 2009</title>
+	<contentId>318</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/199/original/22-nov-2009-10-00-jruby-state-of-the-union-charles-nutter-and-tom-enebo-large.mp4?1284068371</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/198/original/22-nov-2009-10-00-jruby-state-of-the-union-charles-nutter-and-tom-enebo-small.mp4?1284068368</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+</feed>

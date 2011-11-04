@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_367_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_367_screen.png">
+	<title>Hidden Gems of Ruby 1.9 - Aaron Patterson - Golden Gate Ruby Conference 2010</title>
+	<contentId>367</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1206/original/367-gogaruco2010-hidden-gems-of-ruby-1-9-large.mp4?1303097837</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1205/original/367-gogaruco2010-hidden-gems-of-ruby-1-9-small.mp4?1303097820</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-04-16</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_365_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_365_screen.png">
+	<title>Arel: The Ruby Relational Algebra Library - Bryan Helmkamp - Golden Gate Ruby Conference 2010</title>
+	<contentId>365</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1212/original/365-gogaruco2010-arel-the-ruby-relational-algebra-library-large.mp4?1303141488</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1211/original/365-gogaruco2010-arel-the-ruby-relational-algebra-library-small.mp4?1303141426</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-04-16</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_366_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_366_screen.png">
+	<title>Lightning Talks - Various Presenters - Golden Gate Ruby Conference 2010</title>
+	<contentId>366</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1209/original/366-gogaruco2010-lightning-talks-large.mp4?1303098159</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1208/original/366-gogaruco2010-lightning-talks-small.mp4?1303098135</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-04-17</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_364_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_364_screen.png">
+	<title>Workflow - Ryan Davis - Golden Gate Ruby Conference 2010</title>
+	<contentId>364</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1215/original/364-gogaruco2010-workflow-large.mp4?1303142028</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1214/original/364-gogaruco2010-workflow-small.mp4?1303142014</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-04-16</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_363_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_363_screen.png">
+	<title>The Shell Hater's Handbook - Ryan Tomayko - Golden Gate Ruby Conference 2010</title>
+	<contentId>363</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1178/original/363-gogaruco2010-the-shell-hater-s-handbook-large.mp4?1302905447</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1177/original/363-gogaruco2010-the-shell-hater-s-handbook-small.mp4?1302905412</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-04-14</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_362_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_362_screen.png">
+	<title>The Revolution will not be Tweeted - Rich Kilmer - Golden Gate Ruby Conference 2010</title>
+	<contentId>362</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1187/original/362-gogaruco2010-the-revolution-will-not-be-tweeted-large.mp4?1303088991</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1186/original/362-gogaruco2010-the-revolution-will-not-be-tweeted-small.mp4?1303088971</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_361_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_361_screen.png">
+	<title>Intelligent Ruby: Getting Started with Machine Learning - Ilya Grigorik - Golden Gate Ruby Conference 2010</title>
+	<contentId>361</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1184/original/361-gogaruco2010-intelligent-ruby-getting-started-with-machine-learning-large.mp4?1303008349</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1183/original/361-gogaruco2010-intelligent-ruby-getting-started-with-machine-learning-small.mp4?1303008337</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-04-16</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_360_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_360_screen.png">
+	<title>Eschew Obfuscation and Omit Needless Words: Writing Clear Acceptance Tests - Elisabeth Hendrickson - Golden Gate Ruby Conference 2010</title>
+	<contentId>360</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1181/original/360-gogaruco2010-eschew-obfuscation-and-omit-needless-words-writing-clear-acceptance-tests-large.mp4?1303002965</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1180/original/360-gogaruco2010-eschew-obfuscation-and-omit-needless-words-writing-clear-acceptance-tests-small.mp4?1303002953</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-04-15</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_359_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_359_screen.png">
+	<title>Rails is Obsolete (But So's Everything Else) - Avi Bryant - Golden Gate Ruby Conference 2010</title>
+	<contentId>359</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1161/original/359-gogaruco2010-rails-is-obsolete-but-so-s-everything-else-large.mp4?1302671486</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1160/original/359-gogaruco2010-rails-is-obsolete-but-so-s-everything-else-small.mp4?1302671436</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-04-10</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_358_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_358_screen.png">
+	<title>Polyglot: When Ruby isn't enough or even sane - Blake Mizerany - Golden Gate Ruby Conference 2010</title>
+	<contentId>358</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1132/original/358-gogaruco2010-polyglot-when-ruby-isn-t-enough-or-even-sane-large.mp4?1302380087</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1131/original/358-gogaruco2010-polyglot-when-ruby-isn-t-enough-or-even-sane-small.mp4?1302379997</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-04-03</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_357_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_357_screen.png">
+	<title>Test-First Teaching - Sarah Allen - Golden Gate Ruby Conference 2010</title>
+	<contentId>357</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1129/original/357-gogaruco2010-test-first-teaching-large.mp4?1302379976</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1128/original/357-gogaruco2010-test-first-teaching-small.mp4?1302379914</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-04-03</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_356_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_356_screen.png">
+	<title>Keynote: (Parenthetically Speaking) - Jim Weirich - Golden Gate Ruby Conference 2010</title>
+	<contentId>356</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1808/original/356-gogaruco2010-keynote-parenthetically-speaking-large.mp4?1312535539</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1807/original/356-gogaruco2010-keynote-parenthetically-speaking-small.mp4?1312535504</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-04-29</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_355_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_355_screen.png">
+	<title>Bryan's ActieModel Extravaganza - Bryan Liles - Golden Gate Ruby Conference 2010</title>
+	<contentId>355</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1119/original/355-gogaruco2010-bryan-s-actiemodel-extravaganza-large.mp4?1301936825</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1118/original/355-gogaruco2010-bryan-s-actiemodel-extravaganza-small.mp4?1301936798</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-04-03</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_354_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_354_screen.png">
+	<title>Extending Rails 3 - Yehuda Katz - Golden Gate Ruby Conference 2010</title>
+	<contentId>354</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1116/original/354-gogaruco2010-extending-rails-3-large.mp4?1301936736</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1115/original/354-gogaruco2010-extending-rails-3-small.mp4?1301936721</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-04-03</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_353_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_353_screen.png">
+	<title>Data-Driven Government and the Ruby Developer - Eric Mill - Golden Gate Ruby Conference 2010</title>
+	<contentId>353</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1113/original/353-gogaruco2010-data-driven-government-and-the-ruby-developer-large.mp4?1301936659</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1112/original/353-gogaruco2010-data-driven-government-and-the-ruby-developer-small.mp4?1301936633</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-04-03</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_352_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_352_screen.png">
+	<title>Ruby APIs for NoSQL - Sarah Mei - Golden Gate Ruby Conference 2010</title>
+	<contentId>352</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1110/original/352-gogaruco2010-ruby-apis-for-nosql-large.mp4?1301936555</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1109/original/352-gogaruco2010-ruby-apis-for-nosql-small.mp4?1301936513</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-04-03</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_351_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_351_screen.png">
+	<title>Real World Ruby Testing - Rein Henrichs - Golden Gate Ruby Conference 2010</title>
+	<contentId>351</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1103/original/351-gogaruco2010-real-world-ruby-testing-large.mp4?1301930901</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1102/original/351-gogaruco2010-real-world-ruby-testing-small.mp4?1301930868</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-04-02</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_350_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_350_screen.png">
+	<title>Being Your Best Asset and Not Your Worst Enemy - Evan Phoenix - Golden Gate Ruby Conference 2010</title>
+	<contentId>350</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1099/original/350-gogaruco2010-being-your-best-asset-and-not-your-worst-enemy-large.mp4?1301881806</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1098/original/350-gogaruco2010-being-your-best-asset-and-not-your-worst-enemy-small.mp4?1301881782</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-04-02</publish_date>
+	</item>
+</feed>

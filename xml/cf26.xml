@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_406_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_406_screen.png">
+	<title>Spork - Tim C. Harper - Lone Star Ruby Conference 2009</title>
+	<contentId>406</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/620/original/tim-harper-large.mp4?1288149288</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/619/original/tim-harper-small.mp4?1288149285</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-25</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_405_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_405_screen.png">
+	<title>HTML 5 and CSS3 - Dallas Pool - Lone Star Ruby Conference 2009</title>
+	<contentId>405</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/616/original/dallas-pool-large.mp4?1288149190</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/615/original/dallas-pool-small.mp4?1288149187</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-25</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_404_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_404_screen.png">
+	<title>Goals for Prawn 1.0 - Gregory Brown - Lone Star Ruby Conference 2009</title>
+	<contentId>404</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/612/original/gregory-brown-large.mp4?1288140728</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/611/original/gregory-brown-small.mp4?1288140723</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-25</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_402_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_402_screen.png">
+	<title>XMPP and Application Messaging - Bheeshmar Redheendran, Weston Sewell - Lone Star Ruby Conference 2009</title>
+	<contentId>402</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/605/original/bheeshmar-redheendran-weston-sewell-large.mp4?1288132164</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/604/original/bheeshmar-redheendran-weston-sewell-small.mp4?1288132159</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-25</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_401_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_401_screen.png">
+	<title>MongoDB - Jim Mullholland - Lone Star Ruby Conference 2009</title>
+	<contentId>401</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/601/original/jim-mulholland-large.mp4?1288126368</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/600/original/jim-mulholland-small.mp4?1288126360</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-25</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_210_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_210_screen.png">
+	<title>Rails, Search Engines, and Faceted Navigation - Bruce Tate - Lone Star Ruby Conference 2009</title>
+	<contentId>210</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/573/original/rails-search-engines-and-faceted-navigation-bruce-tate-28-aug-2009-large.mp4?1288058111</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/572/original/rails-search-engines-and-faceted-navigation-bruce-tate-28-aug-2009-small.mp4?1288058108</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-24</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_211_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_211_screen.png">
+	<title>So who wants to be a Munger? - Dana Grey - Lone Star Ruby Conference 2009</title>
+	<contentId>211</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/594/original/dana-grey-large.mp4?1288124122</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/593/original/dana-grey-small.mp4?1288124112</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-25</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_208_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_208_screen.png">
+	<title>Walking in the Clouds - Grant Schofield - Lone Star Ruby Conference 2009</title>
+	<contentId>208</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/571/original/walking-in-the-clouds-grant-schofield-28-aug-2009-large.mp4?1288057767</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/570/original/walking-in-the-clouds-grant-schofield-28-aug-2009-small.mp4?1288057762</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-24</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_209_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_209_screen.png">
+	<title>Playing nice with others - Tools for mixed language environments - Jeremy Hinegardner - Lone Star Ruby Conference 2009</title>
+	<contentId>209</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/599/original/jeremy-hinegardner-large.mp4?1288125771</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/590/original/jeremy-hinegardner-small.mp4?1288086331</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-25</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_206_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_206_screen.png">
+	<title>Rails in the Cloud - Ian Warshak - Lone Star Ruby Conference 2009</title>
+	<contentId>206</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/569/original/rails-in-the-cloud-ian-warshak-28-aug-2009-large.mp4?1288057723</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/568/original/rails-in-the-cloud-ian-warshak-28-aug-2009-small.mp4?1288057719</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-24</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_207_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_207_screen.png">
+	<title>Dataflow: declarative concurrency in rails - Larry Diehl - Lone Star Ruby Conference 2009</title>
+	<contentId>207</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/589/original/larry-diehl-large.mp4?1288081623</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/588/original/larry-diehl-small.mp4?1288081618</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-24</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_204_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_204_screen.png">
+	<title>Ruby for Startups - Mike Subelsky - Lone Star Ruby Conference 2009</title>
+	<contentId>204</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/575/original/ruby-for-startups-mike-subelsky-28-aug-2009-large.mp4?1288058196</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/574/original/ruby-for-startups-mike-subelsky-28-aug-2009-small.mp4?1288058192</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-24</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_205_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_205_screen.png">
+	<title>Checking under the Hood: A guide to Rails Engines - Mike Perham - Lone Star Ruby Conference 2009</title>
+	<contentId>205</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/583/original/mike-perham-large.mp4?1288070397</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/582/original/mike-perham-small.mp4?1288070395</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-24</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_203_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_203_screen.png">
+	<title>R-House - Fernand Galiana - Lone Star Ruby Conference 2009</title>
+	<contentId>203</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/577/original/fernand-galiana-large.mp4?1288070244</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/576/original/fernand-galiana-small.mp4?1288070233</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-24</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_201_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_201_screen.png">
+	<title>Module Magic - James Edward Gray II - Lone Star Ruby Conference 2009</title>
+	<contentId>201</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/561/original/module-magic-james-edward-gray-ii-28-aug-2009-large.mp4?1288057249</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/560/original/module-magic-james-edward-gray-ii-28-aug-2009-small.mp4?1288057246</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-24</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_200_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_200_screen.png">
+	<title>Programming Intuition - Glenn Vanderburg - Lone Star Ruby Conference 2009</title>
+	<contentId>200</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/565/original/programming-intuition-glenn-vanderburg-28-aug-2009-large.mp4?1288057561</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/564/original/programming-intuition-glenn-vanderburg-28-aug-2009-small.mp4?1288057558</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-24</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_139_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_139_screen.png">
+	<title>Something Interesting - Dave Thomas - Lone Star Ruby Conference 2009</title>
+	<contentId>139</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/567/original/something-interesting-dave-thomas-28-aug-2009-large.mp4?1288057615</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/566/original/something-interesting-dave-thomas-28-aug-2009-small.mp4?1288057611</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-24</publish_date>
+	</item>
+</feed>

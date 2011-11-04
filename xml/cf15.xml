@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_198_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_198_screen.png">
+	<title>Worst. Ideas. Ever. - Aaron Patterson, Ryan Davis - Ruby Conference 2009</title>
+	<contentId>198</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/435/original/21-nov-2009-15-05-worst-ideas-ever-aaron-patterson-and-ryan-davis-large.mp4?1286562222</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/434/original/21-nov-2009-15-05-worst-ideas-ever-aaron-patterson-and-ryan-davis-small.mp4?1286562219</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-08</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_199_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_199_screen.png">
+	<title>On the Edge of Rails Performance - Gregg Pollack - Ruby Conference 2009</title>
+	<contentId>199</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/437/original/21-nov-2009-15-05-on-the-edge-of-rails-performance-gregg-pollack-large.mp4?1286562252</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/436/original/21-nov-2009-15-05-on-the-edge-of-rails-performance-gregg-pollack-small.mp4?1286562248</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-08</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_196_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_196_screen.png">
+	<title>Ruby Mutants - Charles Nutter - Ruby Conference 2009</title>
+	<contentId>196</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/431/original/21-nov-2009-14-10-ruby-mutants-charles-nutter-large.mp4?1286562107</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/430/original/21-nov-2009-14-10-ruby-mutants-charles-nutter-small.mp4?1286562104</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-08</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_197_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_197_screen.png">
+	<title>Why "Enterprise Tools" Are Bad for the Enterprise - Glenn Vanderburg - Ruby Conference 2009</title>
+	<contentId>197</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/433/original/21-nov-2009-14-10-why-enterprise-tools-are-bad-for-the-enterprise-glenn-vanderburg-large.mp4?1286562147</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/432/original/21-nov-2009-14-10-why-enterprise-tools-are-bad-for-the-enterprise-glenn-vanderburg-small.mp4?1286562143</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-08</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_193_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_193_screen.png">
+	<title>Mobile Applications with Ruby - Sarah Allen - Ruby Conference 2009</title>
+	<contentId>193</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/425/original/21-nov-2009-11-15-mobile-applications-with-ruby-sarah-allen-large.mp4?1286561978</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/424/original/21-nov-2009-11-15-mobile-applications-with-ruby-sarah-allen-small.mp4?1286561974</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-08</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_195_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_195_screen.png">
+	<title>There is Such a Thing as Too Much Testing - Jake Scruggs - Ruby Conference 2009</title>
+	<contentId>195</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/429/original/21-nov-2009-13-15-there-is-such-a-thing-as-too-much-testing-jake-scruggs-large.mp4?1286562072</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/428/original/21-nov-2009-13-15-there-is-such-a-thing-as-too-much-testing-jake-scruggs-small.mp4?1286562069</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-08</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_192_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_192_screen.png">
+	<title>Writing 2D games for the OSX platform in Ruby - Matt Aimonetti - Ruby Conference 2009</title>
+	<contentId>192</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/421/original/21-nov-2009-10-25-writing-d-games-for-the-osx-platform-in-ruby-matt-aimonetti-large.mp4?1286561630</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/420/original/21-nov-2009-10-25-writing-d-games-for-the-osx-platform-in-ruby-matt-aimonetti-small.mp4?1286561627</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-08</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_194_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_194_screen.png">
+	<title>Synchronous Reads, Asynchronous Writes - Paul Dix - Ruby Conference 2009</title>
+	<contentId>194</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/427/original/21-nov-2009-11-15-synchronous-reads-asynchronous-writes-paul-dix-large.mp4?1286562017</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/426/original/21-nov-2009-11-15-synchronous-reads-asynchronous-writes-paul-dix-small.mp4?1286562014</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-08</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_191_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_191_screen.png">
+	<title>Clojure for Ruby Programmers - Stuart Halloway - Ruby Conference 2009</title>
+	<contentId>191</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/423/original/21-nov-2009-10-25-clojure-for-ruby-programmers-stuart-halloway-large.mp4?1286561932</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/422/original/21-nov-2009-10-25-clojure-for-ruby-programmers-stuart-halloway-small.mp4?1286561929</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-08</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_190_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_190_screen.png">
+	<title>Questions and Answers with "Matz" - Yukihiro 'Matz' Matsumoto - Ruby Conference 2009</title>
+	<contentId>190</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/419/original/21-nov-2009-09-30-matz-question-answer-large.mp4?1286559786</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/419/original/21-nov-2009-09-30-matz-question-answer-large.mp4?1286559786</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-08</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_188_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_188_screen.png">
+	<title>Ruby Memory Management Hacks - Koichi Sasada - Ruby Conference 2009</title>
+	<contentId>188</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/261/original/20-nov-2009-17-15-ruby-memory-management-hacks-koichi-sasada-large.mp4?1284086815</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/260/original/20-nov-2009-17-15-ruby-memory-management-hacks-koichi-sasada-small.mp4?1284086812</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_189_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_189_screen.png">
+	<title>Making Music with Ruby:  Patterns, Context, Fun - Noah Thorpe - Ruby Conference 2009</title>
+	<contentId>189</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/263/original/20-nov-2009-17-15-making-music-with-ruby-patterns-context-fun-noah-thorp-large.mp4?1284086905</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/262/original/20-nov-2009-17-15-making-music-with-ruby-patterns-context-fun-noah-thorp-small.mp4?1284086903</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_186_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_186_screen.png">
+	<title>IronRuby - Jimmy Schementi - Ruby Conference 2009</title>
+	<contentId>186</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/257/original/20-nov-2009-16-20-ironruby-jimmy-schementi-large.mp4?1284086728</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/256/original/20-nov-2009-16-20-ironruby-jimmy-schementi-small.mp4?1284086726</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_187_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_187_screen.png">
+	<title>Rippin' off Python - Chris Wanstrath - Ruby Conference 2009</title>
+	<contentId>187</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/259/original/20-nov-2009-16-20-rippin-off-python-chris-wanstrath-large.mp4?1284086774</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/258/original/20-nov-2009-16-20-rippin-off-python-chris-wanstrath-small.mp4?1284086771</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_184_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_184_screen.png">
+	<title>Rubinius in One Act OR Rubinius: A War on Two Fronts - Evan Phoenix - Ruby Conference 2009</title>
+	<contentId>184</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/253/original/20-nov-2009-15-05-rubinius-in-one-act-or-rubinius-a-war-on-two-fronts-evan-phoenix-large.mp4?1284086643</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/252/original/20-nov-2009-15-05-rubinius-in-one-act-or-rubinius-a-war-on-two-fronts-evan-phoenix-small.mp4?1284086640</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_185_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_185_screen.png">
+	<title>SOLID Ruby - Jim Weirich - Ruby Conference 2009</title>
+	<contentId>185</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/255/original/20-nov-2009-15-05-solid-ruby-jim-weirich-large.mp4?1284086680</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/254/original/20-nov-2009-15-05-solid-ruby-jim-weirich-small.mp4?1284086678</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_183_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_183_screen.png">
+	<title>Scaling an App Engine with Ruby and Duby - John Woodell, Ryan Brown - Ruby Conference 2009</title>
+	<contentId>183</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/251/original/20-nov-2009-14-10-scaling-on-app-engine-with-ruby-and-duby-john-woodell-and-ryan-brown-large.mp4?1284086595</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/250/original/20-nov-2009-14-10-scaling-on-app-engine-with-ruby-and-duby-john-woodell-and-ryan-brown-small.mp4?1284086591</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_180_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_180_screen.png">
+	<title>JRuby Everywhere! - Charles Nutter, Thomas Enebo - Ruby Conference 2009</title>
+	<contentId>180</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/247/original/20-nov-2009-13-15-jruby-everywhere-charles-nutter-and-thomas-enebo-large.mp4?1284086514</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/246/original/20-nov-2009-13-15-jruby-everywhere-charles-nutter-and-thomas-enebo-small.mp4?1284086512</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_181_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_181_screen.png">
+	<title>Aqua: A Cool, Clear Drink of Ruby Object Persistence - Kane Baccigalupi - Ruby Conference 2009</title>
+	<contentId>181</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/249/original/20-nov-2009-13-15-aqua-a-cool-clear-drink-of-ruby-object-persistence-kane-baccigalupi-large.mp4?1284086563</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/248/original/20-nov-2009-13-15-aqua-a-cool-clear-drink-of-ruby-object-persistence-kane-baccigalupi-small.mp4?1284086560</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_178_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_178_screen.png">
+	<title>Using Ruby to Generate Faster Ruby Code through Partial Evaluation - Andy Keep - Ruby Conference 2009</title>
+	<contentId>178</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/243/original/20-nov-2009-11-15-using-ruby-to-generate-faster-ruby-code-through-partial-evaluation-andy-keep-large.mp4?1284086420</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/242/original/20-nov-2009-11-15-using-ruby-to-generate-faster-ruby-code-through-partial-evaluation-andy-keep-small.mp4?1284086418</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_179_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_179_screen.png">
+	<title>Gemcutter: The Next Step in Gem Hosting - Nick Quaranto - Ruby Conference 2009</title>
+	<contentId>179</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/245/original/20-nov-2009-11-15-gemcutter-the-next-step-in-gem-hosting-nick-quaranto-large.mp4?1284086457</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/244/original/20-nov-2009-11-15-gemcutter-the-next-step-in-gem-hosting-nick-quaranto-small.mp4?1284086454</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_174_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_174_screen.png">
+	<title>NoSQL: Death to Relational Databases - Ben Scofield - Ruby Conference 2009</title>
+	<contentId>174</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/233/original/20-nov-2009-09-30-nosql-death-to-relational-databases-ben-scofield-large.mp4?1284086202</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/232/original/20-nov-2009-09-30-nosql-death-to-relational-databases-ben-scofield-small.mp4?1284086200</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_175_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_175_screen.png">
+	<title>Towards a Ruby compiler - Caleb Clausen - Ruby Conference 2009</title>
+	<contentId>175</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/235/original/20-nov-2009-09-30-towards-a-ruby-compiler-caleb-clausen-large.mp4?1284086245</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/234/original/20-nov-2009-09-30-towards-a-ruby-compiler-caleb-clausen-small.mp4?1284086243</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_176_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_176_screen.png">
+	<title>Ruby Game Development with Jemini - Logan Barnett, Jay McGavren - Ruby Conference 2009</title>
+	<contentId>176</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/241/original/20-nov-2009-10-25-ruby-game-development-with-jemini-logan-barnett-and-jay-mcgavren-large.mp4?1284086333</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/240/original/20-nov-2009-10-25-ruby-game-development-with-jemini-logan-barnett-and-jay-mcgavren-small.mp4?1284086332</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_177_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_177_screen.png">
+	<title>Polishing Rubygems - Yehuda Katz - Ruby Conference 2009</title>
+	<contentId>177</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/239/original/20-nov-2009-10-25-polishing-rubygems-yehuda-katz-large.mp4?1284086302</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/238/original/20-nov-2009-10-25-polishing-rubygems-yehuda-katz-small.mp4?1284086299</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_172_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_172_screen.png">
+	<title>Hacking parse.y - Tatsuhiro Ujihisa - Ruby Conference 2009</title>
+	<contentId>172</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/229/original/19-nov-2009-17-15-hacking-parsey-tatsuhiro-ujihisa-large.mp4?1284086110</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/228/original/19-nov-2009-17-15-hacking-parsey-tatsuhiro-ujihisa-small.mp4?1284086107</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_173_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_173_screen.png">
+	<title>How TDD Missed the Point: Introducing EDD - Nathaniel Talbott - Ruby Conference 2009</title>
+	<contentId>173</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/231/original/19-nov-2009-17-15-how-tdd-missed-the-point-introducing-edd-nathaniel-talbott-large.mp4?1284086146</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/230/original/19-nov-2009-17-15-how-tdd-missed-the-point-introducing-edd-nathaniel-talbott-small.mp4?1284086144</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_170_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_170_screen.png">
+	<title>Getting Non-Relational with MongoDB - Michael Dirolf - Ruby Conference 2009</title>
+	<contentId>170</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/225/original/19-nov-2009-16-20-getting-non-relational-with-mongodb-michael-dirolf-large.mp4?1284085889</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/224/original/19-nov-2009-16-20-getting-non-relational-with-mongodb-michael-dirolf-small.mp4?1284085886</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_171_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_171_screen.png">
+	<title>Indoctrinating the Next Generation: Teaching Ruby to Kids - Sarah Mei - Ruby Conference 2009</title>
+	<contentId>171</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/227/original/19-nov-2009-16-20-indoctrinating-the-next-generation-teaching-ruby-to-kids-sarah-mei-large.mp4?1284086045</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/226/original/19-nov-2009-16-20-indoctrinating-the-next-generation-teaching-ruby-to-kids-sarah-mei-small.mp4?1284086043</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_168_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_168_screen.png">
+	<title>FFI: Creating Cross-Engine Gems - Jeremy Hinegardner - Ruby Conference 2009</title>
+	<contentId>168</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/221/original/19-nov-2009-15-05-ffi-creating-cross-engine-gems-jeremy-hinegardner-large.mp4?1284085785</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/220/original/19-nov-2009-15-05-ffi-creating-cross-engine-gems-jeremy-hinegardner-small.mp4?1284085783</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_169_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_169_screen.png">
+	<title>Flying Robot: Using Ruby and Arduino for Unmanned Aerial Vehicles - Ron Evans, Damon Evans - Ruby Conference 2009</title>
+	<contentId>169</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/223/original/19-nov-2009-15-05-flying-robot-using-ruby-and-arduino-for-unmanned-aerial-vehicles-ron-evans-and-damen-evans-large.mp4?1284085830</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/222/original/19-nov-2009-15-05-flying-robot-using-ruby-and-arduino-for-unmanned-aerial-vehicles-ron-evans-and-damen-evans-small.mp4?1284085828</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_166_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_166_screen.png">
+	<title>East Meets West - Shintaro Kakutani, Yoji Shidara, Akira Matsuda, Yuki Sonoda - Ruby Conference 2009</title>
+	<contentId>166</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/217/original/19-nov-2009-14-10-east-meets-west-yuki-sonoda-yoji-shidara-akira-matsuda-and-shintaro-kakutani-large.mp4?1284085597</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/216/original/19-nov-2009-14-10-east-meets-west-yuki-sonoda-yoji-shidara-akira-matsuda-and-shintaro-kakutani-small.mp4?1284085595</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_167_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_167_screen.png">
+	<title>Embracing Collaboration with JRuby and JavaScript - Jon Crosby - Ruby Conference 2009</title>
+	<contentId>167</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/219/original/19-nov-2009-14-10-embracing-collaboration-with-jruby-and-javascript-jon-crosby-large.mp4?1284085705</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/218/original/19-nov-2009-14-10-embracing-collaboration-with-jruby-and-javascript-jon-crosby-small.mp4?1284085702</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_164_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_164_screen.png">
+	<title>Computer Vision Using Ruby and libJIT - Jan Wedekind - Ruby Conference 2009</title>
+	<contentId>164</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/213/original/19-nov-2009-13-15-computer-vision-using-ruby-and-libjit-jan-wedekind-large.mp4?1284077950</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/212/original/19-nov-2009-13-15-computer-vision-using-ruby-and-libjit-jan-wedekind-small.mp4?1284077947</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_165_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_165_screen.png">
+	<title>DSLs, Code Generation, and New Domains for Ruby - Joel VanderWerf - Ruby Conference 2009</title>
+	<contentId>165</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/215/original/19-nov-2009-13-15-dsls-code-generation-and-new-domains-for-ruby-joel-vanderwerf-large.mp4?1284085538</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/214/original/19-nov-2009-13-15-dsls-code-generation-and-new-domains-for-ruby-joel-vanderwerf-small.mp4?1284085536</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_161_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_161_screen.png">
+	<title>Code of Art - Jeff Casimir - Ruby Conference 2009</title>
+	<contentId>161</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/209/original/19-nov-2009-11-15-code-of-art-jeff-casimir-large.mp4?1284077090</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/208/original/19-nov-2009-11-15-code-of-art-jeff-casimir-small.mp4?1284077087</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_163_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_163_screen.png">
+	<title>Bits, Bytes, and Blobs - Brian Mitchell - Ruby Conference 2009</title>
+	<contentId>163</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/210/original/19-nov-2009-11-15-bits-bytes-and-blobs-brian-mitchell-small.mp4?1284077248</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/211/original/19-nov-2009-11-15-bits-bytes-and-blobs-brian-mitchell-large.mp4?1284077250</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_160_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_160_screen.png">
+	<title>BERT and Ernie: Scaling your Ruby site with Erlang - Tom Preston-Werner - Ruby Conference 2009</title>
+	<contentId>160</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/205/original/19-nov-2009-10-25-bert-and-ernie-scaling-your-ruby-site-with-erlang-tom-preston-werner-large.mp4?1284076948</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/204/original/19-nov-2009-10-25-bert-and-ernie-scaling-your-ruby-site-with-erlang-tom-preston-werner-small.mp4?1284076946</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_162_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_162_screen.png">
+	<title>Just for Fun: Rediscovering Coding as a Hobby - Adam Keys - Ruby Conference 2009</title>
+	<contentId>162</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/207/original/19-nov-2009-10-25-just-for-fun-rediscovering-coding-as-a-hobby-adam-keys-large.mp4?1284077052</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/206/original/19-nov-2009-10-25-just-for-fun-rediscovering-coding-as-a-hobby-adam-keys-small.mp4?1284077050</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_159_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_159_screen.png">
+	<title>Keynote Address - Yukihiro 'Matz' Matsumoto - Ruby Conference 2009</title>
+	<contentId>159</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/203/original/19-nov-2009-09-00-keynote-yukuhiro-matz-matsumoto-large.mp4?1284076877</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/202/original/19-nov-2009-09-00-keynote-yukuhiro-matz-matsumoto-small.mp4?1284076875</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+</feed>

@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_565_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_565_screen.png">
+	<title>Closing Keynote - Chad Fowler - Scotland Ruby  2011</title>
+	<contentId>565</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1533/original/ML2_06_ChadFowler.mp4?1306031969</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1561/original/565-scotlandruby2011-closing-keynote-small.mp4?1306034266</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-05-21</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_553_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_553_screen.png">
+	<title>What Ruby Can Learn From Smalltalk - Steven Baker - Scotland Ruby  2011</title>
+	<contentId>553</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1472/original/GH2_05_StevenBaker.mp4?1305885364</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1483/original/553-scotlandruby2011-what-ruby-can-learn-from-smalltalk-small.mp4?1305886155</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_564_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_564_screen.png">
+	<title>Real Time Rack - Konstantin Haase - Scotland Ruby  2011</title>
+	<contentId>564</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1555/original/ML2_05_KonstantinHaase.mp4?1306033828</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1603/original/564-scotlandruby2011-real-time-rack-small.mp4?1306110460</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_576_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_576_screen.png">
+	<title>Time for a career health check? - Keavy McMinn - Scotland Ruby  2011</title>
+	<contentId>576</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1473/original/LIB2_05_KeavyMcMinn.mp4?1305885426</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1487/original/576-scotlandruby2011-time-for-a-career-health-check-small.mp4?1305887027</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_552_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_552_screen.png">
+	<title>On the Papers of Giants: Understanding data storage - Ethan Gunderson - Scotland Ruby  2011</title>
+	<contentId>552</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1549/original/GH2_04_EthanGunderson.mp4?1306033387</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1593/original/552-scotlandruby2011-on-the-papers-of-giants-understanding-data-storage-small.mp4?1306039091</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-05-21</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_563_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_563_screen.png">
+	<title>Practical Strategies for securing your web application - Rory McCune - Scotland Ruby  2011</title>
+	<contentId>563</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1550/original/ML2_04_RoryMcCune.mp4?1306033433</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1599/original/563-scotlandruby2011-practical-strategies-for-securing-your-web-application-small.mp4?1306109174</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_551_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_551_screen.png">
+	<title>Testing outside of the Ruby world - Joseph Wilk - Scotland Ruby  2011</title>
+	<contentId>551</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1948/original/GH2_03_JosephWilk.mp4?1317100251</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1951/original/551-scotlandruby2011-testing-outside-of-the-ruby-world-small.mp4?1317103200</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-09-26</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_562_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_562_screen.png">
+	<title>Don't build another Tower of Babel! - Enrique Comba Riepenhausen - Scotland Ruby  2011</title>
+	<contentId>562</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1547/original/ML2_03_EnriqueCombaRiepenhausen.mp4?1306033293</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1589/original/562-scotlandruby2011-don-t-build-another-tower-of-babel-small.mp4?1306038924</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_574_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_574_screen.png">
+	<title>Ruby Makes You Happy - Gustin Prudner - Scotland Ruby  2011</title>
+	<contentId>574</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1548/original/LIB2_03_GustinPrudner.mp4?1306033335</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1591/original/574-scotlandruby2011-ruby-makes-you-happy-small.mp4?1306039019</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-05-13</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_550_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_550_screen.png">
+	<title>Real Software Engineering - Glenn Vanderburg - Scotland Ruby  2011</title>
+	<contentId>550</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1544/original/GH2_02_GlennVanderburg.mp4?1306032910</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1575/original/550-scotlandruby2011-real-software-engineering-small.mp4?1306036306</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_561_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_561_screen.png">
+	<title>The Front End Testing Frontier - CJ Kihlborn, Jonas Nicklas - Scotland Ruby  2011</title>
+	<contentId>561</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1545/original/ML2_02_JNicklasCJKihlbom.mp4?1306032964</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1577/original/561-scotlandruby2011-the-front-end-testing-frontier-small.mp4?1306036357</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_573_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_573_screen.png">
+	<title>Ruby gets wet - Arduino an Underwater ROV and Macruby - Martin Evans - Scotland Ruby  2011</title>
+	<contentId>573</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1546/original/LIB2_02_MartinEvans.mp4?1306033242</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1581/original/573-scotlandruby2011-ruby-gets-wet-arduino-an-underwater-rov-and-macruby-small.mp4?1306037298</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-05-21</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_549_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_549_screen.png">
+	<title>Three stories about Redis and eventmachine - Martyn Loughran - Scotland Ruby  2011</title>
+	<contentId>549</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1523/original/GH2_01_MartynLoughran.mp4?1306031091</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1536/original/549-scotlandruby2011-three-stories-about-redis-and-eventmachine-small.mp4?1306032268</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_560_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_560_screen.png">
+	<title>The Accidental Business Owner; The Myths of Self Employment and Building Businesses - Joe O'Brien - Scotland Ruby  2011</title>
+	<contentId>560</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1542/original/ML2_01_JoeOBrian.mp4?1306032787</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1595/original/560-scotlandruby2011-the-accidental-business-owner-the-myths-of-self-employment-and-building-businesses-small.mp4?1306039148</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_572_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_572_screen.png">
+	<title>Refactoring a Legacy Java Application to Rails - Nick Sieger - Scotland Ruby  2011</title>
+	<contentId>572</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1543/original/LIB2_01_NickSieger.mp4?1306032837</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1573/original/572-scotlandruby2011-refactoring-a-legacy-java-application-to-rails-small.mp4?1306036085</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_579_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_579_screen.png">
+	<title>Lightning Talks Part 2 -  - Scotland Ruby  2011</title>
+	<contentId>579</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1541/original/ML1_LighteningTalks_02.mp4?1306032739</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1559/original/579-scotlandruby2011-lightning-talks-part-2-small.mp4?1306034032</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_578_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_578_screen.png">
+	<title>Lightning Talks part 1 -  - Scotland Ruby  2011</title>
+	<contentId>578</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1540/original/ML1_LighteningTalks_01.mp4?1306032697</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1557/original/578-scotlandruby2011-lightning-talks-part-1-small.mp4?1306033987</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_548_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_548_screen.png">
+	<title>Literary Criticism for the Idle Programmer - Roland Swingler - Scotland Ruby  2011</title>
+	<contentId>548</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1514/original/GH1_06_RolandSwingler.mp4?1306030620</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1529/original/548-scotlandruby2011-literary-criticism-for-the-idle-programmer-small.mp4?1306031732</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-05-21</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_559_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_559_screen.png">
+	<title>Clouds. What you don't know could kill you! - Gar Morley - Scotland Ruby  2011</title>
+	<contentId>559</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1520/original/ML1_07_GarMorley.mp4?1306030937</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1531/original/559-scotlandruby2011-clouds-what-you-don-t-know-could-kill-you-small.mp4?1306031901</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_571_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_571_screen.png">
+	<title>Building beautiful Mac Applications with MacRuby - Brian Sam-Bodden - Scotland Ruby  2011</title>
+	<contentId>571</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1526/original/LIB1_06_BrianSam-Bodden.mp4?1306031345</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1563/original/571-scotlandruby2011-building-beautiful-mac-applications-with-macruby-small.mp4?1306034532</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-05-21</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_547_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_547_screen.png">
+	<title>From Profiling Ruby to Frankenstein Programming - Piotr Szotkowski - Scotland Ruby  2011</title>
+	<contentId>547</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1457/original/GH1_05_PiotrSzotkowski.mp4?1305883871</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1481/original/547-scotlandruby2011-from-profiling-ruby-to-frankenstein-programming-small.mp4?1305885807</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-05-20</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_570_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_570_screen.png">
+	<title>Rock the Domain Name System with Ruby - Anthony Eden - Scotland Ruby  2011</title>
+	<contentId>570</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1478/original/LIB1_05_AnthonyEden.mp4?1305885661</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1485/original/570-scotlandruby2011-rock-the-domain-name-system-with-ruby-small.mp4?1305886940</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_546_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_546_screen.png">
+	<title>Build you own clouds with Chef and Mcollective - Jonathan Weiss - Scotland Ruby  2011</title>
+	<contentId>546</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1456/original/GH1_04_JonathanWeiss.mp4?1305883445</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1468/original/546-scotlandruby2011-build-you-own-clouds-with-chef-and-mcollective-small.mp4?1305884618</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-05-20</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_557_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_557_screen.png">
+	<title>Data Stories - Jeremy Hinegardner - Scotland Ruby  2011</title>
+	<contentId>557</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1494/original/ML1_05_JeremyHinegardner.mp4?1306001871</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1507/original/557-scotlandruby2011-data-stories-small.mp4?1306022096</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_569_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_569_screen.png">
+	<title>Have Fun the Rong Way - Matt Yoho - Scotland Ruby  2011</title>
+	<contentId>569</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1509/original/LIB1_04_MatYoho.mp4?1306022288</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1527/original/569-scotlandruby2011-have-fun-the-rong-way-small.mp4?1306031478</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-05-21</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_545_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_545_screen.png">
+	<title>Great Developers Steal - Ben Scofield - Scotland Ruby  2011</title>
+	<contentId>545</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1450/original/GH1_03_BenScofield.mp4?1305883066</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1464/original/545-scotlandruby2011-great-developers-steal-small.mp4?1305884148</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-05-20</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_556_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_556_screen.png">
+	<title>Level Up! Test-driving your personal development. - Alan Gardner - Scotland Ruby  2011</title>
+	<contentId>556</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1493/original/ML1_04_AlanGardner.mp4?1306001411</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1505/original/556-scotlandruby2011-level-up-test-driving-your-personal-development-small.mp4?1306021914</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_568_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_568_screen.png">
+	<title>These are not the Credit Cards you are looking for... - Ryan Stenhouse - Scotland Ruby  2011</title>
+	<contentId>568</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1453/original/LIB1_03_RyanStenhouse.mp4?1305883140</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1466/original/568-scotlandruby2011-these-are-not-the-credit-cards-you-are-looking-for-small.mp4?1305884184</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-05-20</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_555_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_555_screen.png">
+	<title>Introduction to EventMachine and Evented Programming - Mathias Meyer - Scotland Ruby  2011</title>
+	<contentId>555</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1489/original/ML1_03_MathiasMeyer.mp4?1306001028</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1495/original/555-scotlandruby2011-introduction-to-eventmachine-and-evented-programming-small.mp4?1306002328</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_567_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_567_screen.png">
+	<title>Where Are All The Women? - Erin O'Brien - Scotland Ruby  2011</title>
+	<contentId>567</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1492/original/LIB1_02_ErinOBrien.mp4?1306001333</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1503/original/567-scotlandruby2011-where-are-all-the-women-small.mp4?1306018379</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-05-13</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_543_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_543_screen.png">
+	<title>Raise the bar, lower the pressure - Durran Jordan - Scotland Ruby  2011</title>
+	<contentId>543</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1332/original/GH1_01_DurranJordan.mp4?1305260095</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1448/original/543-scotlandruby2011-raise-the-bar-lower-the-pressure-small.mp4?1305606486</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_554_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_554_screen.png">
+	<title>Scaling Groupon - Tyler Jennings, Michael Cerna - Scotland Ruby  2011</title>
+	<contentId>554</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1438/original/ML1_02_TJennings_MCerna.mp4?1305605526</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1446/original/554-scotlandruby2011-scaling-groupon-small.mp4?1305606408</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-05-13</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_566_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_566_screen.png">
+	<title>Coding for a Cause - Chris  Parsons, Steve Tooke - Scotland Ruby  2011</title>
+	<contentId>566</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1441/original/LIB1_01_STook_CParsons.mp4?1305605641</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1444/original/566-scotlandruby2011-coding-for-a-cause-small.mp4?1305606339</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-05-13</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_542_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_542_screen.png">
+	<title>Dave Hoover's Scottish Ruby Conference Keynote - Dave Hoover - Scotland Ruby  2011</title>
+	<contentId>542</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1333/original/ML1_01_DaveHoover.mp4?1305260173</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/1434/original/542-scotlandruby2011-dave-hoover-s-scottish-ruby-conference-keynote-small.mp4?1305605084</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-05-16</publish_date>
+	</item>
+</feed>

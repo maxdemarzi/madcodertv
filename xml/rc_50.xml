@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>50</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>50</endIndex>
+	<item sdImg="http://madcoder.tv/images/rc/rc_50_screen.png" hdImg="http://madcoder.tv/images/rc/rc_50_screen.png">
+	<title>#50 Contributing to Rails</title>
+	<contentId>50</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/050-contributing-to-rails.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/050-contributing-to-rails.m4v</streamUrl>
+	</media>
+	<synopsis>The best way to contribute to the Rails project is to submit a patch. This episode shows how to do exactly that. There's also a surprise at the end that you don't want to miss!</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-06-27</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_49_screen.png" hdImg="http://madcoder.tv/images/rc/rc_49_screen.png">
+	<title>#49 Reading the API</title>
+	<contentId>49</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/049-reading-the-mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/049-reading-the-m4v</streamUrl>
+	</media>
+	<synopsis>The Rails API docs are very useful but can be difficult to read. This episode will give some tips on reading the docs and mention a few alternative sites for accessing the  Update: sorry about the broken movie, it should work now.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-06-25</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_48_screen.png" hdImg="http://madcoder.tv/images/rc/rc_48_screen.png">
+	<title>#48 Console Tricks</title>
+	<contentId>48</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/048-console-tricks.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/048-console-tricks.m4v</streamUrl>
+	</media>
+	<synopsis>The Rails console is one of my favorite tools. This episode is packed with tips and tricks on how to get the most out of the console.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-06-22</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_47_screen.png" hdImg="http://madcoder.tv/images/rc/rc_47_screen.png">
+	<title>#47 Two Many-to-Many</title>
+	<contentId>47</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/047-two-many-to-many.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/047-two-many-to-many.m4v</streamUrl>
+	</media>
+	<synopsis>There are two different ways to set up a many-to-many association in Rails. In this episode you will see how to implement both ways along with some tips on choosing the right one for your project.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-06-20</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_46_screen.png" hdImg="http://madcoder.tv/images/rc/rc_46_screen.png">
+	<title>#46 Catch-all Route</title>
+	<contentId>46</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/046-catch-all-route.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/046-catch-all-route.m4v</streamUrl>
+	</media>
+	<synopsis>Sometimes you need to add complex/dynamic routes. This is often impossible to do in routes.rb, but do not worry. It can be accomplished with a catch-all route. See how in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-06-18</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_45_screen.png" hdImg="http://madcoder.tv/images/rc/rc_45_screen.png">
+	<title>#45 RJS Tips</title>
+	<contentId>45</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/045-rjs-tips.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/045-rjs-tips.m4v</streamUrl>
+	</media>
+	<synopsis>This episode is packed with little RJS goodies. Learn the different ways to access an element, how to add "if" conditions and how to apply an effect to multiple elements.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-06-15</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_44_screen.png" hdImg="http://madcoder.tv/images/rc/rc_44_screen.png">
+	<title>#44 Debugging RJS</title>
+	<contentId>44</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/044-debugging-rjs.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/044-debugging-rjs.m4v</streamUrl>
+	</media>
+	<synopsis>RJS and AJAX can be difficult to debug. Many times you don't get any error message in the browser. Learn different techniques for solving these tricky problems in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-06-13</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_43_screen.png" hdImg="http://madcoder.tv/images/rc/rc_43_screen.png">
+	<title>#43 AJAX with RJS</title>
+	<contentId>43</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/043-ajax-with-rjs.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/043-ajax-with-rjs.m4v</streamUrl>
+	</media>
+	<synopsis>This episode will walk you through adding AJAX functionality to a form using RJS. See how to easily update multiple elements on a page.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-06-11</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_42_screen.png" hdImg="http://madcoder.tv/images/rc/rc_42_screen.png">
+	<title>#42 with_options</title>
+	<contentId>42</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/042-with-options.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/042-with-options.m4v</streamUrl>
+	</media>
+	<synopsis>Several methods in rails take a hash of options as the last argument. If you are passing the same options to several methods, you can remove this duplication by using with_options. Learn all about it in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-06-08</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_41_screen.png" hdImg="http://madcoder.tv/images/rc/rc_41_screen.png">
+	<title>#41 Conditional Validations</title>
+	<contentId>41</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/041-conditional-validations.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/041-conditional-validations.m4v</streamUrl>
+	</media>
+	<synopsis>By default, validations will take place every time the model is saved. Sometimes you only want a validation to happen when certain conditions are met. See how to do that in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-06-06</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_40_screen.png" hdImg="http://madcoder.tv/images/rc/rc_40_screen.png">
+	<title>#40 Blocks in View</title>
+	<contentId>40</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/040-blocks-in-view.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/040-blocks-in-view.m4v</streamUrl>
+	</media>
+	<synopsis>If you try to create a helper method which accepts a block, you will run into a few gotchas. Learn the secrets of blocks in views in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-06-04</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_39_screen.png" hdImg="http://madcoder.tv/images/rc/rc_39_screen.png">
+	<title>#39 Customize Field Error</title>
+	<contentId>39</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/039-customize-field-error.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/039-customize-field-error.m4v</streamUrl>
+	</media>
+	<synopsis>When a validation error occurs, Rails helpfully wraps the field in a div tag so you can style it. But sometimes you don't want this behavior. In this episode you will see how to customize it.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-06-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_38_screen.png" hdImg="http://madcoder.tv/images/rc/rc_38_screen.png">
+	<title>#38 Multibutton Form</title>
+	<contentId>38</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/038-multibutton-form.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/038-multibutton-form.m4v</streamUrl>
+	</media>
+	<synopsis>If you have a form with multiple buttons, you can detect which button was clicked by checking the passed parameters. Learn how in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-05-30</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_37_screen.png" hdImg="http://madcoder.tv/images/rc/rc_37_screen.png">
+	<title>#37 Simple Search Form</title>
+	<contentId>37</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/037-simple-search-form.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/037-simple-search-form.m4v</streamUrl>
+	</media>
+	<synopsis>A search form is quite different than other forms, this is because it does not deal with model's attributes. See a good way to add a simple search form in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-05-28</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_36_screen.png" hdImg="http://madcoder.tv/images/rc/rc_36_screen.png">
+	<title>#36 Subversion on Rails</title>
+	<contentId>36</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/036-subversion-on-rails.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/036-subversion-on-rails.m4v</streamUrl>
+	</media>
+	<synopsis>This episode will walk you through setting up a Rails project on subversion. It covers some helpful tips and gotchas you may experience along the way.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-05-25</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_35_screen.png" hdImg="http://madcoder.tv/images/rc/rc_35_screen.png">
+	<title>#35 Custom REST Actions</title>
+	<contentId>35</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/035-custom-rest-actions.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/035-custom-rest-actions.m4v</streamUrl>
+	</media>
+	<synopsis>REST adds many constraints. It restricts your controllers to seven actions. Normally this is okay, but sometimes you need to add your own custom actions. Learn how in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-05-23</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_34_screen.png" hdImg="http://madcoder.tv/images/rc/rc_34_screen.png">
+	<title>#34 Named Routes</title>
+	<contentId>34</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/034-named-routes.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/034-named-routes.m4v</streamUrl>
+	</media>
+	<synopsis>When you add a custom route, make it a named route so you have url helper methods to easily link to that new route. See episode for details.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-05-21</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_33_screen.png" hdImg="http://madcoder.tv/images/rc/rc_33_screen.png">
+	<title>#33 Making a Plugin</title>
+	<contentId>33</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/033-making-a-plugin.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/033-making-a-plugin.m4v</streamUrl>
+	</media>
+	<synopsis>You can sometimes remove a lot of duplication by generating methods dynamic. In this episode I will show you how to create a plugin which does exactly that.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-05-18</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_32_screen.png" hdImg="http://madcoder.tv/images/rc/rc_32_screen.png">
+	<title>#32 Time in Text Field</title>
+	<contentId>32</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/032-time-in-text-field.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/032-time-in-text-field.m4v</streamUrl>
+	</media>
+	<synopsis>Although Rails does allow you to edit time attributes with text fields, it's not very flexible. In this episode you will learn how to use a virtual attribute to format the time to your liking.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-05-16</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_31_screen.png" hdImg="http://madcoder.tv/images/rc/rc_31_screen.png">
+	<title>#31 Formatting Time</title>
+	<contentId>31</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/031-formatting-time.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/031-formatting-time.m4v</streamUrl>
+	</media>
+	<synopsis>Learn how to use the trusty strftime method to format a time, and see how Rails allows you to save this format for later use.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-05-14</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_30_screen.png" hdImg="http://madcoder.tv/images/rc/rc_30_screen.png">
+	<title>#30 Pretty Page Title</title>
+	<contentId>30</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/030-pretty-page-title.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/030-pretty-page-title.m4v</streamUrl>
+	</media>
+	<synopsis>If you are like me, you avoid creating page titles because it is kind of a pain. But in this episode I will show you a clean way to add titles to your pages.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-05-11</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_29_screen.png" hdImg="http://madcoder.tv/images/rc/rc_29_screen.png">
+	<title>#29 group_by Month</title>
+	<contentId>29</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/029-group-by-month.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/029-group-by-month.m4v</streamUrl>
+	</media>
+	<synopsis>Learn how to use the very useful group_by method to group an array by anything you want! In this episode I group an array of tasks by month then sort it properly.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-05-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_28_screen.png" hdImg="http://madcoder.tv/images/rc/rc_28_screen.png">
+	<title>#28 in_groups_of</title>
+	<contentId>28</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/028-in-groups-of.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/028-in-groups-of.m4v</streamUrl>
+	</media>
+	<synopsis>Have you ever wanted to visually line up items in rows and columns? The in_groups_of method makes this a cinch. Just watch out for the gotcha.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-05-07</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_27_screen.png" hdImg="http://madcoder.tv/images/rc/rc_27_screen.png">
+	<title>#27 Cross Site Scripting</title>
+	<contentId>27</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/027-cross-site-scripting.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/027-cross-site-scripting.m4v</streamUrl>
+	</media>
+	<synopsis>Another common security issue is cross site scripting. In this episode you will see why it is so important to escape any HTML a user may submit.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-05-04</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_26_screen.png" hdImg="http://madcoder.tv/images/rc/rc_26_screen.png">
+	<title>#26 Hackers Love Mass Assignment</title>
+	<contentId>26</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/026-hackers-love-mass-assignment.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/026-hackers-love-mass-assignment.m4v</streamUrl>
+	</media>
+	<synopsis>Your site may be at risk! When using mass assignment, you are giving the user complete control over that model and its associations. See how a hacker might use this vulnerability and learn how to stop it in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-05-02</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_25_screen.png" hdImg="http://madcoder.tv/images/rc/rc_25_screen.png">
+	<title>#25 SQL Injection</title>
+	<contentId>25</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/025-sql-injection.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/025-sql-injection.m4v</streamUrl>
+	</media>
+	<synopsis>One of the most common security problems for dynamic sites is SQL Injection. Thankfully Rails does everything it can in solving this issue, but you still need to be aware of it.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-04-30</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_24_screen.png" hdImg="http://madcoder.tv/images/rc/rc_24_screen.png">
+	<title>#24 The Stack Trace</title>
+	<contentId>24</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/024-the-stack-trace.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/024-the-stack-trace.m4v</streamUrl>
+	</media>
+	<synopsis>The stack trace can be a very useful tool when it comes to debugging. Learn the ins and outs of how the stack trace works in this episode. Note: I am using an older version of the Rails bundle here so it might be a little different than yours. The command in the newer version is called Install Plugin and requires you to type textmate_footnotes in the search.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-04-27</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_23_screen.png" hdImg="http://madcoder.tv/images/rc/rc_23_screen.png">
+	<title>#23 Counter Cache Column</title>
+	<contentId>23</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/023-counter-cache-column.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/023-counter-cache-column.m4v</streamUrl>
+	</media>
+	<synopsis>If you need to display the record count for a has_many association, you can improve performance by caching that number in a column.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-04-25</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_22_screen.png" hdImg="http://madcoder.tv/images/rc/rc_22_screen.png">
+	<title>#22 Eager Loading</title>
+	<contentId>22</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/022-eager-loading.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/022-eager-loading.m4v</streamUrl>
+	</media>
+	<synopsis>One way to improve performance is to cut down on the number of SQL queries. You can do this through eager loading. Learn all about it in this episode!</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-04-23</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_21_screen.png" hdImg="http://madcoder.tv/images/rc/rc_21_screen.png">
+	<title>#21 Super Simple Authentication</title>
+	<contentId>21</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/021-super-simple-authentication.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/021-super-simple-authentication.m4v</streamUrl>
+	</media>
+	<synopsis>The final piece of the administration puzzle: authentication. There are many different approaches which is why I saved this step for last. This episode will cover a few techniques including the simple solution used for this site.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-04-20</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_20_screen.png" hdImg="http://madcoder.tv/images/rc/rc_20_screen.png">
+	<title>#20 Restricting Access</title>
+	<contentId>20</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/020-restricting-access.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/020-restricting-access.m4v</streamUrl>
+	</media>
+	<synopsis>In this second part of the series on administration, you will learn how to lock down the site to keep the public from accessing the administration features.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-04-18</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_19_screen.png" hdImg="http://madcoder.tv/images/rc/rc_19_screen.png">
+	<title>#19 Where Administration Goes</title>
+	<contentId>19</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/019-where-administration-goes.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/019-where-administration-goes.m4v</streamUrl>
+	</media>
+	<synopsis>This is the first part of a three part series on building an administration system. Many developers choose to separate it completely from the public side of the site by placing it into an admin subdirectory. This episode will show you an alternative and often better solution.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-04-16</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_18_screen.png" hdImg="http://madcoder.tv/images/rc/rc_18_screen.png">
+	<title>#18 Looping Through Flash</title>
+	<contentId>18</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/018-looping-through-flash.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/018-looping-through-flash.m4v</streamUrl>
+	</media>
+	<synopsis>Displaying flash messages in the layout can be a pain at times. In this episode you will learn an easy way to display any kind of flash message by looping through the hash.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-04-13</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_17_screen.png" hdImg="http://madcoder.tv/images/rc/rc_17_screen.png">
+	<title>#17 HABTM Checkboxes</title>
+	<contentId>17</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/017-habtm-checkboxes.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/017-habtm-checkboxes.m4v</streamUrl>
+	</media>
+	<synopsis>It is often asked: how do I create a list of checkboxes for managing a HABTM association? Ask no more because this episode will show you how to do exactly that.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-04-11</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_16_screen.png" hdImg="http://madcoder.tv/images/rc/rc_16_screen.png">
+	<title>#16 Virtual Attributes</title>
+	<contentId>16</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/016-virtual-attributes.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/016-virtual-attributes.m4v</streamUrl>
+	</media>
+	<synopsis>Keep your controllers clean and forms flexible by adding virtual attributes to your model. This very powerful technique allows you to create form fields which may not directly relate to the database.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-04-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_15_screen.png" hdImg="http://madcoder.tv/images/rc/rc_15_screen.png">
+	<title>#15 Fun with Find Conditions</title>
+	<contentId>15</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/015-fun-with-find-conditions.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/015-fun-with-find-conditions.m4v</streamUrl>
+	</media>
+	<synopsis>You can pass more than simple strings to find conditions. Arrays, ranges, and nil values can be passed as well. In this episode you will see the tricks involved with passing these odd objects to find conditions. (Update: audio fixed).</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-04-06</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_14_screen.png" hdImg="http://madcoder.tv/images/rc/rc_14_screen.png">
+	<title>#14 Performing Calculations on Models</title>
+	<contentId>14</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/014-performing-calculations-on-models.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/014-performing-calculations-on-models.m4v</streamUrl>
+	</media>
+	<synopsis>Did you know ActiveRecord provides class methods for performing calculations on models? You can even use these methods through associations.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-04-04</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_13_screen.png" hdImg="http://madcoder.tv/images/rc/rc_13_screen.png">
+	<title>#13 Dangers of Model in Session</title>
+	<contentId>13</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/013-dangers-of-model-in-session.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/013-dangers-of-model-in-session.m4v</streamUrl>
+	</media>
+	<synopsis>Be careful when storing a model in a session. It will behave differently than you expect and can easily get out of sync with the database. Instead of storing the model directly in the session, store the id to the model and use that to fetch it from the database.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-04-02</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_12_screen.png" hdImg="http://madcoder.tv/images/rc/rc_12_screen.png">
+	<title>#12 Refactoring User Name Part 3</title>
+	<contentId>12</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/012-refactoring-user-name-part-3.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/012-refactoring-user-name-part-3.m4v</streamUrl>
+	</media>
+	<synopsis>In the final part of this series you will see how to refactor your tests. Keeping tests clean is important because it will make testing easier to do in the future.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-03-30</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_11_screen.png" hdImg="http://madcoder.tv/images/rc/rc_11_screen.png">
+	<title>#11 Refactoring User Name Part 2</title>
+	<contentId>11</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/011-refactoring-user-name-part-2.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/011-refactoring-user-name-part-2.m4v</streamUrl>
+	</media>
+	<synopsis>Testing and refactoring go hand in hand. Refactoring is all about improving code without changing its behavior. Testing is all about making sure you don't change the behavior while you are improving the code.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-03-28</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_10_screen.png" hdImg="http://madcoder.tv/images/rc/rc_10_screen.png">
+	<title>#10 Refactoring User Name Part 1</title>
+	<contentId>10</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/010-refactoring-user-name-part-1.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/010-refactoring-user-name-part-1.m4v</streamUrl>
+	</media>
+	<synopsis>Learn how to clean up your code through refactoring. This episode will show you how to move code from the view into the model to remove duplication and simplify the view.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-03-26</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_9_screen.png" hdImg="http://madcoder.tv/images/rc/rc_9_screen.png">
+	<title>#9 Filtering Sensitive Logs</title>
+	<contentId>9</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/009-filtering-sensitive-logs.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/009-filtering-sensitive-logs.m4v</streamUrl>
+	</media>
+	<synopsis>Are you accepting sensitive user data? Passwords, credit card numbers, etc. By default, Rails stores all submitted parameters in plain text in the logs. This episode will show you how to filter this sensitive input so it doesn't show up in the log file.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-03-23</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_8_screen.png" hdImg="http://madcoder.tv/images/rc/rc_8_screen.png">
+	<title>#8 Layouts and content_for</title>
+	<contentId>8</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/008-layouts-and-content-for.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/008-layouts-and-content-for.m4v</streamUrl>
+	</media>
+	<synopsis>If you want to change something in the layout on a per-template basis, content_for is your answer! This allows templates to specify view code that can be placed anywhere in a layout.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-03-21</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_7_screen.png" hdImg="http://madcoder.tv/images/rc/rc_7_screen.png">
+	<title>#7 All About Layouts</title>
+	<contentId>7</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/007-all-about-layouts.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/007-all-about-layouts.m4v</streamUrl>
+	</media>
+	<synopsis>Everything you wanted to know about layouts: global layouts, controller layouts, shared layouts, dynamic layouts and action layouts. Yes, there really are that many ways to specify a layout.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-03-19</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_6_screen.png" hdImg="http://madcoder.tv/images/rc/rc_6_screen.png">
+	<title>#6 Shortcut Blocks with Symbol to_proc</title>
+	<contentId>6</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/006-shortcut-blocks-with-symbol-to-proc.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/006-shortcut-blocks-with-symbol-to-proc.m4v</streamUrl>
+	</media>
+	<synopsis>It may have a goofy syntax, but the Symbol#to_proc feature Rails adds allows you to do simple blocks very quickly and easily.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-03-16</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_5_screen.png" hdImg="http://madcoder.tv/images/rc/rc_5_screen.png">
+	<title>#5 Using with_scope</title>
+	<contentId>5</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/005-using-with-scope.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/005-using-with-scope.m4v</streamUrl>
+	</media>
+	<synopsis>Learn how to use with_scope - a very powerful method which will allow your custom find methods to accept any find options. Just like magic!</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-03-14</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_4_screen.png" hdImg="http://madcoder.tv/images/rc/rc_4_screen.png">
+	<title>#4 Move Find into Model</title>
+	<contentId>4</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/004-move-find-into-model.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/004-move-find-into-model.m4v</streamUrl>
+	</media>
+	<synopsis>Move a find into the model to clean up the controllers and remove duplication. Also see how you can call these custom find methods through an association.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-03-12</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_3_screen.png" hdImg="http://madcoder.tv/images/rc/rc_3_screen.png">
+	<title>#3 Find Through Association</title>
+	<contentId>3</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/003-find-through-association.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/003-find-through-association.m4v</streamUrl>
+	</media>
+	<synopsis>No need to pass foreign keys in find conditions, just do the find through a has_many association.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-03-08</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_2_screen.png" hdImg="http://madcoder.tv/images/rc/rc_2_screen.png">
+	<title>#2 Dynamic find_by Methods</title>
+	<contentId>2</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/002-dynamic-find-by-methods.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/002-dynamic-find-by-methods.m4v</streamUrl>
+	</media>
+	<synopsis>Shorten simple finds considerably and improve readability by using the dynamic find_all_by and find_by methods.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-03-06</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_1_screen.png" hdImg="http://madcoder.tv/images/rc/rc_1_screen.png">
+	<title>#1 Caching with Instance Variables</title>
+	<contentId>1</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/001-caching-with-instance-variables.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/001-caching-with-instance-variables.m4v</streamUrl>
+	</media>
+	<synopsis>Learn a quick way to improve performance. Just store the end result of an expensive command in an instance variable!</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2007-03-04</publish_date>
+	</item>	
+</feed>

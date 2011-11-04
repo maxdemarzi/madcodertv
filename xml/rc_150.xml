@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>50</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>50</endIndex>
+	<item sdImg="http://madcoder.tv/images/rc/rc_150_screen.png" hdImg="http://madcoder.tv/images/rc/rc_150_screen.png">
+	<title>#150 Rails Metal</title>
+	<contentId>150</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/150-rails-metal.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/150-rails-metal.m4v</streamUrl>
+	</media>
+	<synopsis>Rails Metal is a way to bypass the standard Rails request process for a performance boost. In this episode you will learn how to shave off a few milliseconds using Metal.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2009-02-23</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_149_screen.png" hdImg="http://madcoder.tv/images/rc/rc_149_screen.png">
+	<title>#149 Rails Engines</title>
+	<contentId>149</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/149-rails-engines.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/149-rails-engines.m4v</streamUrl>
+	</media>
+	<synopsis>Rails 2.3 brings us much of the same functionality as the Rails Engines plugin. Learn how to embed one application into another in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2009-02-16</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_148_screen.png" hdImg="http://madcoder.tv/images/rc/rc_148_screen.png">
+	<title>#148 App Templates in Rails 2.3</title>
+	<contentId>148</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/148-app-templates-in-rails-2-3.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/148-app-templates-in-rails-2-3.m4v</streamUrl>
+	</media>
+	<synopsis>In Rails 2.3 you can provide a template when generating a new Rails application. See how in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2009-02-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_147_screen.png" hdImg="http://madcoder.tv/images/rc/rc_147_screen.png">
+	<title>#147 Sortable Lists</title>
+	<contentId>147</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/147-sortable-lists.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/147-sortable-lists.m4v</streamUrl>
+	</media>
+	<synopsis>Creating drag and drop sortable lists is fairly easy using Prototype and the built in helper methods. See how in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2009-02-02</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_146_screen.png" hdImg="http://madcoder.tv/images/rc/rc_146_screen.png">
+	<title>#146 PayPal Express Checkout</title>
+	<contentId>146</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/146-paypal-express-checkout.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/146-paypal-express-checkout.m4v</streamUrl>
+	</media>
+	<synopsis>PayPal Express Checkout is easy to add to an existing ordering system. See how in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2009-01-26</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_145_screen.png" hdImg="http://madcoder.tv/images/rc/rc_145_screen.png">
+	<title>#145 Integrating Active Merchant</title>
+	<contentId>145</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/145-integrating-active-merchant.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/145-integrating-active-merchant.m4v</streamUrl>
+	</media>
+	<synopsis>In this episode I show how to add Active Merchant's functionality to a Rails application to make a fully-functional checkout process.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2009-01-19</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_144_screen.png" hdImg="http://madcoder.tv/images/rc/rc_144_screen.png">
+	<title>#144 Active Merchant Basics</title>
+	<contentId>144</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/144-active-merchant-basics.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/144-active-merchant-basics.m4v</streamUrl>
+	</media>
+	<synopsis>Active Merchant is a great library for handling credit card transactions. In this episode I will show you the basics of using it to communicate with PayPal's gateway.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2009-01-12</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_143_screen.png" hdImg="http://madcoder.tv/images/rc/rc_143_screen.png">
+	<title>#143 PayPal Security</title>
+	<contentId>143</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/143-paypal-security.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/143-paypal-security.m4v</streamUrl>
+	</media>
+	<synopsis>This episode shows how to encrypt the variables passed to PayPal and verify the authenticity of the payment notifications (IPN).
+	
+	</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2009-01-05</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_142_screen.png" hdImg="http://madcoder.tv/images/rc/rc_142_screen.png">
+	<title>#142 PayPal Notifications</title>
+	<contentId>142</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/142-paypal-notifications.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/142-paypal-notifications.m4v</streamUrl>
+	</media>
+	<synopsis>PayPal's IPN (Instant Payment Notification) service allows your app to get confirmation when an order is processed. In this episode I use IPN to mark a cart as purchased.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-12-29</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_141_screen.png" hdImg="http://madcoder.tv/images/rc/rc_141_screen.png">
+	<title>#141 PayPal Basics</title>
+	<contentId>141</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/141-paypal-basics.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/141-paypal-basics.m4v</streamUrl>
+	</media>
+	<synopsis>This episode is the first in a series on handling the checkout process for orders. Here we show how to complete purchases through PayPal's Website Payments Standard service.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-12-22</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_140_screen.png" hdImg="http://madcoder.tv/images/rc/rc_140_screen.png">
+	<title>#140 Rails 2.2 Extras</title>
+	<contentId>140</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/140-rails-2-2-extras.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/140-rails-2-2-extras.m4v</streamUrl>
+	</media>
+	<synopsis>This episode finishes up the Rails 2.2 series by showing a few miscellaneous additions that I find useful.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-12-15</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_139_screen.png" hdImg="http://madcoder.tv/images/rc/rc_139_screen.png">
+	<title>#139 Nested Resources</title>
+	<contentId>139</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/139-nested-resources.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/139-nested-resources.m4v</streamUrl>
+	</media>
+	<synopsis>In this episode I show how to nest resources through routing and go into some new additions in Rails 2.2.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-12-08</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_138_screen.png" hdImg="http://madcoder.tv/images/rc/rc_138_screen.png">
+	<title>#138 I18n</title>
+	<contentId>138</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/138-i18n.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/138-i18n.m4v</streamUrl>
+	</media>
+	<synopsis>Internationalization is one of the biggest additions in Rails 2.2. See how the basics work in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-12-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_137_screen.png" hdImg="http://madcoder.tv/images/rc/rc_137_screen.png">
+	<title>#137 Memoization</title>
+	<contentId>137</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/137-memoization.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/137-memoization.m4v</streamUrl>
+	</media>
+	<synopsis>Rails 2.2 is out! In this episode I show how to upgrade Rails and then demonstrate one of the new additions: Memoization.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-11-24</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_136_screen.png" hdImg="http://madcoder.tv/images/rc/rc_136_screen.png">
+	<title>#136 jQuery</title>
+	<contentId>136</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/136-jquery.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/136-jquery.m4v</streamUrl>
+	</media>
+	<synopsis>How do you use jQuery with Rails? In this episode I redo episode #43 using jQuery instead of Prototype/RJS.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-11-17</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_135_screen.png" hdImg="http://madcoder.tv/images/rc/rc_135_screen.png">
+	<title>#135 Making a Gem</title>
+	<contentId>135</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/135-making-a-gem.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/135-making-a-gem.m4v</streamUrl>
+	</media>
+	<synopsis>Want to create a Ruby Gem instead of a Rails plugin? In this episode I will walk you through creating a gem to extend Rails.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-11-10</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_134_screen.png" hdImg="http://madcoder.tv/images/rc/rc_134_screen.png">
+	<title>#134 Paperclip</title>
+	<contentId>134</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/134-paperclip.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/134-paperclip.m4v</streamUrl>
+	</media>
+	<synopsis>Need to add image attachments to a model? See how with paperclip in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-11-03</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_133_screen.png" hdImg="http://madcoder.tv/images/rc/rc_133_screen.png">
+	<title>#133 Capistrano Tasks</title>
+	<contentId>133</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/133-capistrano-tasks.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/133-capistrano-tasks.m4v</streamUrl>
+	</media>
+	<synopsis>Do you know how to make Capistrano tasks? See how to change default deployment behavior with custom tasks in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-10-27</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_132_screen.png" hdImg="http://madcoder.tv/images/rc/rc_132_screen.png">
+	<title>#132 Helpers Outside Views</title>
+	<contentId>132</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/132-helpers-outside-views.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/132-helpers-outside-views.m4v</streamUrl>
+	</media>
+	<synopsis>Have you ever wanted to access helper methods outside of the view layer? In this episode I show you a couple ways to do just that.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-10-20</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_131_screen.png" hdImg="http://madcoder.tv/images/rc/rc_131_screen.png">
+	<title>#131 Going Back</title>
+	<contentId>131</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/131-going-back.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/131-going-back.m4v</streamUrl>
+	</media>
+	<synopsis>This episode demonstrates a couple ways to redirect the user back to a previous page. Applying this to your site can help minimize the user's need to press the back button.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-10-12</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_130_screen.png" hdImg="http://madcoder.tv/images/rc/rc_130_screen.png">
+	<title>#130 Monitoring with God</title>
+	<contentId>130</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/130-monitoring-with-god.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/130-monitoring-with-god.m4v</streamUrl>
+	</media>
+	<synopsis>Need to ensure your background processes stay up and running and don't use too many resources? Check out the god gem as shown in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-10-05</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_129_screen.png" hdImg="http://madcoder.tv/images/rc/rc_129_screen.png">
+	<title>#129 Custom Daemon</title>
+	<contentId>129</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/129-custom-daemon.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/129-custom-daemon.m4v</streamUrl>
+	</media>
+	<synopsis>Creating a custom daemon to handle background tasks is surprisingly simple. In this episode I will make a daemon to handle dynamically scheduled tasks.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-09-29</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_128_screen.png" hdImg="http://madcoder.tv/images/rc/rc_128_screen.png">
+	<title>#128 Starling and Workling</title>
+	<contentId>128</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/128-starling-and-workling.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/128-starling-and-workling.m4v</streamUrl>
+	</media>
+	<synopsis>Need to run a task frequently in the background? Starling and Workling is a killer combination for doing just that. See how in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-09-22</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_127_screen.png" hdImg="http://madcoder.tv/images/rc/rc_127_screen.png">
+	<title>#127 Rake in Background</title>
+	<contentId>127</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/127-rake-in-background.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/127-rake-in-background.m4v</streamUrl>
+	</media>
+	<synopsis>In need of a background process? You may be able to accomplish this with a simple Rake task. See how in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-09-15</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_126_screen.png" hdImg="http://madcoder.tv/images/rc/rc_126_screen.png">
+	<title>#126 Populating a Database</title>
+	<contentId>126</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/126-populating-a-database.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/126-populating-a-database.m4v</streamUrl>
+	</media>
+	<synopsis>Have you ever wanted to fill up a database with a lot of test data? See how to do that in this episode using the populator and faker gems.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-09-08</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_125_screen.png" hdImg="http://madcoder.tv/images/rc/rc_125_screen.png">
+	<title>#125 Dynamic Layouts</title>
+	<contentId>125</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/125-dynamic-layouts.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/125-dynamic-layouts.m4v</streamUrl>
+	</media>
+	<synopsis>Discover how to dynamically change the layout using content in the database. Check out this episode for details.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-09-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_124_screen.png" hdImg="http://madcoder.tv/images/rc/rc_124_screen.png">
+	<title>#124 Beta Invitations</title>
+	<contentId>124</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/124-beta-invitations.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/124-beta-invitations.m4v</streamUrl>
+	</media>
+	<synopsis>You know those invitation systems where a given user can invite a number of other people to join? That's what I show you how to make in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-08-25</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_123_screen.png" hdImg="http://madcoder.tv/images/rc/rc_123_screen.png">
+	<title>#123 Subdomains</title>
+	<contentId>123</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/123-subdomains.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/123-subdomains.m4v</streamUrl>
+	</media>
+	<synopsis>Learn how to unleash the full potential of subdomains with the subdomain-fu Rails plugin in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-08-18</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_122_screen.png" hdImg="http://madcoder.tv/images/rc/rc_122_screen.png">
+	<title>#122 Passenger in Development</title>
+	<contentId>122</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/122-passenger-in-development.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/122-passenger-in-development.m4v</streamUrl>
+	</media>
+	<synopsis>Tired of juggling multiple Rails apps around with script/server? See how to set up Passenger in development so each one has its own local domain name.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-08-11</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_121_screen.png" hdImg="http://madcoder.tv/images/rc/rc_121_screen.png">
+	<title>#121 Non Active Record Model</title>
+	<contentId>121</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/121-non-active-record-model.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/121-non-active-record-model.m4v</streamUrl>
+	</media>
+	<synopsis>This episode will show you how to make a model which isn't based on Active Record. You may want to do this if a resource isn't backed by the database.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-08-04</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_120_screen.png" hdImg="http://madcoder.tv/images/rc/rc_120_screen.png">
+	<title>#120 Thinking Sphinx</title>
+	<contentId>120</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/120-thinking-sphinx.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/120-thinking-sphinx.m4v</streamUrl>
+	</media>
+	<synopsis>If you need a full text search engine, Thinking Sphinx is a great solution. See why in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-07-28</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_119_screen.png" hdImg="http://madcoder.tv/images/rc/rc_119_screen.png">
+	<title>#119 Session Based Model</title>
+	<contentId>119</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/119-session-based-model.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/119-session-based-model.m4v</streamUrl>
+	</media>
+	<synopsis>If you have a lot of logic associated with the data inside a session, you'll need some central location to put this logic. See how to create a session based model in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-07-21</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_118_screen.png" hdImg="http://madcoder.tv/images/rc/rc_118_screen.png">
+	<title>#118 Liquid</title>
+	<contentId>118</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/118-liquid.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/118-liquid.m4v</streamUrl>
+	</media>
+	<synopsis>Liquid is a safe way to provide a powerful template language to the site's users. See how in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-07-14</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_117_screen.png" hdImg="http://madcoder.tv/images/rc/rc_117_screen.png">
+	<title>#117 Semi-Static Pages</title>
+	<contentId>117</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/117-semi-static-pages.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/117-semi-static-pages.m4v</streamUrl>
+	</media>
+	<synopsis>Static pages can sometimes be a little awkward to add to a Rails app. See a couple different solutions to this problem in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-07-07</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_116_screen.png" hdImg="http://madcoder.tv/images/rc/rc_116_screen.png">
+	<title>#116 Selenium</title>
+	<contentId>116</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/116-selenium.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/116-selenium.m4v</streamUrl>
+	</media>
+	<synopsis>Selenium is a great way to test your app automatically through a browser. See how it works in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-06-30</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_115_screen.png" hdImg="http://madcoder.tv/images/rc/rc_115_screen.png">
+	<title>#115 Caching in Rails 2.1</title>
+	<contentId>115</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/115-caching-in-rails-2-1.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/115-caching-in-rails-2-1.m4v</streamUrl>
+	</media>
+	<synopsis>Rails 2.1 brings some new caching features which makes it very easy to cache any values including models. See how in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-06-23</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_114_screen.png" hdImg="http://madcoder.tv/images/rc/rc_114_screen.png">
+	<title>#114 Endless Page</title>
+	<contentId>114</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/114-endless-page.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/114-endless-page.m4v</streamUrl>
+	</media>
+	<synopsis>Ever wondered how some sites seem to have endless scrolling page with no pagination? Find out how easy it is to do this in Rails in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-06-16</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_113_screen.png" hdImg="http://madcoder.tv/images/rc/rc_113_screen.png">
+	<title>#113 Contributing to Rails with Git</title>
+	<contentId>113</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/113-contributing-to-rails-with-git.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/113-contributing-to-rails-with-git.m4v</streamUrl>
+	</media>
+	<synopsis>If you want Rails to behave a certain way, try changing it and submitting a patch. This episode will show how to do exactly this using Git.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-06-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_112_screen.png" hdImg="http://madcoder.tv/images/rc/rc_112_screen.png">
+	<title>#112 Anonymous Scopes</title>
+	<contentId>112</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/112-anonymous-scopes.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/112-anonymous-scopes.m4v</streamUrl>
+	</media>
+	<synopsis>The scoped method allows you to generate named scopes on the fly. In this episode I show how to use anonymous scopes to improve the conditional logic which was used in the previous episode on advanced search form.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-06-02</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_111_screen.png" hdImg="http://madcoder.tv/images/rc/rc_111_screen.png">
+	<title>#111 Advanced Search Form</title>
+	<contentId>111</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/111-advanced-search-form.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/111-advanced-search-form.m4v</streamUrl>
+	</media>
+	<synopsis>If you need to create an advanced search with a lot of fields, it may not be ideal to use a GET request as I showed in episode 37. In this episode I will show you how to handle this by creating a Search resource.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-05-26</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_110_screen.png" hdImg="http://madcoder.tv/images/rc/rc_110_screen.png">
+	<title>#110 Gem Dependencies</title>
+	<contentId>110</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/110-gem-dependencies.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/110-gem-dependencies.m4v</streamUrl>
+	</media>
+	<synopsis>In Rails 2.1 we now have the ability to set gem dependencies. Now it's easier than ever to specify which ruby gems our rails app relies on.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-05-23</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_109_screen.png" hdImg="http://madcoder.tv/images/rc/rc_109_screen.png">
+	<title>#109 Tracking Attribute Changes</title>
+	<contentId>109</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/109-tracking-attribute-changes.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/109-tracking-attribute-changes.m4v</streamUrl>
+	</media>
+	<synopsis>Rails 2.1 keeps track of the changes you make to a model's attributes. It also allows you to see what the previous value was. But watch out for the gotcha! See this episode for details.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-05-21</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_108_screen.png" hdImg="http://madcoder.tv/images/rc/rc_108_screen.png">
+	<title>#108 named_scope</title>
+	<contentId>108</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/108-named-scope.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/108-named-scope.m4v</streamUrl>
+	</media>
+	<synopsis>The named_scope method in Rails 2.1 makes performing finds on models very elegant and convenient. See how in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-05-19</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_107_screen.png" hdImg="http://madcoder.tv/images/rc/rc_107_screen.png">
+	<title>#107 Migrations in Rails 2.1</title>
+	<contentId>107</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/107-migrations-in-rails-2-1.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/107-migrations-in-rails-2-1.m4v</streamUrl>
+	</media>
+	<synopsis>Migrations now have a timestamp as their version number in Rails 2.1. In this episode I will explain this change as well as show you some other cool additions.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-05-16</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_106_screen.png" hdImg="http://madcoder.tv/images/rc/rc_106_screen.png">
+	<title>#106 Time Zones in Rails 2.1</title>
+	<contentId>106</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/106-time-zones-in-rails-2-1.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/106-time-zones-in-rails-2-1.m4v</streamUrl>
+	</media>
+	<synopsis>In the past, time zones have been very difficult to work with, but no longer! Rails 2.1 brings with it great time zone support as you can see in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-05-14</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_105_screen.png" hdImg="http://madcoder.tv/images/rc/rc_105_screen.png">
+	<title>#105 Gitting Rails 2.1 RC1</title>
+	<contentId>105</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/105-gitting-rails-2-1-rc1.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/105-gitting-rails-2-1-rc1.m4v</streamUrl>
+	</media>
+	<synopsis>Rails 2.1 Release Candidate 1 was just released! In this episode I will show you how to install it into your Rails project.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-05-12</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_104_screen.png" hdImg="http://madcoder.tv/images/rc/rc_104_screen.png">
+	<title>#104 Exception Notifications</title>
+	<contentId>104</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/104-exception-notifications.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/104-exception-notifications.m4v</streamUrl>
+	</media>
+	<synopsis>If you're running a production site, it's a good idea to record all exceptions which occur. See how to set up a notification system which does that in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-05-05</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_103_screen.png" hdImg="http://madcoder.tv/images/rc/rc_103_screen.png">
+	<title>#103 Site Wide Announcements</title>
+	<contentId>103</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/103-site-wide-announcements.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/103-site-wide-announcements.m4v</streamUrl>
+	</media>
+	<synopsis>Sometimes you need to display an administrative announcement to every page on the site and give the users the ability to hide the announcement. See how in this episode.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-04-28</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_102_screen.png" hdImg="http://madcoder.tv/images/rc/rc_102_screen.png">
+	<title>#102 Auto-Complete Association</title>
+	<contentId>102</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/102-auto-complete-association.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/102-auto-complete-association.m4v</streamUrl>
+	</media>
+	<synopsis>Usually a select menu is used for setting a belongs_to association, but in this episode I will show you how to use a text field with auto completion.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-04-21</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_101_screen.png" hdImg="http://madcoder.tv/images/rc/rc_101_screen.png">
+	<title>#101 Refactoring Out Helper Object</title>
+	<contentId>101</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/101-refactoring-out-helper-object.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/101-refactoring-out-helper-object.m4v</streamUrl>
+	</media>
+	<synopsis>If you have complex view logic, this can easily lead to helper methods which call each other. See how to refactor this out into another object in this episode. This is also known as the presenter pattern.</synopsis>
+	<genres>Clip</genres>
+	<publish_date>2008-04-14</publish_date>
+	</item>	
+</feed>

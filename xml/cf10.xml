@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_347_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_347_screen.png">
+	<title>Agile and User Experience Design - Dan Harrelson, Todd Wilkens - Agile Roots 2010</title>
+	<contentId>347</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/520/original/dan-harrelson-todd-wilkens-large.mp4?1286896851</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/519/original/dan-harrelson-todd-wilkens-small.mp4?1286896833</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_348_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_348_screen.png">
+	<title>A Fresh Approach to Certification - Alistair Cockburn, Ahmed Sidky - Agile Roots 2010</title>
+	<contentId>348</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/632/original/cockburn-sidky-large.mp4?1288810149</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/631/original/cockburn-sidky-small.mp4?1288810134</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-11-02</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_388_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_388_screen.png">
+	<title>You Can Test Anything - Zhon Johansen, Richard Thomson - Agile Roots 2010</title>
+	<contentId>388</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/370/original/richard-thomson-zhon-johansen-large.mp4?1286247761</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/369/original/richard-thomson-zhon-johansen-small.mp4?1286247741</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-03</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_327_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_327_screen.png">
+	<title>Facilitation Foundations: Eliminating Waste From Agile Meetings - V. Lee Henson - Agile Roots 2010</title>
+	<contentId>327</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/35/original/v-lee-henson-large.mp4?1283591934</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/34/original/v-lee-henson-small.mp4?1283591919</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-03</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_345_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_345_screen.png">
+	<title>Cucumber: Automating the Requirements Language You Already Speak - Ben Mabey - Agile Roots 2010</title>
+	<contentId>345</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/628/original/ben-mabey-large.mp4?1288809154</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/627/original/ben-mabey-small.mp4?1288809140</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-11-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_149_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_149_screen.png">
+	<title>Growing Up Agile - Pat Maddox - Agile Roots 2010</title>
+	<contentId>149</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/15/original/pat-maddox-large.mp4?1282584746</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/14/original/pat-maddox-small.mp4?1282584716</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-08-23</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_326_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_326_screen.png">
+	<title>Systems Thinking and the Learning Organization - Jason Dean - Agile Roots 2010</title>
+	<contentId>326</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/31/original/jason-dean-large.mp4?1283564692</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/30/original/jason-dean-small.mp4?1283564651</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-03</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_344_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_344_screen.png">
+	<title>Discount Usability Testing for Agile Teams - Ben Carey - Agile Roots 2010</title>
+	<contentId>344</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/512/original/ben-carey-large.mp4?1286781566</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/511/original/ben-carey-small.mp4?1286781559</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_349_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_349_screen.png">
+	<title>The New Methodology isn't a Methodology - Alistair Cockburn - Agile Roots 2010</title>
+	<contentId>349</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/378/original/methodology-large.mp4?1286248046</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/377/original/methodology-small.mp4?1286248042</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-03</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_408_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_408_screen.png">
+	<title>A Tale of Two Cities - Early Adoption Stories - Scott Duncan - Agile Roots 2010</title>
+	<contentId>408</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/636/original/scott-duncan-large.mp4?1288837592</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/635/original/scott-duncan-small.mp4?1288837586</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-11-02</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_315_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_315_screen.png">
+	<title>Test Driven Design - Coupling Loosely - Arlo Belshee - Agile Roots 2010</title>
+	<contentId>315</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/374/original/arlo-belshee-large.mp4?1286248004</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/373/original/arlo-belshee-small.mp4?1286247999</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-03</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_317_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_317_screen.png">
+	<title>Agile Development with Interns - Travis LaFleur - Agile Roots 2010</title>
+	<contentId>317</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/585/original/travis-lafleur-large.mp4?1288079866</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/584/original/travis-lafleur-small.mp4?1288079859</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-24</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_280_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_280_screen.png">
+	<title>What We Learned in 8829 Hours of Pair Programming - Kealy Opelt, Ted Layher - Agile Roots 2010</title>
+	<contentId>280</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/352/original/kealy-opelt-ted-layher-large.mp4?1285993101</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/351/original/kealy-opelt-ted-layher-small.mp4?1285993095</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-30</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_281_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_281_screen.png">
+	<title>Creating Big Picture Designs Without Big Design - Desiree Sy - Agile Roots 2010</title>
+	<contentId>281</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/508/original/desiree-sy-large.mp4?1286781495</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/507/original/desiree-sy-small.mp4?1286781479</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_316_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_316_screen.png">
+	<title>The View from Here: Reconciling User Experience, Product Management and Agile Development - Ray Dahl, Nichole DeVries, Francine Goitz - Agile Roots 2010</title>
+	<contentId>316</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/624/original/arup-large.mp4?1288654244</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/623/original/arup-small.mp4?1288654235</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-11-02</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_279_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_279_screen.png">
+	<title>Innovation Games: Software Powered Innovation Through Collaborative Play - Luke Hohmann - Agile Roots 2010</title>
+	<contentId>279</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/348/original/luke-hohmann-large.mp4?1285927201</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/347/original/luke-hohmann-small.mp4?1285927196</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-30</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_147_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_147_screen.png">
+	<title>The Product Owner’s Guide to Saying No - Alex Pukinskis - Agile Roots 2010</title>
+	<contentId>147</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/344/original/alex-pukinskis-large.mp4?1285913699</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/343/original/alex-pukinskis-small.mp4?1285913695</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-29</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_148_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_148_screen.png">
+	<title>Writing for Humans: Designing better software by keeping humanity in mind - Mike Moore - Agile Roots 2010</title>
+	<contentId>148</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/557/original/mike-moore-large.mp4?1287550056</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/556/original/mike-moore-small.mp4?1287550052</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-18</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_145_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_145_screen.png">
+	<title>Using Your Head: The Agile Mind - David Brady - Agile Roots 2010</title>
+	<contentId>145</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/270/original/david-brady-large.mp4?1285052433</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/269/original/david-brady-small.mp4?1285052427</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-20</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_146_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_146_screen.png">
+	<title>Expressing Design in Code: Architecturally-Evident Coding Patterns - Dr. George Fairbanks - Agile Roots 2010</title>
+	<contentId>146</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/553/original/george-fairbanks-large.mp4?1287549717</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/552/original/george-fairbanks-small.mp4?1287549711</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-18</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_143_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_143_screen.png">
+	<title>Toxic Code: Technical Debt Analytics - Israel Gat, John Heintz - Agile Roots 2010</title>
+	<contentId>143</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/143/original/israel-gat-john-heintz-large.mp4?1283868985</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/142/original/israel-gat-john-heintz-small.mp4?1283868981</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-07</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_144_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_144_screen.png">
+	<title>Enough Design - Ian MacFarland - Agile Roots 2010</title>
+	<contentId>144</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/475/original/ian-macfarland-large.mp4?1286656410</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/474/original/ian-macfarland-small.mp4?1286656399</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-10-08</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_141_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_141_screen.png">
+	<title>Agile Team Performance Management - Sanjiv Augustine, Arlen Bankstone - Agile Roots 2010</title>
+	<contentId>141</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/139/original/sanjiv-augustine-arlen-bankstone-large.mp4?1283868706</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/138/original/sanjiv-augustine-arlen-bankstone-small.mp4?1283868701</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-07</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_142_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_142_screen.png">
+	<title>Why can’t marketing just handle that branding junk? - Nate Jones, Dan Phillips - Agile Roots 2010</title>
+	<contentId>142</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/26/original/nate-jones-and-dan-phillips-small.mp4?1283370017</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/27/original/nate-jones-and-dan-phillips-large.mp4?1283370408</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_140_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_140_screen.png">
+	<title>Managing Agile: Transforming the Three Dysfunctions of Management - Diana Larsen - Agile Roots 2010</title>
+	<contentId>140</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/134/original/diana-larsen-large.mp4?1283830787</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/133/original/diana-larsen-small.mp4?1283830782</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-06</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_45_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_45_screen.png">
+	<title>A Tale of Two Teams: A CEO’s Path to Agile - Richard Sheridan - Agile Roots 2010</title>
+	<contentId>45</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/130/original/richard-sheridan-large.mp4?1283830573</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/129/original/richard-sheridan-small.mp4?1283830565</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-05</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_46_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_46_screen.png">
+	<title>Agile UX for Developers (or, Why Fluff is Stuff Too) - Anders Ramsay - Agile Roots 2010</title>
+	<contentId>46</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/16/original/anders-ramsay-small.mp4?1282717380</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/17/original/anders-ramsay-large.mp4?1282717425</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-08-24</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_44_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_44_screen.png">
+	<title>Keynote: ”No One Wants Your Stupid Process” - Jeff Patton - Agile Roots 2010</title>
+	<contentId>44</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/4/original/jeff-patton-large.mp4?1281458688</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/3/original/jeff-patton-small.mp4?1281458241</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-08-10</publish_date>
+	</item>
+</feed>

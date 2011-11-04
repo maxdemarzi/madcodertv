@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_343_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_343_screen.png">
+	<title>The 7 Habits of Highly Successful Samurai, and How That Helps Rubyists - Alistair Cockburn - Ruby|Web Conference 2010</title>
+	<contentId>343</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/340/original/alistair-cockburn-large.mp4?1285184291</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/339/original/alistair-cockburn-small.mp4?1285184285</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-21</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_342_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_342_screen.png">
+	<title>Your Customers Aren't Stupid and Your Coworkers Are Not Incompetent - Joe O'Brien - Ruby|Web Conference 2010</title>
+	<contentId>342</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/516/original/joe-obrien-large.mp4?1286893871</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/515/original/joe-obrien-small.mp4?1286893829</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+</feed>

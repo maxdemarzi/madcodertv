@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_305_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_305_screen.png">
+	<title>Components in a Monolithic World - Nick Sutterer, Kevin Triplett - Lone Star Ruby Conference 2010</title>
+	<contentId>305</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/803/original/305-lsrc2010-components-in-a-monolithic-world-large.mp4?1293221586</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/802/original/305-lsrc2010-components-in-a-monolithic-world-small.mp4?1293221579</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_306_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_306_screen.png">
+	<title>Beehive, scalable application deployment - Ari Lerner - Lone Star Ruby Conference 2010</title>
+	<contentId>306</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/49/original/ari-lerner-large.mp4?1283593847</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/23/original/ari-lerner-small.mp4?1283245341</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-08-30</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_301_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_301_screen.png">
+	<title>JSON and the Argonauts - Building Mashups with Ruby - Wynn Netherland - Lone Star Ruby Conference 2010</title>
+	<contentId>301</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/982/original/301-lsrc2010-json-and-the-argonauts-building-mashups-with-ruby-large.mp4?1298451478</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/981/original/301-lsrc2010-json-and-the-argonauts-building-mashups-with-ruby-small.mp4?1298451455</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-02-21</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_299_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_299_screen.png">
+	<title>Grease your Suite: Tips and Tricks for Faster Testing - Nick Gauthier - Lone Star Ruby Conference 2010</title>
+	<contentId>299</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/985/original/299-lsrc2010-grease-your-suite-tips-and-tricks-for-faster-testing-large.mp4?1298451534</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/984/original/299-lsrc2010-grease-your-suite-tips-and-tricks-for-faster-testing-small.mp4?1298451525</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-02-20</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_297_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_297_screen.png">
+	<title>Keynote Address - Tom Preston-Werner - Lone Star Ruby Conference 2010</title>
+	<contentId>297</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/941/original/297-lsrc2010-keynote-address-large.mp4?1297178778</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/940/original/297-lsrc2010-keynote-address-small.mp4?1297178737</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2011-02-07</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_295_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_295_screen.png">
+	<title>Seven Languages in Seven Weeks - Bruce Tate - Lone Star Ruby Conference 2010</title>
+	<contentId>295</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/690/original/bruce-tate-large.mp4?1290838413</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/689/original/bruce-tate-small.mp4?1290838405</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-11-25</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_293_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_293_screen.png">
+	<title>Taking Mongoid into the Future - Bernerd Schaefer - Lone Star Ruby Conference 2010</title>
+	<contentId>293</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/336/original/bernerd-schaefer-large.mp4?1285134642</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/335/original/bernerd-schaefer-small.mp4?1285134639</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-20</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_291_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_291_screen.png">
+	<title>Battle of NoSQL stars: Amazon's SDB vs Mongoid vs CouchDB vs RavenDB - Jesse Wolgamott - Lone Star Ruby Conference 2010</title>
+	<contentId>291</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/265/original/jesse-wolgamott-large.mp4?1284183746</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/264/original/jesse-wolgamott-small.mp4?1284183742</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_289_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_289_screen.png">
+	<title>"Get your facts first, then you can distort them as you please", or why I love continuous learning with continuous deployment. - Steve Sanderson - Lone Star Ruby Conference 2010</title>
+	<contentId>289</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/155/original/steve-sanderson-large.mp4?1283891968</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/154/original/steve-sanderson-small.mp4?1283891963</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-07</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_287_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_287_screen.png">
+	<title>How to Build a Sustainably Awesome Development Team - Jim Remsik, Les Hill - Lone Star Ruby Conference 2010</title>
+	<contentId>287</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/126/original/jim-remsik-les-hill-large.mp4?1283705042</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/125/original/jim-remsik-les-hill-small.mp4?1283705038</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-05</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_285_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_285_screen.png">
+	<title>Decyphering Yehuda - Gregg Pollack - Lone Star Ruby Conference 2010</title>
+	<contentId>285</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/122/original/gregg-pollack-large.mp4?1283670532</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/121/original/gregg-pollack-small.mp4?1283670529</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-04</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_283_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_283_screen.png">
+	<title>Rails' Next Top Model: Using ActiveModel and ActiveRelation - Adam Keys - Lone Star Ruby Conference 2010</title>
+	<contentId>283</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/118/original/adam-keys-large.mp4?1283644727</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/117/original/adam-keys-small.mp4?1283644724</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-09-04</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_282_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_282_screen.png">
+	<title>Real Software Engineering - Glenn Vanderburg - Lone Star Ruby Conference 2010</title>
+	<contentId>282</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/25/original/glenn-vanderburg-large.mp4?1283274745</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.net/system/assets/datas/24/original/glenn-vanderburg-smaller.mp4?1283251761</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<genres>Clip</genres>
+	<publish_date>2010-08-31</publish_date>
+	</item>
+</feed>
