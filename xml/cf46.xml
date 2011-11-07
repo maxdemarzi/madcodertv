@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_653_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_653_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_653_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_653_screen.jpg">
 	<title>0-60 with Goliath: building high-performance (Ruby) web services - Ilya Grigorik - Golden Gate Ruby Conference 2011</title>
 	<contentId>653</contentId>
 	<contentType>Talk</contentType>
@@ -20,7 +20,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-10-16</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_652_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_652_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_652_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_652_screen.jpg">
 	<title>You Ain't SPDY - Chris Strom - Golden Gate Ruby Conference 2011</title>
 	<contentId>652</contentId>
 	<contentType>Talk</contentType>
@@ -40,7 +40,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-10-16</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_651_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_651_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_651_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_651_screen.jpg">
 	<title>Keynote: On Building Frameworks - Yehuda Katz - Golden Gate Ruby Conference 2011</title>
 	<contentId>651</contentId>
 	<contentType>Talk</contentType>
@@ -60,7 +60,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-10-16</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_748_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_748_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_748_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_748_screen.jpg">
 	<title>A Special Message - Tim Connor - Golden Gate Ruby Conference 2011</title>
 	<contentId>748</contentId>
 	<contentType>Talk</contentType>
@@ -80,7 +80,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-10-15</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_650_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_650_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_650_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_650_screen.jpg">
 	<title>Lightning Talks - Aaron Patterson, Various Presenters - Golden Gate Ruby Conference 2011</title>
 	<contentId>650</contentId>
 	<contentType>Talk</contentType>
@@ -100,7 +100,7 @@
 	<genres>Clip</genres>
 	<publish_date>1900-01-01</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_649_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_649_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_649_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_649_screen.jpg">
 	<title>Failing Fast - Stuff We Should have Done Better at Square - Erica Kwan - Golden Gate Ruby Conference 2011</title>
 	<contentId>649</contentId>
 	<contentType>Talk</contentType>
@@ -120,7 +120,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-10-16</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_648_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_648_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_648_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_648_screen.jpg">
 	<title>Ruby/JavaScript and the mobile web - Ryan Dy - Golden Gate Ruby Conference 2011</title>
 	<contentId>648</contentId>
 	<contentType>Talk</contentType>
@@ -140,7 +140,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-10-16</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_647_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_647_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_647_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_647_screen.jpg">
 	<title>Sass: The Future of Stylesheets - Chris Eppstein - Golden Gate Ruby Conference 2011</title>
 	<contentId>647</contentId>
 	<contentType>Talk</contentType>
@@ -160,7 +160,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-10-12</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_646_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_646_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_646_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_646_screen.jpg">
 	<title>The Problem is Your Ruby - Jeff Casimir - Golden Gate Ruby Conference 2011</title>
 	<contentId>646</contentId>
 	<contentType>Talk</contentType>
@@ -180,7 +180,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-10-12</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_645_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_645_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_645_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_645_screen.jpg">
 	<title>Smalltalk On Rubinius - or How to Implement Your Own Programming Language - Konstantin Haase - Golden Gate Ruby Conference 2011</title>
 	<contentId>645</contentId>
 	<contentType>Talk</contentType>
@@ -200,7 +200,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-10-11</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_644_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_644_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_644_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_644_screen.jpg">
 	<title>Go for the Rubyist: Appropriation of Great Ideas in Ruby - Dave Grijalva - Golden Gate Ruby Conference 2011</title>
 	<contentId>644</contentId>
 	<contentType>Talk</contentType>
@@ -220,7 +220,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-10-09</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_643_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_643_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_643_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_643_screen.jpg">
 	<title>Keynote: Writing your own programming language to understand Ruby better - José Valim - Golden Gate Ruby Conference 2011</title>
 	<contentId>643</contentId>
 	<contentType>Talk</contentType>
@@ -240,7 +240,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-10-05</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_642_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_642_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_642_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_642_screen.jpg">
 	<title>CouchDB & Ruby: You're Doing It Wrong - Tim Anglade - Golden Gate Ruby Conference 2011</title>
 	<contentId>642</contentId>
 	<contentType>Talk</contentType>
@@ -260,7 +260,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-09-26</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_641_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_641_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_641_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_641_screen.jpg">
 	<title>Fast Rails Tests - Corey Haines - Golden Gate Ruby Conference 2011</title>
 	<contentId>641</contentId>
 	<contentType>Talk</contentType>
@@ -280,7 +280,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-09-23</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_640_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_640_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_640_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_640_screen.jpg">
 	<title>API: Assumptions Probably Incorrect - Wesley Beary - Golden Gate Ruby Conference 2011</title>
 	<contentId>640</contentId>
 	<contentType>Talk</contentType>
@@ -300,7 +300,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-09-23</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_639_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_639_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_639_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_639_screen.jpg">
 	<title>Distributed Systems Primer with Ruby - Tyler McMullen - Golden Gate Ruby Conference 2011</title>
 	<contentId>639</contentId>
 	<contentType>Talk</contentType>
@@ -320,7 +320,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-09-19</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_638_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_638_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_638_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_638_screen.jpg">
 	<title>Test-drive the development of your command-line applications - David Copeland - Golden Gate Ruby Conference 2011</title>
 	<contentId>638</contentId>
 	<contentType>Talk</contentType>
@@ -340,7 +340,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-09-19</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_637_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_637_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_637_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_637_screen.jpg">
 	<title>KidsRuby: Think of the Children - Ron Evans - Golden Gate Ruby Conference 2011</title>
 	<contentId>637</contentId>
 	<contentType>Talk</contentType>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_621_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_621_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_621_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_621_screen.jpg">
 	<title>Code and Creativity - Geoffrey Grossenbach - Cascadia Ruby 2011</title>
 	<contentId>621</contentId>
 	<contentType>Talk</contentType>
@@ -20,7 +20,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-08-07</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_620_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_620_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_620_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_620_screen.jpg">
 	<title>Lightning Talks - Day 2 - Various Presenters - Cascadia Ruby 2011</title>
 	<contentId>620</contentId>
 	<contentType>Talk</contentType>
@@ -40,7 +40,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-08-07</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_619_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_619_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_619_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_619_screen.jpg">
 	<title>Keynote - Chad Fowler - Cascadia Ruby 2011</title>
 	<contentId>619</contentId>
 	<contentType>Talk</contentType>
@@ -60,7 +60,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-08-07</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_618_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_618_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_618_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_618_screen.jpg">
 	<title>Size Doesn't Matter - Ryan Davis - Cascadia Ruby 2011</title>
 	<contentId>618</contentId>
 	<contentType>Talk</contentType>
@@ -80,7 +80,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-08-05</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_617_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_617_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_617_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_617_screen.jpg">
 	<title>Powerful (but Easy) Data Visualization with the Graph Gem -  - Cascadia Ruby 2011</title>
 	<contentId>617</contentId>
 	<contentType>Talk</contentType>
@@ -100,7 +100,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-08-05</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_616_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_616_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_616_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_616_screen.jpg">
 	<title>Playfulness at Work: a Real Serious Message™ with Ruby as the Medium - Ian Dees - Cascadia Ruby 2011</title>
 	<contentId>616</contentId>
 	<contentType>Talk</contentType>
@@ -120,7 +120,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-08-05</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_615_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_615_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_615_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_615_screen.jpg">
 	<title>The Unix Chainsaw - Gary Bernhardt - Cascadia Ruby 2011</title>
 	<contentId>615</contentId>
 	<contentType>Talk</contentType>
@@ -140,7 +140,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-08-03</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_614_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_614_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_614_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_614_screen.jpg">
 	<title>Confident Code - Avdi Grimm - Cascadia Ruby 2011</title>
 	<contentId>614</contentId>
 	<contentType>Talk</contentType>
@@ -160,7 +160,7 @@
 	<genres>Clip</genres>
 	<publish_date>1900-01-01</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_622_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_622_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_622_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_622_screen.jpg">
 	<title>To Be Announced - Rich Kilmer - Cascadia Ruby 2011</title>
 	<contentId>622</contentId>
 	<contentType>Talk</contentType>
@@ -180,7 +180,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-08-03</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_613_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_613_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_613_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_613_screen.jpg">
 	<title>Lightning Talks - Day 1 - Various Presenters - Cascadia Ruby 2011</title>
 	<contentId>613</contentId>
 	<contentType>Talk</contentType>
@@ -200,7 +200,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-08-03</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_612_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_612_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_612_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_612_screen.jpg">
 	<title>Think like a Git - Sam Livingston-Gray - Cascadia Ruby 2011</title>
 	<contentId>612</contentId>
 	<contentType>Talk</contentType>
@@ -220,7 +220,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-07-29</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_611_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_611_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_611_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_611_screen.jpg">
 	<title>Keynote - John Barnette - Cascadia Ruby 2011</title>
 	<contentId>611</contentId>
 	<contentType>Talk</contentType>
@@ -240,7 +240,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-07-30</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_610_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_610_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_610_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_610_screen.jpg">
 	<title>How Community Saved My Life - Mando Escamilla - Cascadia Ruby 2011</title>
 	<contentId>610</contentId>
 	<contentType>Talk</contentType>
@@ -260,7 +260,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-07-29</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_609_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_609_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_609_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_609_screen.jpg">
 	<title>David and Goliath, Ruby and the Enterprise - Dylan Stamat - Cascadia Ruby 2011</title>
 	<contentId>609</contentId>
 	<contentType>Talk</contentType>
@@ -280,7 +280,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-07-29</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_608_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_608_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_608_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_608_screen.jpg">
 	<title>Shipping at the Speed of Life - Corey Donohoe - Cascadia Ruby 2011</title>
 	<contentId>608</contentId>
 	<contentType>Talk</contentType>
@@ -300,7 +300,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-07-30</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_607_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_607_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_607_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_607_screen.jpg">
 	<title>The Enumerable Module or How I fell in Love with Ruby - Haris Amin - Cascadia Ruby 2011</title>
 	<contentId>607</contentId>
 	<contentType>Talk</contentType>
@@ -320,7 +320,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-07-29</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_606_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_606_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_606_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_606_screen.jpg">
 	<title>60 to 0 MPH in 2.5 Seconds: A Retrospective - Jim Remsik - Cascadia Ruby 2011</title>
 	<contentId>606</contentId>
 	<contentType>Talk</contentType>

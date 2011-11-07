@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_121_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_121_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_121_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_121_screen.jpg">
 	<title>Newspeak - Giliad Bracha - Emerging Languages Camp 2010</title>
 	<contentId>121</contentId>
 	<contentType>Talk</contentType>
@@ -20,7 +20,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-10-01</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_120_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_120_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_120_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_120_screen.jpg">
 	<title>Frink - Alan Eliasen - Emerging Languages Camp 2010</title>
 	<contentId>120</contentId>
 	<contentType>Talk</contentType>
@@ -40,7 +40,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-10-01</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_119_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_119_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_119_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_119_screen.jpg">
 	<title>Ur - Adam Chlipala - Emerging Languages Camp 2010</title>
 	<contentId>119</contentId>
 	<contentType>Talk</contentType>
@@ -60,7 +60,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-09-20</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_118_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_118_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_118_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_118_screen.jpg">
 	<title>Parrot - Allison Randal - Emerging Languages Camp 2010</title>
 	<contentId>118</contentId>
 	<contentType>Talk</contentType>
@@ -80,7 +80,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-09-07</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_117_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_117_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_117_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_117_screen.jpg">
 	<title>Thyrd - Phil Mercurio - Emerging Languages Camp 2010</title>
 	<contentId>117</contentId>
 	<contentType>Talk</contentType>
@@ -100,7 +100,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-10-02</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_116_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_116_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_116_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_116_screen.jpg">
 	<title>Ioke/Seph - Ola Bini - Emerging Languages Camp 2010</title>
 	<contentId>116</contentId>
 	<contentType>Talk</contentType>
@@ -120,7 +120,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-09-04</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_115_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_115_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_115_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_115_screen.jpg">
 	<title>Go - Rob Pike - Emerging Languages Camp 2010</title>
 	<contentId>115</contentId>
 	<contentType>Talk</contentType>

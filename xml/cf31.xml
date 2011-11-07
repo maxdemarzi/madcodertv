@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_343_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_343_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_343_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_343_screen.jpg">
 	<title>The 7 Habits of Highly Successful Samurai, and How That Helps Rubyists - Alistair Cockburn - Ruby|Web Conference 2010</title>
 	<contentId>343</contentId>
 	<contentType>Talk</contentType>
@@ -20,7 +20,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-09-21</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_342_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_342_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_342_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_342_screen.jpg">
 	<title>Your Customers Aren't Stupid and Your Coworkers Are Not Incompetent - Joe O'Brien - Ruby|Web Conference 2010</title>
 	<contentId>342</contentId>
 	<contentType>Talk</contentType>

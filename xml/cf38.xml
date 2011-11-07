@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_583_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_583_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_583_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_583_screen.jpg">
 	<title>The State of C Extensions: Alive and Well, so Learn to Deal - Sam Rawlins - Mountain West Ruby Conference 2011</title>
 	<contentId>583</contentId>
 	<contentType>Talk</contentType>
@@ -20,7 +20,7 @@
 	<genres>Clip</genres>
 	<publish_date>1900-01-01</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_582_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_582_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_582_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_582_screen.jpg">
 	<title>Parsing Expressions in Ruby - Michael J. I. Jackson - Mountain West Ruby Conference 2011</title>
 	<contentId>582</contentId>
 	<contentType>Talk</contentType>
@@ -40,7 +40,7 @@
 	<genres>Clip</genres>
 	<publish_date>1900-01-01</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_581_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_581_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_581_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_581_screen.jpg">
 	<title>Modeling concurrency in Ruby and Beyond - Ilya Grigorik - Mountain West Ruby Conference 2011</title>
 	<contentId>581</contentId>
 	<contentType>Talk</contentType>

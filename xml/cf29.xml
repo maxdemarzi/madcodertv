@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_305_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_305_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_305_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_305_screen.jpg">
 	<title>Components in a Monolithic World - Nick Sutterer, Kevin Triplett - Lone Star Ruby Conference 2010</title>
 	<contentId>305</contentId>
 	<contentType>Talk</contentType>
@@ -20,7 +20,7 @@
 	<genres>Clip</genres>
 	<publish_date>1900-01-01</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_306_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_306_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_306_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_306_screen.jpg">
 	<title>Beehive, scalable application deployment - Ari Lerner - Lone Star Ruby Conference 2010</title>
 	<contentId>306</contentId>
 	<contentType>Talk</contentType>
@@ -40,7 +40,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-08-30</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_301_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_301_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_301_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_301_screen.jpg">
 	<title>JSON and the Argonauts - Building Mashups with Ruby - Wynn Netherland - Lone Star Ruby Conference 2010</title>
 	<contentId>301</contentId>
 	<contentType>Talk</contentType>
@@ -60,7 +60,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-02-21</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_299_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_299_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_299_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_299_screen.jpg">
 	<title>Grease your Suite: Tips and Tricks for Faster Testing - Nick Gauthier - Lone Star Ruby Conference 2010</title>
 	<contentId>299</contentId>
 	<contentType>Talk</contentType>
@@ -80,7 +80,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-02-20</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_297_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_297_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_297_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_297_screen.jpg">
 	<title>Keynote Address - Tom Preston-Werner - Lone Star Ruby Conference 2010</title>
 	<contentId>297</contentId>
 	<contentType>Talk</contentType>
@@ -100,7 +100,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-02-07</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_295_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_295_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_295_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_295_screen.jpg">
 	<title>Seven Languages in Seven Weeks - Bruce Tate - Lone Star Ruby Conference 2010</title>
 	<contentId>295</contentId>
 	<contentType>Talk</contentType>
@@ -120,7 +120,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-11-25</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_293_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_293_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_293_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_293_screen.jpg">
 	<title>Taking Mongoid into the Future - Bernerd Schaefer - Lone Star Ruby Conference 2010</title>
 	<contentId>293</contentId>
 	<contentType>Talk</contentType>
@@ -140,7 +140,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-09-20</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_291_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_291_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_291_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_291_screen.jpg">
 	<title>Battle of NoSQL stars: Amazon's SDB vs Mongoid vs CouchDB vs RavenDB - Jesse Wolgamott - Lone Star Ruby Conference 2010</title>
 	<contentId>291</contentId>
 	<contentType>Talk</contentType>
@@ -160,7 +160,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-09-09</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_289_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_289_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_289_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_289_screen.jpg">
 	<title>"Get your facts first, then you can distort them as you please", or why I love continuous learning with continuous deployment. - Steve Sanderson - Lone Star Ruby Conference 2010</title>
 	<contentId>289</contentId>
 	<contentType>Talk</contentType>
@@ -180,7 +180,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-09-07</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_287_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_287_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_287_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_287_screen.jpg">
 	<title>How to Build a Sustainably Awesome Development Team - Jim Remsik, Les Hill - Lone Star Ruby Conference 2010</title>
 	<contentId>287</contentId>
 	<contentType>Talk</contentType>
@@ -200,7 +200,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-09-05</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_285_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_285_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_285_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_285_screen.jpg">
 	<title>Decyphering Yehuda - Gregg Pollack - Lone Star Ruby Conference 2010</title>
 	<contentId>285</contentId>
 	<contentType>Talk</contentType>
@@ -220,7 +220,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-09-04</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_283_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_283_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_283_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_283_screen.jpg">
 	<title>Rails' Next Top Model: Using ActiveModel and ActiveRelation - Adam Keys - Lone Star Ruby Conference 2010</title>
 	<contentId>283</contentId>
 	<contentType>Talk</contentType>
@@ -240,7 +240,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-09-04</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_282_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_282_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_282_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_282_screen.jpg">
 	<title>Real Software Engineering - Glenn Vanderburg - Lone Star Ruby Conference 2010</title>
 	<contentId>282</contentId>
 	<contentType>Talk</contentType>

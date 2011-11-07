@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_489_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_489_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_489_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_489_screen.jpg">
 	<title>Keynote - Evan Phoenix - LA Ruby Conference 2011</title>
 	<contentId>489</contentId>
 	<contentType>Talk</contentType>
@@ -20,7 +20,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-06-18</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_488_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_488_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_488_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_488_screen.jpg">
 	<title>Your Slides Suck - Shane Becker - LA Ruby Conference 2011</title>
 	<contentId>488</contentId>
 	<contentType>Talk</contentType>
@@ -40,7 +40,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-06-18</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_487_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_487_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_487_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_487_screen.jpg">
 	<title>Twitter Mobile - Ben Sandofsky - LA Ruby Conference 2011</title>
 	<contentId>487</contentId>
 	<contentType>Talk</contentType>
@@ -60,7 +60,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-06-18</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_486_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_486_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_486_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_486_screen.jpg">
 	<title>Advanced API design: how an awesome API can attract friends, make you rich, and change the world - Jonathan Dahl - LA Ruby Conference 2011</title>
 	<contentId>486</contentId>
 	<contentType>Talk</contentType>
@@ -80,7 +80,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-06-17</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_485_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_485_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_485_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_485_screen.jpg">
 	<title>Easy Node.js Apps With Lisp  - Giles Bowkett - LA Ruby Conference 2011</title>
 	<contentId>485</contentId>
 	<contentType>Talk</contentType>
@@ -100,7 +100,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-07-27</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_484_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_484_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_484_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_484_screen.jpg">
 	<title>Securing Your Rails App - Jim Weirich, Matt Yoho - LA Ruby Conference 2011</title>
 	<contentId>484</contentId>
 	<contentType>Talk</contentType>
@@ -120,7 +120,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-06-17</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_483_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_483_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_483_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_483_screen.jpg">
 	<title>Working in Virtual Machines, the Vagrant Way  - Mitchell Hashimoto - LA Ruby Conference 2011</title>
 	<contentId>483</contentId>
 	<contentType>Talk</contentType>
@@ -140,7 +140,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-05-10</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_482_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_482_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_482_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_482_screen.jpg">
 	<title>How to Jam in Code - Ron Evans - LA Ruby Conference 2011</title>
 	<contentId>482</contentId>
 	<contentType>Talk</contentType>
@@ -160,7 +160,7 @@
 	<genres>Clip</genres>
 	<publish_date>1900-01-01</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_481_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_481_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_481_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_481_screen.jpg">
 	<title>The Rails Tutorial Story - Michael Hartl - LA Ruby Conference 2011</title>
 	<contentId>481</contentId>
 	<contentType>Talk</contentType>
@@ -180,7 +180,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-06-17</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_480_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_480_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_480_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_480_screen.jpg">
 	<title>NinjaScript: JavaScript so unobtrusive, you won't see it coming.  - Evan Dorn - LA Ruby Conference 2011</title>
 	<contentId>480</contentId>
 	<contentType>Talk</contentType>
@@ -200,7 +200,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-02-23</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_479_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_479_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_479_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_479_screen.jpg">
 	<title>Active Support 3, It's finally getting interesting - Bryan Liles - LA Ruby Conference 2011</title>
 	<contentId>479</contentId>
 	<contentType>Talk</contentType>

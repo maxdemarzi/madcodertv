@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_593_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_593_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_593_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_593_screen.jpg">
 	<title>Stratocaster: Redis Event Timeline - Rick Olson - Ruby On Ales 2011</title>
 	<contentId>593</contentId>
 	<contentType>Talk</contentType>
@@ -20,7 +20,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-09-19</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_592_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_592_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_592_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_592_screen.jpg">
 	<title>One Ruby App to Rule Them All - Ian Hunter - Ruby On Ales 2011</title>
 	<contentId>592</contentId>
 	<contentType>Talk</contentType>
@@ -40,7 +40,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-09-19</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_526_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_526_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_526_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_526_screen.jpg">
 	<title>Ruby Hero Tenderlove! - Ron Evans, Jim Weirich, Aaron Patterson, Josh Susser - Ruby On Ales 2011</title>
 	<contentId>526</contentId>
 	<contentType>Talk</contentType>
@@ -60,7 +60,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-03-30</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_525_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_525_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_525_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_525_screen.jpg">
 	<title>The Ruby Environment - Bradley Grzesiak - Ruby On Ales 2011</title>
 	<contentId>525</contentId>
 	<contentType>Talk</contentType>
@@ -80,7 +80,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-09-04</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_524_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_524_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_524_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_524_screen.jpg">
 	<title>You Got Ruby In My PHP! (You Got PHP In My Ruby!)  - Rein Henrichs - Ruby On Ales 2011</title>
 	<contentId>524</contentId>
 	<contentType>Talk</contentType>
@@ -100,7 +100,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-09-04</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_523_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_523_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_523_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_523_screen.jpg">
 	<title>Exceptional Ruby - Avdi Grimm - Ruby On Ales 2011</title>
 	<contentId>523</contentId>
 	<contentType>Talk</contentType>
@@ -120,7 +120,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-09-04</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_522_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_522_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_522_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_522_screen.jpg">
 	<title>Design hacks for the pragmatic minded  - Kyle Neath - Ruby On Ales 2011</title>
 	<contentId>522</contentId>
 	<contentType>Talk</contentType>
@@ -140,7 +140,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-09-04</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_521_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_521_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_521_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_521_screen.jpg">
 	<title>Why is configuration management software written in Ruby?  - Richard Crowley - Ruby On Ales 2011</title>
 	<contentId>521</contentId>
 	<contentType>Talk</contentType>
@@ -160,7 +160,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-08-14</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_520_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_520_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_520_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_520_screen.jpg">
 	<title>Gui Programming with Mac Ruby - Erik Michaels-Ober - Ruby On Ales 2011</title>
 	<contentId>520</contentId>
 	<contentType>Talk</contentType>
@@ -180,7 +180,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-08-13</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_519_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_519_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_519_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_519_screen.jpg">
 	<title>Securing Your Rails App - Jim Weirich, Matt Yoho - Ruby On Ales 2011</title>
 	<contentId>519</contentId>
 	<contentType>Talk</contentType>

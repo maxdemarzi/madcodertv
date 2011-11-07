@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_243_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_243_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_243_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_243_screen.jpg">
 	<title>RejectConf - Various Presenters - GoRuCo 2009</title>
 	<contentId>243</contentId>
 	<contentType>Talk</contentType>
@@ -20,7 +20,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-08-07</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_242_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_242_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_242_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_242_screen.jpg">
 	<title>From Rails to Rack: Making Rails 3 a Better Ruby Citizen - Yehuda Katz - GoRuCo 2009</title>
 	<contentId>242</contentId>
 	<contentType>Talk</contentType>
@@ -40,7 +40,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-08-07</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_241_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_241_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_241_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_241_screen.jpg">
 	<title>Building Cross Platform Mobile Apps with Ruby and PhoneGap - Ben Stein - GoRuCo 2009</title>
 	<contentId>241</contentId>
 	<contentType>Talk</contentType>
@@ -60,7 +60,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-08-07</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_240_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_240_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_240_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_240_screen.jpg">
 	<title>SOLID Object-Oriented Design - Sandi Metz - GoRuCo 2009</title>
 	<contentId>240</contentId>
 	<contentType>Talk</contentType>
@@ -80,7 +80,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-08-07</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_239_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_239_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_239_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_239_screen.jpg">
 	<title>Into the Heart of Darkness: Rails Anti-Patterns - Jake Howerton - GoRuCo 2009</title>
 	<contentId>239</contentId>
 	<contentType>Talk</contentType>
@@ -100,7 +100,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-08-07</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_238_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_238_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_238_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_238_screen.jpg">
 	<title>Resource-Oriented Architecture With Waves - Dan Yoder - GoRuCo 2009</title>
 	<contentId>238</contentId>
 	<contentType>Talk</contentType>
@@ -120,7 +120,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-08-07</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_237_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_237_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_237_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_237_screen.jpg">
 	<title>The Ruby Guide to *nix Plumbing - Eleanor McHugh - GoRuCo 2009</title>
 	<contentId>237</contentId>
 	<contentType>Talk</contentType>
@@ -140,7 +140,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-08-07</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_21_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_21_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_21_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_21_screen.jpg">
 	<title>Where is Ruby Really Heading? - Gregory Brown - GoRuCo 2009</title>
 	<contentId>21</contentId>
 	<contentType>Talk</contentType>

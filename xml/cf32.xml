@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_367_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_367_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_367_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_367_screen.jpg">
 	<title>Hidden Gems of Ruby 1.9 - Aaron Patterson - Golden Gate Ruby Conference 2010</title>
 	<contentId>367</contentId>
 	<contentType>Talk</contentType>
@@ -20,7 +20,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-04-16</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_365_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_365_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_365_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_365_screen.jpg">
 	<title>Arel: The Ruby Relational Algebra Library - Bryan Helmkamp - Golden Gate Ruby Conference 2010</title>
 	<contentId>365</contentId>
 	<contentType>Talk</contentType>
@@ -40,7 +40,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-04-16</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_366_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_366_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_366_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_366_screen.jpg">
 	<title>Lightning Talks - Various Presenters - Golden Gate Ruby Conference 2010</title>
 	<contentId>366</contentId>
 	<contentType>Talk</contentType>
@@ -60,7 +60,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-04-17</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_364_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_364_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_364_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_364_screen.jpg">
 	<title>Workflow - Ryan Davis - Golden Gate Ruby Conference 2010</title>
 	<contentId>364</contentId>
 	<contentType>Talk</contentType>
@@ -80,7 +80,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-04-16</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_363_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_363_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_363_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_363_screen.jpg">
 	<title>The Shell Hater's Handbook - Ryan Tomayko - Golden Gate Ruby Conference 2010</title>
 	<contentId>363</contentId>
 	<contentType>Talk</contentType>
@@ -100,7 +100,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-04-14</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_362_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_362_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_362_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_362_screen.jpg">
 	<title>The Revolution will not be Tweeted - Rich Kilmer - Golden Gate Ruby Conference 2010</title>
 	<contentId>362</contentId>
 	<contentType>Talk</contentType>
@@ -120,7 +120,7 @@
 	<genres>Clip</genres>
 	<publish_date>1900-01-01</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_361_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_361_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_361_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_361_screen.jpg">
 	<title>Intelligent Ruby: Getting Started with Machine Learning - Ilya Grigorik - Golden Gate Ruby Conference 2010</title>
 	<contentId>361</contentId>
 	<contentType>Talk</contentType>
@@ -140,7 +140,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-04-16</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_360_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_360_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_360_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_360_screen.jpg">
 	<title>Eschew Obfuscation and Omit Needless Words: Writing Clear Acceptance Tests - Elisabeth Hendrickson - Golden Gate Ruby Conference 2010</title>
 	<contentId>360</contentId>
 	<contentType>Talk</contentType>
@@ -160,7 +160,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-04-15</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_359_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_359_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_359_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_359_screen.jpg">
 	<title>Rails is Obsolete (But So's Everything Else) - Avi Bryant - Golden Gate Ruby Conference 2010</title>
 	<contentId>359</contentId>
 	<contentType>Talk</contentType>
@@ -180,7 +180,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-04-10</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_358_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_358_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_358_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_358_screen.jpg">
 	<title>Polyglot: When Ruby isn't enough or even sane - Blake Mizerany - Golden Gate Ruby Conference 2010</title>
 	<contentId>358</contentId>
 	<contentType>Talk</contentType>
@@ -200,7 +200,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-04-03</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_357_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_357_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_357_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_357_screen.jpg">
 	<title>Test-First Teaching - Sarah Allen - Golden Gate Ruby Conference 2010</title>
 	<contentId>357</contentId>
 	<contentType>Talk</contentType>
@@ -220,7 +220,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-04-03</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_356_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_356_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_356_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_356_screen.jpg">
 	<title>Keynote: (Parenthetically Speaking) - Jim Weirich - Golden Gate Ruby Conference 2010</title>
 	<contentId>356</contentId>
 	<contentType>Talk</contentType>
@@ -240,7 +240,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-04-29</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_355_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_355_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_355_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_355_screen.jpg">
 	<title>Bryan's ActieModel Extravaganza - Bryan Liles - Golden Gate Ruby Conference 2010</title>
 	<contentId>355</contentId>
 	<contentType>Talk</contentType>
@@ -260,7 +260,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-04-03</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_354_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_354_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_354_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_354_screen.jpg">
 	<title>Extending Rails 3 - Yehuda Katz - Golden Gate Ruby Conference 2010</title>
 	<contentId>354</contentId>
 	<contentType>Talk</contentType>
@@ -280,7 +280,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-04-03</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_353_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_353_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_353_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_353_screen.jpg">
 	<title>Data-Driven Government and the Ruby Developer - Eric Mill - Golden Gate Ruby Conference 2010</title>
 	<contentId>353</contentId>
 	<contentType>Talk</contentType>
@@ -300,7 +300,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-04-03</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_352_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_352_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_352_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_352_screen.jpg">
 	<title>Ruby APIs for NoSQL - Sarah Mei - Golden Gate Ruby Conference 2010</title>
 	<contentId>352</contentId>
 	<contentType>Talk</contentType>
@@ -320,7 +320,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-04-03</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_351_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_351_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_351_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_351_screen.jpg">
 	<title>Real World Ruby Testing - Rein Henrichs - Golden Gate Ruby Conference 2010</title>
 	<contentId>351</contentId>
 	<contentType>Talk</contentType>
@@ -340,7 +340,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-04-02</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_350_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_350_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_350_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_350_screen.jpg">
 	<title>Being Your Best Asset and Not Your Worst Enemy - Evan Phoenix - Golden Gate Ruby Conference 2010</title>
 	<contentId>350</contentId>
 	<contentType>Talk</contentType>

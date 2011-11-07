@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_257_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_257_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_257_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_257_screen.jpg">
 	<title>The Building Blocks of Modularity - Jim Weirich - LA Ruby Conference 2009</title>
 	<contentId>257</contentId>
 	<contentType>Talk</contentType>
@@ -20,7 +20,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-02-22</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_256_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_256_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_256_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_256_screen.jpg">
 	<title>Rhodes Framework for Mobile Client Development - Adam Blum - LA Ruby Conference 2009</title>
 	<contentId>256</contentId>
 	<contentType>Talk</contentType>
@@ -40,7 +40,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-02-22</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_255_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_255_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_255_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_255_screen.jpg">
 	<title>Mobilize your Rails Application - Brendan Lim - LA Ruby Conference 2009</title>
 	<contentId>255</contentId>
 	<contentType>Talk</contentType>
@@ -60,7 +60,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-02-22</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_254_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_254_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_254_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_254_screen.jpg">
 	<title>Fast and Scalable Front / Back-end Services using Ruby, Rails and XMPP - Pradeep Elankumaran - LA Ruby Conference 2009</title>
 	<contentId>254</contentId>
 	<contentType>Talk</contentType>
@@ -80,7 +80,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-02-22</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_253_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_253_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_253_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_253_screen.jpg">
 	<title>Johnson - Aaron Patterson, John Barnette - LA Ruby Conference 2009</title>
 	<contentId>253</contentId>
 	<contentType>Talk</contentType>
@@ -100,7 +100,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-02-22</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_252_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_252_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_252_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_252_screen.jpg">
 	<title>Flying Robot: Unmanned Aerial Vehicles Using Ruby and Arduino - Ron Evans, Damon Evans - LA Ruby Conference 2009</title>
 	<contentId>252</contentId>
 	<contentType>Talk</contentType>
@@ -120,7 +120,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-02-22</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_251_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_251_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_251_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_251_screen.jpg">
 	<title>Managing Ruby on Rails for High Performance - Bill Lapcevic - LA Ruby Conference 2009</title>
 	<contentId>251</contentId>
 	<contentType>Talk</contentType>
@@ -140,7 +140,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-02-22</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_250_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_250_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_250_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_250_screen.jpg">
 	<title>Poolparty - jump in the pool, get in the clouds - Ari Lerner, Michael  Fairchild - LA Ruby Conference 2009</title>
 	<contentId>250</contentId>
 	<contentType>Talk</contentType>
@@ -160,7 +160,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-02-22</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_249_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_249_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_249_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_249_screen.jpg">
 	<title>Sinatra: The ultimate rack citizen - Blake Mizerany - LA Ruby Conference 2009</title>
 	<contentId>249</contentId>
 	<contentType>Talk</contentType>
@@ -180,7 +180,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-02-22</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_248_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_248_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_248_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_248_screen.jpg">
 	<title>Scaling 'most popular' lists: a plugin solution - Wolfram Arnold - LA Ruby Conference 2009</title>
 	<contentId>248</contentId>
 	<contentType>Talk</contentType>
@@ -200,7 +200,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-02-22</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_247_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_247_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_247_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_247_screen.jpg">
 	<title>Herding Tigers - Software Development and the Art of War - Danny Blitz - LA Ruby Conference 2009</title>
 	<contentId>247</contentId>
 	<contentType>Talk</contentType>
@@ -220,7 +220,7 @@
 	<genres>Clip</genres>
 	<publish_date>1900-01-01</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_246_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_246_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_246_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_246_screen.jpg">
 	<title>Sequel - Jeremy Evans - LA Ruby Conference 2009</title>
 	<contentId>246</contentId>
 	<contentType>Talk</contentType>
@@ -240,7 +240,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-02-22</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_245_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_245_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_245_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_245_screen.jpg">
 	<title>Journey through a pointy forest: The state of XML parsing in Ruby - Aaron Patterson - LA Ruby Conference 2009</title>
 	<contentId>245</contentId>
 	<contentType>Talk</contentType>
@@ -260,7 +260,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-02-22</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_244_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_244_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_244_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_244_screen.jpg">
 	<title>Resource-Oriented Architecture, and Why it Matters, and How Waves Make it Easier - Dan Yoder - LA Ruby Conference 2009</title>
 	<contentId>244</contentId>
 	<contentType>Talk</contentType>

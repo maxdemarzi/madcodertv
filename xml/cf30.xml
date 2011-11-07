@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_319_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_319_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_319_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_319_screen.jpg">
 	<title>JRuby on Rails - Nick Sieger - JRuby Conference 2009</title>
 	<contentId>319</contentId>
 	<contentType>Talk</contentType>
@@ -20,7 +20,7 @@
 	<genres>Clip</genres>
 	<publish_date>2010-09-09</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_318_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_318_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_318_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_318_screen.jpg">
 	<title>JRuby State of the Union - Charles Nutter, Thomas Enebo - JRuby Conference 2009</title>
 	<contentId>318</contentId>
 	<contentType>Talk</contentType>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_507_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_507_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_507_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_507_screen.jpg">
 	<title>Keynote: Ghosts of Ruby - A Neo-Dickensian Explication -  - Ruby Hoedown 2008</title>
 	<contentId>507</contentId>
 	<contentType>Talk</contentType>
@@ -20,7 +20,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-03-11</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_506_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_506_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_506_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_506_screen.jpg">
 	<title>Lightning Talk: What Can We Learn from the Edge Projects? - Yehuda Katz - Ruby Hoedown 2008</title>
 	<contentId>506</contentId>
 	<contentType>Talk</contentType>
@@ -40,7 +40,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-03-11</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_505_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_505_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_505_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_505_screen.jpg">
 	<title>Lightning Talk: Archaeopteryx on the Cheap - Shay Arnett - Ruby Hoedown 2008</title>
 	<contentId>505</contentId>
 	<contentType>Talk</contentType>
@@ -60,7 +60,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-03-11</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_504_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_504_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_504_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_504_screen.jpg">
 	<title>Lightning Talk: Kablame & YellowPages.com Overview - Coby Randquist - Ruby Hoedown 2008</title>
 	<contentId>504</contentId>
 	<contentType>Talk</contentType>
@@ -80,7 +80,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-03-11</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_502_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_502_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_502_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_502_screen.jpg">
 	<title>Archaeopteryx: A Ruby MIDI Generator - Giles Bowkett - Ruby Hoedown 2008</title>
 	<contentId>502</contentId>
 	<contentType>Talk</contentType>
@@ -100,7 +100,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-03-11</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_501_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_501_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_501_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_501_screen.jpg">
 	<title>flog</title>
 	<contentId>501</contentId>
 	<contentType>Talk</contentType>
@@ -120,7 +120,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-03-11</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_604_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_604_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_604_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_604_screen.jpg">
 	<title>Ruleby: The Rules Engine for Ruby - Joe Kutner - Ruby Hoedown 2008</title>
 	<contentId>604</contentId>
 	<contentType>Talk</contentType>
@@ -140,7 +140,7 @@
 	<genres>Clip</genres>
 	<publish_date>1900-01-01</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_500_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_500_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_500_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_500_screen.jpg">
 	<title>Calling Your Code Gluing Phone Calls to Ruby - Troy Davis - Ruby Hoedown 2008</title>
 	<contentId>500</contentId>
 	<contentType>Talk</contentType>
@@ -160,7 +160,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-03-11</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_499_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_499_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_499_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_499_screen.jpg">
 	<title>Keynote - Chris Wanstrath - Ruby Hoedown 2008</title>
 	<contentId>499</contentId>
 	<contentType>Talk</contentType>
@@ -180,7 +180,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-03-11</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_498_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_498_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_498_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_498_screen.jpg">
 	<title>Do the Hustle - Obie Fernandez - Ruby Hoedown 2008</title>
 	<contentId>498</contentId>
 	<contentType>Talk</contentType>
@@ -200,7 +200,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-03-11</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_496_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_496_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_496_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_496_screen.jpg">
 	<title>Lightning Talk: TATFT - Test All the F***in Time - Bryan Liles - Ruby Hoedown 2008</title>
 	<contentId>496</contentId>
 	<contentType>Talk</contentType>
@@ -220,7 +220,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-03-11</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_495_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_495_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_495_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_495_screen.jpg">
 	<title>Lightning Talk: God Monitoring Tool - PJ Davis - Ruby Hoedown 2008</title>
 	<contentId>495</contentId>
 	<contentType>Talk</contentType>
@@ -240,7 +240,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-03-11</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_494_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_494_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_494_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_494_screen.jpg">
 	<title>Ruby Best Practice Patterns - Rein Henrichs - Ruby Hoedown 2008</title>
 	<contentId>494</contentId>
 	<contentType>Talk</contentType>
@@ -260,7 +260,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-03-11</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_493_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_493_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_493_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_493_screen.jpg">
 	<title>Mock Dialogue - Jim Weirich, Joe O'Brien - Ruby Hoedown 2008</title>
 	<contentId>493</contentId>
 	<contentType>Talk</contentType>
@@ -280,7 +280,7 @@
 	<genres>Clip</genres>
 	<publish_date>2011-03-11</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_492_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_492_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_492_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_492_screen.jpg">
 	<title>The Future is Now: Leveraging the Cloud with Ruby - Robert Dempsey - Ruby Hoedown 2008</title>
 	<contentId>492</contentId>
 	<contentType>Talk</contentType>
