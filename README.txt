@@ -2,9 +2,7 @@
 
 This is the repository for the website http://madcoder.tv and the Roku Channel MadCoder.tv
 
-
-
-The madcod demonstrates a hierarchical,
+The madcoder.tv demonstrates a hierarchical,
 category based video playback application. The
 application allows the playback of a selection 
 of Development videos which are organized by category.
@@ -49,7 +47,7 @@ Makefile - Optional method of building the application
       **************************************************
 
 This channel uses videos streamed directly from Confreaks ( http://confreaks.com ) 
-and RailsCasts (railscasts.com). Please visit their websites to see the latest
+and RailsCasts ( http://railscasts.com ). Please visit their websites to see the latest
 available videos and premium features and services. 
 
 Please see the following for license details:
