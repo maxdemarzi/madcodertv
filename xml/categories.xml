@@ -37,6 +37,7 @@
 	</category>
 	<category title="Neo4j" description="Neo4j Videos" sd_img="http://madcoder.tv/images/neo4j/neo4j_logo.jpg" hd_img="http://madcoder.tv/images/neo4j/neo4j_logo.jpg">
 		<categoryLeaf title="Latest" description="" feed="http://madcoder.tv/xml/neo4j_latest.xml"/>
+		<categoryLeaf title="2012" description="" feed="http://madcoder.tv/xml/neo4j_2012.xml"/>
 	</category>
 
  </categories>
