@@ -35,4 +35,8 @@
 		<categoryLeaf title="100-51" description="" feed="http://madcoder.tv/xml/rc_100.xml" />
 		<categoryLeaf title="50-1" description="" feed="http://madcoder.tv/xml/rc_50.xml" />
 	</category>
+	<category title="Neo4j" description="Neo4j Videos" sd_img="http://madcoder.tv/images/neo4j/neo4j_logo.jpg" hd_img="http://madcoder.tv/images/neo4j/neo4j_logo.jpg">
+		<categoryLeaf title="Latest" description="" feed="http://madcoder.tv/xml/neo4j_latest.xml"/>
+	</category>
+
  </categories>

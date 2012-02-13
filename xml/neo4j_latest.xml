@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<resultLength>1</resultLength>
+	<endIndex>1</endIndex>
+	<item sdImg="http://madcoder.tv/images/neo4j/neo4j_02_09_2012_screen.jpg" hdImg="http://madcoder.tv/images/neo4j/neo4j_02_09_2012_screen.jpg">
+	<title>How to Get Started with Neo4j</title>
+	<contentId>02092012</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>HD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>HD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_02_09_2012.mp4</streamUrl>
+	</media>
+	<synopsis>Andreas Kollegger brings us through a fast paced intro summarizing where graph databases fit in the NOSQL world. He then dives into Neo4j to demonstrate its usability, where it shines in various use cases, and the ease to begin working with the database.</synopsis>
+	<publish_date>2012-02-09</publish_date>
+	</item>
+</feed>
