@@ -144,6 +144,10 @@ Function parse_show_feed(xml As Object, feed As Object) As Void
             item.StreamFormat = "mp4"
         endif
 
+        if item.Synopsis = "" then  'set default synopsis to title if doesn't exist in xml
+            item.Synopsis = item.Title
+        endif
+
         'setting publish date
         date = validstr(curShow.publish_date.GetText())
         month = mid(date, 6,2)
@@ -157,7 +161,10 @@ Function parse_show_feed(xml As Object, feed As Object) As Void
         item.HDPosterUrl           = item.hdImg
         item.SDPosterUrl           = item.sdImg
 
-        item.Length = strtoi(item.Runtime)
+'        if item.Runtime != "" then
+'        	item.Length = strtoi(item.Runtime)
+'        end if
+        
         item.Categories = CreateObject("roArray", 5, true)
         item.Categories.Push(item.Genre)
         item.Actors = CreateObject("roArray", 5, true)

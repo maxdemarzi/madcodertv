@@ -57,7 +57,6 @@ Function showDetailScreen(screen As Object, showList As Object, showIndex as Int
                 endif
             else if msg.isButtonPressed() 
                 print "ButtonPressed"
-                print "ButtonPressed"
                 if msg.GetIndex() = 1
                     PlayStart = RegRead(showList[showIndex].ContentId)
                     if PlayStart <> invalid then
@@ -102,7 +101,7 @@ Function refreshShowDetail(screen As Object, showList As Object, showIndex as In
     'PrintAA(show)
 
     screen.ClearButtons()
-    screen.AddButton(1, "resume playing")    
+    'screen.AddButton(1, "resume playing")    
     screen.AddButton(2, "play from beginning")    
     screen.SetContent(show)
     screen.Show()
