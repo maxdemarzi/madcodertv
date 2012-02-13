@@ -21,7 +21,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/286-draper.m4v</streamUrl>
 	</media>
 	<synopsis>Clean up complex view logic using Draper. This gem provides decorators (much like presenters) which bundles view logic in an object oriented fashion. In this episode I do a step-by-step refactoring of a complex template into a decorator.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-10-03</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_285_screen.png" hdImg="http://madcoder.tv/images/rc/rc_285_screen.png">
@@ -41,7 +41,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/285-spork.m4v</streamUrl>
 	</media>
 	<synopsis>Spork improves the loading time of your test suite by starting up your Rails application once in the background. Use it with Guard for the ultimate combo in fast feedback while doing TDD.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-09-26</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_284_screen.png" hdImg="http://madcoder.tv/images/rc/rc_284_screen.png">
@@ -61,7 +61,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/284-active-admin.m4v</streamUrl>
 	</media>
 	<synopsis>Active Admin allows you to quickly build an admin interface with just a few commands. Not only does it look great, but it is very customizable as shown in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-09-19</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_283_screen.png" hdImg="http://madcoder.tv/images/rc/rc_283_screen.png">
@@ -81,7 +81,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/283-authentication-with-sorcery.m4v</streamUrl>
 	</media>
 	<synopsis>Sorcery is a full-featured, modular solution to authentication which leaves the controller and view layers up to you.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-09-12</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_282_screen.png" hdImg="http://madcoder.tv/images/rc/rc_282_screen.png">
@@ -101,7 +101,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/282-upgrading-to-rails-3-1.m4v</streamUrl>
 	</media>
 	<synopsis>It is incredibly easy to upgrade to Rails 3.1, but if you want to take advantage of the asset pipeline you will need to put in some extra effort. Have no fear because I walk you through each of the necessary steps in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-09-05</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_281_screen.png" hdImg="http://madcoder.tv/images/rc/rc_281_screen.png">
@@ -121,7 +121,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/281-foreman.m4v</streamUrl>
 	</media>
 	<synopsis>Foreman can help manage multiple processes that your Rails app depends upon when running in development. It also provides an export command to move them into production.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-08-29</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_280_screen.png" hdImg="http://madcoder.tv/images/rc/rc_280_screen.png">
@@ -141,7 +141,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/280-pry-with-rails.m4v</streamUrl>
 	</media>
 	<synopsis>Pry is an alternative to IRB and sports many great features. Here I show how to integrate it into a Rails app, and how it can aid in debugging.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-08-22</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_279_screen.png" hdImg="http://madcoder.tv/images/rc/rc_279_screen.png">
@@ -161,7 +161,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/279-understanding-the-asset-pipeline.m4v</streamUrl>
 	</media>
 	<synopsis>The asset pipeline is probably the biggest feature in Rails 3.1, but it can seem like magic at first. Here I dive into exactly how the asset pipeline works.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-08-15</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_278_screen.png" hdImg="http://madcoder.tv/images/rc/rc_278_screen.png">
@@ -181,7 +181,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/278-search-with-sunspot.m4v</streamUrl>
 	</media>
 	<synopsis>Sunspot makes it easy to do full text searching through Solr. Here I show how to search on various attributes and add facets for filtering the search further.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-08-08</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_277_screen.png" hdImg="http://madcoder.tv/images/rc/rc_277_screen.png">
@@ -201,7 +201,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/277-mountable-engines.m4v</streamUrl>
 	</media>
 	<synopsis>Engines are receiving a major update in Rails 3.1. You can mount them at any path, embed assets, run generators and more. See how in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-08-01</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_276_screen.png" hdImg="http://madcoder.tv/images/rc/rc_276_screen.png">
@@ -221,7 +221,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/276-testing-time-web-requests.m4v</streamUrl>
 	</media>
 	<synopsis>It can be difficult to test code that deals with the current time or an external web request. Here I show you how to do both using the Timecop and FakeWeb gems.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-07-25</publish_date>
 	</item>
 </feed>

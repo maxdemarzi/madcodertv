@@ -17,7 +17,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1017/original/04-apr-2009-19-40-the-building-blocks-of-modularity-jim-weirich-small.mp4?1298524134</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-02-22</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_256_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_256_screen.jpg">
@@ -37,7 +37,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1015/original/04-apr-2009-19-05-rhodes-framework-for-mobile-client-development-adam-blum-small.mp4?1298524090</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-02-22</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_255_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_255_screen.jpg">
@@ -57,7 +57,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1013/original/04-apr-2009-18-20-mobilize-your-rails-application-brendan-lim-small.mp4?1298524023</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-02-22</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_254_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_254_screen.jpg">
@@ -77,7 +77,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1011/original/04-apr-2009-17-45-fast-and-scalable-frontback-end-services-using-ruby-rails-and-xmpp-pradeep-elankumaran-small.mp4?1298523941</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-02-22</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_253_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_253_screen.jpg">
@@ -97,7 +97,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1009/original/04-apr-2009-17-10-johnson-aaron-patterson-john-barnette-small.mp4?1298522173</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-02-22</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_252_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_252_screen.jpg">
@@ -117,7 +117,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1007/original/04-apr-2009-16-25-flying-robot-unmanned-aerial-vehicles-using-ruby-and-arduino-damen-evans-ron-evans-small.mp4?1298521650</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-02-22</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_251_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_251_screen.jpg">
@@ -137,7 +137,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1005/original/04-apr-2009-15-50-managing-ruby-on-rails-for-high-performance-bill-lapcevic-small.mp4?1298521522</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-02-22</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_250_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_250_screen.jpg">
@@ -157,7 +157,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1003/original/04-apr-2009-15-15-poolparty-jump-in-the-pool-get-in-the-clouds-ari-lerner-michael-fairchild-small.mp4?1298521400</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-02-22</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_249_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_249_screen.jpg">
@@ -177,7 +177,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1001/original/04-apr-2009-14-40-sinatra-the-ultimate-rack-citizen-blake-mizerany-small.mp4?1298521348</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-02-22</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_248_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_248_screen.jpg">
@@ -197,7 +197,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/999/original/04-apr-2009-12-40-scaling-most-popular-lists-a-plugin-solution-wolfram-arnold-small.mp4?1298521274</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-02-22</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_247_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_247_screen.jpg">
@@ -217,7 +217,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/997/original/04-apr-2009-12-05-herding-tigers-software-development-and-the-art-of-war-danny-blitz-small.mp4?1298521218</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>1900-01-01</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_246_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_246_screen.jpg">
@@ -237,7 +237,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/995/original/04-apr-2009-11-20-sequel-jeremy-evans-small.mp4?1298521163</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-02-22</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_245_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_245_screen.jpg">
@@ -257,7 +257,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/993/original/04-apr-2009-10-45-journey-through-a-pointy-forest-the-state-of-xml-parsing-in-ruby-aaron-patterson-small.mp4?1298520896</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-02-22</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_244_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_244_screen.jpg">
@@ -277,7 +277,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/991/original/04-apr-2009-10-10-resource-oriented-architecture-and-why-it-matters-and-how-waves-make-it-easier-dan-yoder-small.mp4?1298520477</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-02-22</publish_date>
 	</item>
 </feed>

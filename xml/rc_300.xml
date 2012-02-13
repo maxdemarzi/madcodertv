@@ -21,7 +21,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/286-draper.m4v</streamUrl>
 	</media>
 	<synopsis>Clean up complex view logic using Draper. This gem provides decorators (much like presenters) which bundles view logic in an object oriented fashion. In this episode I do a step-by-step refactoring of a complex template into a decorator.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-10-03</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_285_screen.png" hdImg="http://madcoder.tv/images/rc/rc_285_screen.png">
@@ -41,7 +41,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/285-spork.m4v</streamUrl>
 	</media>
 	<synopsis>Spork improves the loading time of your test suite by starting up your Rails application once in the background. Use it with Guard for the ultimate combo in fast feedback while doing TDD.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-09-26</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_284_screen.png" hdImg="http://madcoder.tv/images/rc/rc_284_screen.png">
@@ -61,7 +61,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/284-active-admin.m4v</streamUrl>
 	</media>
 	<synopsis>Active Admin allows you to quickly build an admin interface with just a few commands. Not only does it look great, but it is very customizable as shown in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-09-19</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_283_screen.png" hdImg="http://madcoder.tv/images/rc/rc_283_screen.png">
@@ -81,7 +81,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/283-authentication-with-sorcery.m4v</streamUrl>
 	</media>
 	<synopsis>Sorcery is a full-featured, modular solution to authentication which leaves the controller and view layers up to you.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-09-12</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_282_screen.png" hdImg="http://madcoder.tv/images/rc/rc_282_screen.png">
@@ -101,7 +101,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/282-upgrading-to-rails-3-1.m4v</streamUrl>
 	</media>
 	<synopsis>It is incredibly easy to upgrade to Rails 3.1, but if you want to take advantage of the asset pipeline you will need to put in some extra effort. Have no fear because I walk you through each of the necessary steps in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-09-05</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_281_screen.png" hdImg="http://madcoder.tv/images/rc/rc_281_screen.png">
@@ -121,7 +121,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/281-foreman.m4v</streamUrl>
 	</media>
 	<synopsis>Foreman can help manage multiple processes that your Rails app depends upon when running in development. It also provides an export command to move them into production.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-08-29</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_280_screen.png" hdImg="http://madcoder.tv/images/rc/rc_280_screen.png">
@@ -141,7 +141,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/280-pry-with-rails.m4v</streamUrl>
 	</media>
 	<synopsis>Pry is an alternative to IRB and sports many great features. Here I show how to integrate it into a Rails app, and how it can aid in debugging.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-08-22</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_279_screen.png" hdImg="http://madcoder.tv/images/rc/rc_279_screen.png">
@@ -161,7 +161,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/279-understanding-the-asset-pipeline.m4v</streamUrl>
 	</media>
 	<synopsis>The asset pipeline is probably the biggest feature in Rails 3.1, but it can seem like magic at first. Here I dive into exactly how the asset pipeline works.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-08-15</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_278_screen.png" hdImg="http://madcoder.tv/images/rc/rc_278_screen.png">
@@ -181,7 +181,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/278-search-with-sunspot.m4v</streamUrl>
 	</media>
 	<synopsis>Sunspot makes it easy to do full text searching through Solr. Here I show how to search on various attributes and add facets for filtering the search further.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-08-08</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_277_screen.png" hdImg="http://madcoder.tv/images/rc/rc_277_screen.png">
@@ -201,7 +201,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/277-mountable-engines.m4v</streamUrl>
 	</media>
 	<synopsis>Engines are receiving a major update in Rails 3.1. You can mount them at any path, embed assets, run generators and more. See how in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-08-01</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_276_screen.png" hdImg="http://madcoder.tv/images/rc/rc_276_screen.png">
@@ -221,7 +221,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/276-testing-time-web-requests.m4v</streamUrl>
 	</media>
 	<synopsis>It can be difficult to test code that deals with the current time or an external web request. Here I show you how to do both using the Timecop and FakeWeb gems.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-07-25</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_275_screen.png" hdImg="http://madcoder.tv/images/rc/rc_275_screen.png">
@@ -241,7 +241,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/275-how-i-test.m4v</streamUrl>
 	</media>
 	<synopsis>Here I show how I would add tests to the password reset feature created in the previous episode. I use RSpec, Capybara, Factory Girl, and Guard to make request, model, and mailer specs.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-07-18</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_274_screen.png" hdImg="http://madcoder.tv/images/rc/rc_274_screen.png">
@@ -261,7 +261,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/274-remember-me-reset-password.m4v</streamUrl>
 	</media>
 	<synopsis>It is easy to create authentication from scratch, but how do we extend it with more features? Here I add a "remember me" check box and a "forgotten password" link.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-07-11</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_273_screen.png" hdImg="http://madcoder.tv/images/rc/rc_273_screen.png">
@@ -281,7 +281,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/273-geocoder.m4v</streamUrl>
 	</media>
 	<synopsis>If you need to work with geographic data, Geocoder is an excellent gem for converting addresses and coordinates, finding nearby locations, determining distances, and more!</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-07-04</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_272_screen.png" hdImg="http://madcoder.tv/images/rc/rc_272_screen.png">
@@ -301,7 +301,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/272-markdown-with-redcarpet.m4v</streamUrl>
 	</media>
 	<synopsis>Redcarpet is an easy-to-use gem which interprets Markdown. Here I show how to customize it and add syntax highlighting through Pygments and Albino.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-06-27</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_271_screen.png" hdImg="http://madcoder.tv/images/rc/rc_271_screen.png">
@@ -321,7 +321,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/271-resque.m4v</streamUrl>
 	</media>
 	<synopsis>Resque creates background jobs using Redis. It supports multiple queue and comes with an administration interface for monitoring and managing the queues.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-06-20</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_270_screen.png" hdImg="http://madcoder.tv/images/rc/rc_270_screen.png">
@@ -341,7 +341,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/270-authentication-in-rails-3-1.m4v</streamUrl>
 	</media>
 	<synopsis>Here I show off three new features in Rails 3.1 that will help with authentication: easier HTTP Basic, SecurePassword in the database, and forcing SSL.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-06-13</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_269_screen.png" hdImg="http://madcoder.tv/images/rc/rc_269_screen.png">
@@ -361,7 +361,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/269-template-inheritance.m4v</streamUrl>
 	</media>
 	<synopsis>In Rails 3.1 the controller inheritance also applies to the view layer. Here I show how to add an application template which is shared by all views, and a lookup path for overriding templates based on the subdomain.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-06-06</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_268_screen.png" hdImg="http://madcoder.tv/images/rc/rc_268_screen.png">
@@ -381,7 +381,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/268-sass-basics.m4v</streamUrl>
 	</media>
 	<synopsis>Sass extends CSS with variables, nesting, mixins and more. Here I show how to convert plain CSS to SCSS in a Rails 3.1 app.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-05-30</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_267_screen.png" hdImg="http://madcoder.tv/images/rc/rc_267_screen.png">
@@ -401,7 +401,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/267-coffeescript-basics.m4v</streamUrl>
 	</media>
 	<synopsis>CoffeeScript allows you to write JavaScript in a concise, elegant fashion. Here I convert JavaScript code to CoffeeScript in a Rails 3.1 app.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-05-23</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_266_screen.png" hdImg="http://madcoder.tv/images/rc/rc_266_screen.png">
@@ -421,7 +421,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/266-http-streaming.m4v</streamUrl>
 	</media>
 	<synopsis>HTTP Streaming allows the browser to start processing the HTML response while the Rails app is still processing the rest of the request.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-05-16</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_265_screen.png" hdImg="http://madcoder.tv/images/rc/rc_265_screen.png">
@@ -441,7 +441,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/265-rails-3-1-overview.m4v</streamUrl>
 	</media>
 	<synopsis>This is the first episode in a series covering Rails 3.1. Here I show how to install the beta and show some of the new features.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-05-09</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_264_screen.png" hdImg="http://madcoder.tv/images/rc/rc_264_screen.png">
@@ -461,7 +461,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/264-guard.m4v</streamUrl>
 	</media>
 	<synopsis>Guard watches files and runs a command after a file is modified. This allows you to automatically run tests in the background, restart your development server, reload the browser, and more.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-05-02</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_263_screen.png" hdImg="http://madcoder.tv/images/rc/rc_263_screen.png">
@@ -481,7 +481,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/263-client-side-validations.m4v</streamUrl>
 	</media>
 	<synopsis>Showing validation errors inline as the user is filling out the form can lead to a better use experience. Learn how to do this using the Client Side Validations gem.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-04-25</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_262_screen.png" hdImg="http://madcoder.tv/images/rc/rc_262_screen.png">
@@ -501,7 +501,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/262-trees-with-ancestry.m4v</streamUrl>
 	</media>
 	<synopsis>The Ancestry gem works like a tree but also allows us to fetch deeply nested messages in a single query. It provides a method to arrange them after fetching.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-04-18</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_261_screen.png" hdImg="http://madcoder.tv/images/rc/rc_261_screen.png">
@@ -521,7 +521,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/261-testing-javascript-with-jasmine.m4v</streamUrl>
 	</media>
 	<synopsis>Are you testing your JavaScript? Learn how to add specs using Jasmine. This episode also covers jQuery integration with jasmine-jquery.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-04-11</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_260_screen.png" hdImg="http://madcoder.tv/images/rc/rc_260_screen.png">
@@ -541,7 +541,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/260-messaging-with-faye.m4v</streamUrl>
 	</media>
 	<synopsis>Faye is a subscription/publishing server which makes it easy to do push notifications within a Rails app.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-04-04</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_259_screen.png" hdImg="http://madcoder.tv/images/rc/rc_259_screen.png">
@@ -561,7 +561,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/259-decent-exposure.m4v</streamUrl>
 	</media>
 	<synopsis>The decent_exposure gem makes it convenient to share controller data with the view through methods instead of instance variables.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-03-28</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_258_screen.png" hdImg="http://madcoder.tv/images/rc/rc_258_screen.png">
@@ -581,7 +581,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/258-token-fields.m4v</streamUrl>
 	</media>
 	<synopsis>With the jQuery Tokeninput plugin it is easy to add an autocompleting list of entries for a many-to-many association.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-03-21</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_257_screen.png" hdImg="http://madcoder.tv/images/rc/rc_257_screen.png">
@@ -601,7 +601,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/257-request-specs-and-capybara.m4v</streamUrl>
 	</media>
 	<synopsis>Request specs in RSpec are a great way to ensure the entire application stack is working properly. Here I also show how to use capybara with integrated JavaScript testing using Selenium.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-03-14</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_256_screen.png" hdImg="http://madcoder.tv/images/rc/rc_256_screen.png">
@@ -621,7 +621,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/256-i18n-backends.m4v</streamUrl>
 	</media>
 	<synopsis>Internationalization is easy to add in Rails, but the YAML files can be difficult to manage. In this episode I show how to use Redis for managing the translations through a web interface.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-03-07</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_255_screen.png" hdImg="http://madcoder.tv/images/rc/rc_255_screen.png">
@@ -641,7 +641,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/255-undo-with-paper-trail.m4v</streamUrl>
 	</media>
 	<synopsis>Undo and redo behavior is easy to add with a versioning gem such as Paper Trail. Learn how to add an undo link to any model's flash message.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-02-28</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_254_screen.png" hdImg="http://madcoder.tv/images/rc/rc_254_screen.png">
@@ -661,7 +661,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/254-pagination-with-kaminari.m4v</streamUrl>
 	</media>
 	<synopsis>If you need pagination in Rails 3 try out Kaminari. It is a clean, flexible solution which uses scopes to flow nicely with Active Record queries. Did I mention it also works with Mongoid?</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-02-21</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_253_screen.png" hdImg="http://madcoder.tv/images/rc/rc_253_screen.png">
@@ -681,7 +681,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/253-carrierwave-file-uploads.m4v</streamUrl>
 	</media>
 	<synopsis>CarrierWave makes it easy and clean to add file uploads to your application. It supports a variety of ORMs, frameworks and image processors.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-02-14</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_252_screen.png" hdImg="http://madcoder.tv/images/rc/rc_252_screen.png">
@@ -701,7 +701,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/252-metrics-metrics-metrics.m4v</streamUrl>
 	</media>
 	<synopsis>Metric Fu, Metrical, SimpleCov, Rails Best Practices, and more are covered in this episode on metrics.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-02-07</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_251_screen.png" hdImg="http://madcoder.tv/images/rc/rc_251_screen.png">
@@ -721,7 +721,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/251-metawhere-metasearch.m4v</streamUrl>
 	</media>
 	<synopsis>MetaWhere provides a way to do complex find conditions without SQL in Active Record. MetaSearch makes it easy to create search forms with many find options.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-01-31</publish_date>
 	</item>	
 </feed>

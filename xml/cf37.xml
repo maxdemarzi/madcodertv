@@ -17,7 +17,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1675/original/489-larubyconf2011-keynote-small.mp4?1308451188</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-06-18</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_488_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_488_screen.jpg">
@@ -37,7 +37,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1668/original/488-larubyconf2011-your-slides-suck-small.mp4?1308415890</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-06-18</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_487_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_487_screen.jpg">
@@ -57,7 +57,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1665/original/487-larubyconf2011-twitter-mobile-small.mp4?1308409274</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-06-18</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_486_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_486_screen.jpg">
@@ -77,7 +77,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1654/original/486-larubyconf2011-advanced-api-design-how-an-awesome-api-can-attract-friends-make-you-rich-and-change-the-world-small.mp4?1308354672</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-06-17</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_485_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_485_screen.jpg">
@@ -97,7 +97,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1722/original/485-larubyconf2011-easy-node-js-apps-with-lisp-small.mp4?1312059881</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-07-27</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_484_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_484_screen.jpg">
@@ -117,7 +117,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1644/original/484-larubyconf2011-securing-your-rails-app-small.mp4?1308327111</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-06-17</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_483_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_483_screen.jpg">
@@ -137,7 +137,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1626/original/483-larubyconf2011-working-in-virtual-machines-the-vagrant-way-small.mp4?1306463266</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-05-10</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_482_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_482_screen.jpg">
@@ -157,7 +157,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1271/original/482-larubyconf2011-how-to-jam-in-code-small.mp4?1305019742</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>1900-01-01</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_481_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_481_screen.jpg">
@@ -177,7 +177,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1647/original/481-larubyconf2011-the-rails-tutorial-story-small.mp4?1308327234</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-06-17</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_480_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_480_screen.jpg">
@@ -197,7 +197,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1265/original/480-larubyconf2011-ninjascript-javascript-so-unobtrusive-you-won-t-see-it-coming-small.mp4?1305019674</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-02-23</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_479_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_479_screen.jpg">
@@ -217,7 +217,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1020/original/479-larubyconf2011-active-support-3-it-s-finally-getting-interesting-small.mp4?1298541208</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-02-23</publish_date>
 	</item>
 </feed>

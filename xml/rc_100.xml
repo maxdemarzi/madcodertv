@@ -21,7 +21,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/100-5-view-tips.m4v</streamUrl>
 	</media>
 	<synopsis>Here's five quick tips to use in views. Be sure to catch the end of the episode where I reveal an exciting contest!</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2008-04-07</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_99_screen.png" hdImg="http://madcoder.tv/images/rc/rc_99_screen.png">
@@ -41,7 +41,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/099-complex-partials.m4v</streamUrl>
 	</media>
 	<synopsis>How do you handle partials which have differences depending on the action which is rendering them? Here's three suggestions for this problem.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2008-03-31</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_98_screen.png" hdImg="http://madcoder.tv/images/rc/rc_98_screen.png">
@@ -61,7 +61,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/098-request-profiling.m4v</streamUrl>
 	</media>
 	<synopsis>You can use profiling to determine where the performance bottlenecks are in specific Rails actions. Watch this episode for details.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2008-03-24</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_97_screen.png" hdImg="http://madcoder.tv/images/rc/rc_97_screen.png">
@@ -81,7 +81,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/097-analyzing-the-production-log.m4v</streamUrl>
 	</media>
 	<synopsis>In order to improve performance of your Rails application you need to find the bottlenecks. A great starting point is your production log. In this episode you will see how to use RAWK to analyze your log file and determine which controller actions take up the most processing time.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2008-03-17</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_96_screen.png" hdImg="http://madcoder.tv/images/rc/rc_96_screen.png">
@@ -101,7 +101,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/096-git-on-rails.m4v</streamUrl>
 	</media>
 	<synopsis>Git has been getting a lot of buzz lately, and for good reason. It's an excellent SCM which in many ways is more simple and powerful than subversion. See how to set up a Rails project with Git in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2008-03-10</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_95_screen.png" hdImg="http://madcoder.tv/images/rc/rc_95_screen.png">
@@ -121,7 +121,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/095-more-on-activeresource.m4v</streamUrl>
 	</media>
 	<synopsis>See how to handle authentication and custom actions using ActiveResource in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2008-03-02</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_94_screen.png" hdImg="http://madcoder.tv/images/rc/rc_94_screen.png">
@@ -141,7 +141,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/094-activeresource-basics.m4v</streamUrl>
 	</media>
 	<synopsis>ActiveResource allows you to easily communicate between multiple Rails applications. See how in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2008-02-24</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_93_screen.png" hdImg="http://madcoder.tv/images/rc/rc_93_screen.png">
@@ -161,7 +161,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/093-action-caching.m4v</streamUrl>
 	</media>
 	<synopsis>Action caching behaves much like page caching except it processes the controller filters. You can also make it conditional as seen in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2008-02-17</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_92_screen.png" hdImg="http://madcoder.tv/images/rc/rc_92_screen.png">
@@ -181,7 +181,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/092-make-resourceful.m4v</streamUrl>
 	</media>
 	<synopsis>The make_resourceful plugin is a great way to DRY up the 7 RESTful actions common in most controllers. Learn how to use it in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2008-02-10</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_91_screen.png" hdImg="http://madcoder.tv/images/rc/rc_91_screen.png">
@@ -201,7 +201,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/091-refactoring-long-methods.m4v</streamUrl>
 	</media>
 	<synopsis>In this episode I walk you through an exercise in refactoring by taking a long method and making it more concise.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2008-02-03</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_90_screen.png" hdImg="http://madcoder.tv/images/rc/rc_90_screen.png">
@@ -221,7 +221,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/090-fragment-caching.m4v</streamUrl>
 	</media>
 	<synopsis>Sometimes you only want to cache a section of a page instead of the entire page. Fragment caching is the answer as shown in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2008-01-27</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_89_screen.png" hdImg="http://madcoder.tv/images/rc/rc_89_screen.png">
@@ -241,7 +241,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/089-page-caching.m4v</streamUrl>
 	</media>
 	<synopsis>Page caching is an efficient way to cache stateless content. In this episode I will show you how to cache the dynamic javascript we created last week.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2008-01-20</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_88_screen.png" hdImg="http://madcoder.tv/images/rc/rc_88_screen.png">
@@ -261,7 +261,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/088-dynamic-select-menus.m4v</streamUrl>
 	</media>
 	<synopsis>See how to dynamically change a select menu based on another select menu using Javascript. In this episode everything is kept client side which leads to a more responsive user interface.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2008-01-13</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_87_screen.png" hdImg="http://madcoder.tv/images/rc/rc_87_screen.png">
@@ -281,7 +281,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/087-generating-rss-feeds.m4v</streamUrl>
 	</media>
 	<synopsis>See how to easily generate and link to an RSS feed using new features in Rails 2.0. Watch this episode or details.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2008-01-06</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_86_screen.png" hdImg="http://madcoder.tv/images/rc/rc_86_screen.png">
@@ -301,7 +301,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/086-logging-variables.m4v</streamUrl>
 	</media>
 	<synopsis>Have you ever wanted to easily log all variables? Now you can by using some advanced Ruby concepts as shown in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-12-30</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_85_screen.png" hdImg="http://madcoder.tv/images/rc/rc_85_screen.png">
@@ -321,7 +321,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/085-yaml-configuration-file.m4v</streamUrl>
 	</media>
 	<synopsis>Application configuration shouldn't be spread throughout your code base. Instead a much better place to put it is an external YAML file. See how to do that in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-12-23</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_84_screen.png" hdImg="http://madcoder.tv/images/rc/rc_84_screen.png">
@@ -341,7 +341,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/084-cookie-based-session-store.m4v</streamUrl>
 	</media>
 	<synopsis>In Rails 1.2 the default session store is file based. This is inefficient and difficult to maintain. In Rails 2.0 the default is now cookie based which has several benefits as you will see in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-12-16</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_83_screen.png" hdImg="http://madcoder.tv/images/rc/rc_83_screen.png">
@@ -361,7 +361,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/083-migrations-in-rails-2-0.m4v</streamUrl>
 	</media>
 	<synopsis>Migrations are now sexy in Rails 2.0! In this episode we will take a look at these improvements and the related rake tasks.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-12-09</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_82_screen.png" hdImg="http://madcoder.tv/images/rc/rc_82_screen.png">
@@ -381,7 +381,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/082-http-basic-authentication.m4v</streamUrl>
 	</media>
 	<synopsis>Rails 2.0 offers an extremely easy way to do HTTP basic authentication. See how in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-12-02</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_81_screen.png" hdImg="http://madcoder.tv/images/rc/rc_81_screen.png">
@@ -401,7 +401,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/081-fixtures-in-rails-2-0.m4v</streamUrl>
 	</media>
 	<synopsis>In Rails 2.0, fixtures see many improvements which makes them much easier to manage. Watch this episode for details.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-11-25</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_80_screen.png" hdImg="http://madcoder.tv/images/rc/rc_80_screen.png">
@@ -421,7 +421,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/080-simplify-views-with-rails-2-0.m4v</streamUrl>
 	</media>
 	<synopsis>Rails 2.0 is almost here. One of the many features in this release is the smarter helper methods which can make your views much cleaner. Learn all about it in this Episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-11-18</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_79_screen.png" hdImg="http://madcoder.tv/images/rc/rc_79_screen.png">
@@ -441,7 +441,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/079-generate-named-routes.m4v</streamUrl>
 	</media>
 	<synopsis>This more advanced episode will show you how to dynamically generate named routes by adding a method to the map object.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-11-11</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_78_screen.png" hdImg="http://madcoder.tv/images/rc/rc_78_screen.png">
@@ -461,7 +461,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/078-generating-pdf-documents.m4v</streamUrl>
 	</media>
 	<synopsis>In this episode I will show you how to create PDF documents using the excellent PDF::Writer gem.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-11-04</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_77_screen.png" hdImg="http://madcoder.tv/images/rc/rc_77_screen.png">
@@ -481,7 +481,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/077-destroy-without-javascript.m4v</streamUrl>
 	</media>
 	<synopsis>If the user has JavaScript disabled, the "Destroy" link might not work properly. In this episode I will explore a number of ways to work around this issue.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-10-29</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_76_screen.png" hdImg="http://madcoder.tv/images/rc/rc_76_screen.png">
@@ -501,7 +501,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/076-scope-out.m4v</streamUrl>
 	</media>
 	<synopsis>The scope_out plugin will generate several helpful find methods for you automatically! It's the best way to move the find conditions into your model. Watch this episode for details.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-10-22</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_75_screen.png" hdImg="http://madcoder.tv/images/rc/rc_75_screen.png">
@@ -521,7 +521,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/075-complex-forms-part-3.m4v</streamUrl>
 	</media>
 	<synopsis>In this third and final episode on complex forms I will show you how to edit a project and multiple tasks all in one form. This includes removing and adding tasks dynamically as well. See the show notes for updated code.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-10-15</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_74_screen.png" hdImg="http://madcoder.tv/images/rc/rc_74_screen.png">
@@ -541,7 +541,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/074-complex-forms-part-2.m4v</streamUrl>
 	</media>
 	<synopsis>See how to use Javascript and RJS to add and remove form fields dynamically. This episode will build upon the previous episode allowing you to create any number of tasks in one form the same time a project is created.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-10-08</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_73_screen.png" hdImg="http://madcoder.tv/images/rc/rc_73_screen.png">
@@ -561,7 +561,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/073-complex-forms-part-1.m4v</streamUrl>
 	</media>
 	<synopsis>Complex forms often lead to complex controllers, but that doesn't have to be the case. In this episode see how you can create multiple models through a single form while keeping the controller clean.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-10-01</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_72_screen.png" hdImg="http://madcoder.tv/images/rc/rc_72_screen.png">
@@ -581,7 +581,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/072-adding-an-environment.m4v</streamUrl>
 	</media>
 	<synopsis>Rails comes with three environments: development, test, and production. But, you aren't restricted to just these. You can add your own! See how in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-09-24</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_71_screen.png" hdImg="http://madcoder.tv/images/rc/rc_71_screen.png">
@@ -601,7 +601,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/071-testing-controllers-with-rspec.m4v</streamUrl>
 	</media>
 	<synopsis>Controllers are tricky to test, and there's no perfect way to do it. In this episode you will see how I test controllers, and my reasoning behind it.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-09-17</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_70_screen.png" hdImg="http://madcoder.tv/images/rc/rc_70_screen.png">
@@ -621,7 +621,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/070-custom-routes.m4v</streamUrl>
 	</media>
 	<synopsis>In this episode you will learn how to add custom routes, make some parameters optional, and add requirements for other parameters.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-09-10</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_69_screen.png" hdImg="http://madcoder.tv/images/rc/rc_69_screen.png">
@@ -641,7 +641,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/069-markaby-in-helper.m4v</streamUrl>
 	</media>
 	<synopsis>Do you ever need to generate HTML code in a helper method? Placing it directly in Ruby strings is not very pretty. Learn a great way to generate HTML through Markaby in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-09-03</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_68_screen.png" hdImg="http://madcoder.tv/images/rc/rc_68_screen.png">
@@ -661,7 +661,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/068-openid-authentication.m4v</streamUrl>
 	</media>
 	<synopsis>Ever wonder how to implement OpenID authentication in your Rails app? This episode will show you how to add it to a site with an existing authentication system.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-08-27</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_67_screen.png" hdImg="http://madcoder.tv/images/rc/rc_67_screen.png">
@@ -681,7 +681,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/067-restful-authentication.m4v</streamUrl>
 	</media>
 	<synopsis>Need multiple user authentication? If so, the restful_authentication plugin is a great way to go. It will generate some basic authentication code for you which is good starting point to your authentication system. Watch this episode for details.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-08-20</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_66_screen.png" hdImg="http://madcoder.tv/images/rc/rc_66_screen.png">
@@ -701,7 +701,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/066-custom-rake-tasks.m4v</streamUrl>
 	</media>
 	<synopsis>Rake is one of those tools that you don't realize how powerful it is until you start using it. In this episode you will learn how to create custom rake tasks and improve them by using rake features.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-08-13</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_65_screen.png" hdImg="http://madcoder.tv/images/rc/rc_65_screen.png">
@@ -721,7 +721,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/065-stopping-spam-with-akismet.m4v</streamUrl>
 	</media>
 	<synopsis>The Railscasts site has been getting a lot of comment spam in the past, but no longer. In this episode I will show you how I solved this problem by using the Akismet web service.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-08-06</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_64_screen.png" hdImg="http://madcoder.tv/images/rc/rc_64_screen.png">
@@ -741,7 +741,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/064-custom-helper-modules.m4v</streamUrl>
 	</media>
 	<synopsis>Rails designates one helper module per controller, but that shouldn't stop you from making custom helper modules to help structure the code. Learn how in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-07-30</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_63_screen.png" hdImg="http://madcoder.tv/images/rc/rc_63_screen.png">
@@ -761,7 +761,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/063-model-name-in-url.m4v</streamUrl>
 	</media>
 	<synopsis>By default, Rails uses the model's id in the URL. What if you want to use the name of the model instead? You can change this behavior by overriding the to_param method in the model. Watch this episode for details.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-07-27</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_62_screen.png" hdImg="http://madcoder.tv/images/rc/rc_62_screen.png">
@@ -781,7 +781,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/062-hacking-activerecord.m4v</streamUrl>
 	</media>
 	<synopsis>Have you ever wanted to temporarily disable all validations? Well, ActiveRecord doesn't support this, but that doesn't mean we can't add it. This episode will show you how to open up an existing class and change its behavior.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-07-25</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_61_screen.png" hdImg="http://madcoder.tv/images/rc/rc_61_screen.png">
@@ -801,7 +801,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/061-sending-email.m4v</streamUrl>
 	</media>
 	<synopsis>This is a brief guide to sending email in Rails. See how to configure the environment, generate a mailer, create a template, and deliver the mail.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-07-23</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_60_screen.png" hdImg="http://madcoder.tv/images/rc/rc_60_screen.png">
@@ -821,7 +821,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/060-testing-without-fixtures.m4v</streamUrl>
 	</media>
 	<synopsis>Tests which rely heavily on fixtures are brittle and can be difficult to maintain. This episode will show a couple techniques for creating tests which don't use fixtures.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-07-20</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_59_screen.png" hdImg="http://madcoder.tv/images/rc/rc_59_screen.png">
@@ -841,7 +841,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/059-optimistic-locking.m4v</streamUrl>
 	</media>
 	<synopsis>When two people attempt to update the same record near the same time, one of the updates will likely be overwritten. You can solve this problem with optimistic locking.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-07-18</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_58_screen.png" hdImg="http://madcoder.tv/images/rc/rc_58_screen.png">
@@ -861,7 +861,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/058-how-to-make-a-generator.m4v</streamUrl>
 	</media>
 	<synopsis>Rails comes with many built-in generators, but what if you want to customize them or make your own? Rails gives you a great way to do this which you will learn in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-07-16</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_57_screen.png" hdImg="http://madcoder.tv/images/rc/rc_57_screen.png">
@@ -881,7 +881,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/057-create-model-through-text-field.m4v</streamUrl>
 	</media>
 	<synopsis>Let's say you provide a select menu for setting which category a given product belongs to, but you also want the option of creating a new category by typing the name in a text field. See a great way to do that in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-07-13</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_56_screen.png" hdImg="http://madcoder.tv/images/rc/rc_56_screen.png">
@@ -901,7 +901,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/056-the-logger.m4v</streamUrl>
 	</media>
 	<synopsis>Learn all about the logger in this episode. See how to send messages to the log and how to customize it.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-07-11</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_55_screen.png" hdImg="http://madcoder.tv/images/rc/rc_55_screen.png">
@@ -921,7 +921,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/055-cleaning-up-the-view.m4v</streamUrl>
 	</media>
 	<synopsis>This episode starts off with a big, messy template. Watch as this code shrinks and becomes more readable while the interface stays the same.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-07-09</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_54_screen.png" hdImg="http://madcoder.tv/images/rc/rc_54_screen.png">
@@ -941,7 +941,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/054-debugging-with-ruby-debug.m4v</streamUrl>
 	</media>
 	<synopsis>This episode will show you how to debug a rails app using ruby-debug: set a breakpoint, inspect variables, change the code and more.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-07-06</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_53_screen.png" hdImg="http://madcoder.tv/images/rc/rc_53_screen.png">
@@ -961,7 +961,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/053-handling-exceptions.m4v</streamUrl>
 	</media>
 	<synopsis>When an exception is raised in development you get the full error along with the stack trace. In production, only a simple message is displayed. Learn why this is and how to customize the handling of exceptions.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-07-04</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_52_screen.png" hdImg="http://madcoder.tv/images/rc/rc_52_screen.png">
@@ -981,7 +981,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/052-update-through-checkboxes.m4v</streamUrl>
 	</media>
 	<synopsis>See how to select multiple items using checkboxes and perform an action on the selected items in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-07-02</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_51_screen.png" hdImg="http://madcoder.tv/images/rc/rc_51_screen.png">
@@ -1001,7 +1001,7 @@
 	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/051-will-paginate.m4v</streamUrl>
 	</media>
 	<synopsis>In edge rails (soon to be Rails 2.0), the built-in pagination has been moved into a plugin: classic_pagination. I recommend jumping over to the will_paginate plugin as shown in this episode.</synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2007-06-29</publish_date>
 	</item>	
 </feed>

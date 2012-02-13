@@ -17,7 +17,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1920/original/593-roa2011-stratocaster-redis-event-timeline-small.mp4?1316494742</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-09-19</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_592_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_592_screen.jpg">
@@ -37,7 +37,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1917/original/592-roa2011-one-ruby-app-to-rule-them-all-small.mp4?1316491926</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-09-19</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_526_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_526_screen.jpg">
@@ -57,7 +57,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1093/original/526-roa2011-ruby-hero-tenderlove-small.mp4?1301510513</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-03-30</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_525_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_525_screen.jpg">
@@ -77,7 +77,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1892/original/525-roa2011-the-ruby-environment-small.mp4?1315197939</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-09-04</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_524_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_524_screen.jpg">
@@ -97,7 +97,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1882/original/524-roa2011-you-got-ruby-in-my-php-you-got-php-in-my-ruby-small.mp4?1315195950</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-09-04</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_523_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_523_screen.jpg">
@@ -117,7 +117,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1879/original/523-roa2011-exceptional-ruby-small.mp4?1315195672</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-09-04</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_522_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_522_screen.jpg">
@@ -137,7 +137,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1876/original/522-roa2011-design-hacks-for-the-pragmatic-minded-small.mp4?1315191239</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-09-04</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_521_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_521_screen.jpg">
@@ -157,7 +157,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1853/original/521-roa2011-why-is-configuration-management-software-written-in-ruby-small.mp4?1313307815</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-08-14</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_520_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_520_screen.jpg">
@@ -177,7 +177,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1846/original/520-roa2011-gui-programming-with-mac-ruby-small.mp4?1313227769</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-08-13</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_519_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_519_screen.jpg">
@@ -197,7 +197,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/1694/original/519-roa2011-securing-your-rails-app-small.mp4?1311576151</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2011-07-23</publish_date>
 	</item>
 </feed>

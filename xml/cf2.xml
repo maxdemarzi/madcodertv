@@ -17,7 +17,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/713/original/30-may-2009-18-35-rejectconf-various-presenters-small.mp4?1291612248</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2010-08-07</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_242_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_242_screen.jpg">
@@ -37,7 +37,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/701/original/30-may-2009-17-40-from-rails-to-rack-making-rails-a-better-ruby-citizen-yehuda-katz-small.mp4?1291609130</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2010-08-07</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_241_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_241_screen.jpg">
@@ -57,7 +57,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/711/original/30-may-2009-16-45-building-cross-platform-mobile-apps-with-ruby-and-phonegap-ben-stein-small.mp4?1291612099</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2010-08-07</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_240_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_240_screen.jpg">
@@ -77,7 +77,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/709/original/30-may-2009-15-40-solid-object-oriented-design-sandi-metz-small.mp4?1291612008</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2010-08-07</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_239_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_239_screen.jpg">
@@ -97,7 +97,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/707/original/30-may-2009-14-45-into-the-heart-of-darkness-rails-anti-patterns-jake-howerton-small.mp4?1291611930</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2010-08-07</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_238_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_238_screen.jpg">
@@ -117,7 +117,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/705/original/30-may-2009-12-50-resource-oriented-architecture-with-waves-dan-yoder-small.mp4?1291611867</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2010-08-07</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_237_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_237_screen.jpg">
@@ -137,7 +137,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/703/original/30-may-2009-11-55-the-ruby-guide-to-nix-plumbing-eleanor-mchugh-small.mp4?1291611270</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2010-08-07</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_21_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_21_screen.jpg">
@@ -157,7 +157,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/715/original/30-may-2009-11-00-where-is-ruby-really-heading-gregory-brown-small.mp4?1291612557</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2010-08-07</publish_date>
 	</item>
 </feed>

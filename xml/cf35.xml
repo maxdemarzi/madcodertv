@@ -17,7 +17,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/646/original/must_try_harder-mcminn-small.mp4?1290417147</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2010-11-23</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_412_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_412_screen.jpg">
@@ -37,7 +37,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/658/original/has_anyone_seen_my_code-weirich-small.mp4?1290422266</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>1900-01-01</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_423_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_423_screen.jpg">
@@ -57,7 +57,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/642/original/1000_ways_to_kill_a_buffalo-mizerany-small.mp4?1290281947</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>1900-01-01</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_422_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_422_screen.jpg">
@@ -77,7 +77,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/644/original/forms_dont_have_to_be_this_complicated-sadauskas-small.mp4?1290282211</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>1900-01-01</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_421_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_421_screen.jpg">
@@ -97,7 +97,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/681/original/frontend_testing_frontier-kihlbom-small.mp4?1290572673</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>1900-01-01</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_420_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_420_screen.jpg">
@@ -117,7 +117,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/660/original/functionally_equivalent-remsik-small.mp4?1290422950</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>1900-01-01</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_419_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_419_screen.jpg">
@@ -137,7 +137,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/648/original/programming_and_minimalism-dahl-small.mp4?1290419505</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2010-11-22</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_418_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_418_screen.jpg">
@@ -157,7 +157,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/656/original/how_to_develop_without_circling_the_wagons-patterson-small.mp4?1290422126</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>1900-01-01</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_429_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_429_screen.jpg">
@@ -177,7 +177,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/654/original/panel-dr_nic-small.mp4?1290421886</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>1900-01-01</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_417_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_417_screen.jpg">
@@ -197,7 +197,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/666/original/avoiding_the_seven_year_itch-zeschin-small.mp4?1290452530</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2010-11-22</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_416_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_416_screen.jpg">
@@ -217,7 +217,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/674/original/introduction_to_geospatial_programming-jackson-small.mp4?1290460798</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>1900-01-01</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_415_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_415_screen.jpg">
@@ -237,7 +237,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/652/original/everyone_should_know_a_little_about_sales-obrien-small.mp4?1290420718</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>1900-01-01</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_414_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_414_screen.jpg">
@@ -257,7 +257,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/670/original/staking_your_claim_in_oss-phoenix-small.mp4?1290458250</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2010-11-22</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_413_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_413_screen.jpg">
@@ -277,7 +277,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/672/original/reia_ruby_evolved-arcieri-small.mp4?1290459730</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>1900-01-01</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_411_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_411_screen.jpg">
@@ -297,7 +297,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/650/original/do_not_bring_a_sword_to_a_gun_fight-seguin-small.mp4?1290420006</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>1900-01-01</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_410_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_410_screen.jpg">
@@ -317,7 +317,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/668/original/ruby_on_android_with_ruboto-mcgavren-small.mp4?1290452936</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>1900-01-01</publish_date>
 	</item>
 	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_409_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_409_screen.jpg">
@@ -337,7 +337,7 @@
 	  <streamUrl>http://confreaks.net/system/assets/datas/662/original/to_infinity_and_beyond-weirich-small.mp4?1290452095</streamUrl>
 	</media>
 	<synopsis></synopsis>
-	<genres>Clip</genres>
+
 	<publish_date>2010-11-22</publish_date>
 	</item>
 </feed>
