@@ -13,6 +13,11 @@
 	  <streamBitrate>1500</streamBitrate>
 	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_02_13_2012.mp4</streamUrl>
 	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_02_13_2012.mp4</streamUrl>
+	</media>
 	<synopsis>Johnny Luu walks through the steps of creating a Node.js application that uses the Heroku Neo4j Addon.</synopsis>
 	<publish_date>2012-02-13</publish_date>
 	</item>
@@ -27,6 +32,12 @@
 	  <streamBitrate>1500</streamBitrate>
 	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_02_09_2012.mp4</streamUrl>
 	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_02_09_2012.mp4</streamUrl>
+	</media>
+
 	<synopsis>Andreas Kollegger brings us through a fast paced intro summarizing where graph databases fit in the NOSQL world. He then dives into Neo4j to demonstrate its usability, where it shines in various use cases, and the ease to begin working with the database.</synopsis>
 	<publish_date>2012-02-09</publish_date>
 	</item>
@@ -41,6 +52,11 @@
 	  <streamBitrate>1500</streamBitrate>
 	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_01_30_2012.mp4</streamUrl>
 	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_01_30_2012.mp4</streamUrl>
+	</media>
 	<synopsis>This webinar is for Java developers, but no previous knowledge of graph databases is required. Learn: * use cases for graph databases * Specific coding techniques for working with a graph database.</synopsis>
 	<publish_date>2012-01-30</publish_date>
 	</item>
@@ -52,6 +68,11 @@
 	<streamFormat>mp4</streamFormat>
 	<media>
 	  <streamQuality>HD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_01_17_2012.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
 	  <streamBitrate>1500</streamBitrate>
 	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_01_17_2012.mp4</streamUrl>
 	</media>
