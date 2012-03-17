@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_782_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_782_screen.png">
+	<title>Pattern Matching - Aaron Patterson - MagRails 2011</title>
+	<contentId>782</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2794/original/782-magrails2011-pattern-matching-large.mp4?1324710769</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2793/original/782-magrails2011-pattern-matching-small.mp4?1324710766</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-12-23</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_781_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_781_screen.png">
+	<title>Consuming REST API's in Ruby - Stevie Graham - MagRails 2011</title>
+	<contentId>781</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2800/original/781-magrails2011-consuming-rest-api-s-in-ruby-large.mp4?1324711093</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2799/original/781-magrails2011-consuming-rest-api-s-in-ruby-small.mp4?1324711087</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-12-23</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_780_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_780_screen.png">
+	<title>Talking to Rails - Ben Langfield - MagRails 2011</title>
+	<contentId>780</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2791/original/780-magrails2011-talking-to-rails-large.mp4?1324710755</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2790/original/780-magrails2011-talking-to-rails-small.mp4?1324710750</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-12-23</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_779_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_779_screen.png">
+	<title>#NoCV - Bob Marshell - MagRails 2011</title>
+	<contentId>779</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2797/original/779-magrails2011-nocv-large.mp4?1324710888</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2796/original/779-magrails2011-nocv-small.mp4?1324710883</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-12-23</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_778_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_778_screen.png">
+	<title>Grown Up Web App Deployment - Lee Hambley - MagRails 2011</title>
+	<contentId>778</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2788/original/778-magrails2011-grown-up-web-app-deployment-large.mp4?1324710743</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2787/original/778-magrails2011-grown-up-web-app-deployment-small.mp4?1324710738</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-12-23</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_777_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_777_screen.png">
+	<title>Faster Rails Tests - Tom Clements - MagRails 2011</title>
+	<contentId>777</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2785/original/777-magrails2011-faster-rails-tests-large.mp4?1324710730</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2784/original/777-magrails2011-faster-rails-tests-small.mp4?1324710728</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-12-23</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_776_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_776_screen.png">
+	<title>The quest for agility - Rachel Davies - MagRails 2011</title>
+	<contentId>776</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2782/original/776-magrails2011-the-quest-for-agility-large.mp4?1324710712</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2781/original/776-magrails2011-the-quest-for-agility-small.mp4?1324710709</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-12-23</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_775_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_775_screen.png">
+	<title>Herding Cats - Paul Battley - MagRails 2011</title>
+	<contentId>775</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2751/original/775-magrails2011-herding-cats-large.mp4?1324674492</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2750/original/775-magrails2011-herding-cats-small.mp4?1324674485</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-12-23</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_774_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_774_screen.png">
+	<title>Better Teams and Better Planning - Sam Phillips - MagRails 2011</title>
+	<contentId>774</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2748/original/774-magrails2011-better-teams-and-better-programming-large.mp4?1324674427</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2747/original/774-magrails2011-better-teams-and-better-programming-small.mp4?1324674421</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-12-23</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_773_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_773_screen.png">
+	<title>Wolfpack Programming - Jason Ayers - MagRails 2011</title>
+	<contentId>773</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2745/original/773-magrails2011-wolfpack-programming-large.mp4?1324674334</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2744/original/773-magrails2011-wolfpack-programming-small.mp4?1324674326</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-12-23</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_772_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_772_screen.png">
+	<title>When to Break The Rules - Joe O'Brien - MagRails 2011</title>
+	<contentId>772</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2742/original/772-magrails2011-when-to-break-the-rules-large.mp4?1324674247</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2741/original/772-magrails2011-when-to-break-the-rules-small.mp4?1324674238</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-12-23</publish_date>
+	</item>
+</feed>

@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_739_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_739_screen.png">
+	<title>A Documentation Talk - Zach Holman - Rocky Mountain Ruby 2011</title>
+	<contentId>739</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2128/original/739-rockymtnruby2011-a-documentation-talk-large.mp4?1318282545</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2127/original/739-rockymtnruby2011-a-documentation-talk-small.mp4?1318282536</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-10</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_735_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_735_screen.png">
+	<title>Testing Panel - Jeff Casimir, Jim Holmes, Cory Flanigan, Justin Searls - Rocky Mountain Ruby 2011</title>
+	<contentId>735</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2095/original/735-rockymtnruby2011-a-documentation-talk-small.mp4?1318122644</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2095/original/735-rockymtnruby2011-a-documentation-talk-small.mp4?1318122644</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_738_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_738_screen.png">
+	<title>Surviving Growing from Zero to 15,000 Selenium Tests - Jim Holmes - Rocky Mountain Ruby 2011</title>
+	<contentId>738</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2104/original/738-rockymtnruby2011-surviving-growing-from-zero-to-15-000-selenium-tests-small.mp4?1318182402</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2104/original/738-rockymtnruby2011-surviving-growing-from-zero-to-15-000-selenium-tests-small.mp4?1318182402</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_733_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_733_screen.png">
+	<title>Start using Jasmine.  Write better JavaScript.  Profit. - Cory Flanigan, Justin Searls - Rocky Mountain Ruby 2011</title>
+	<contentId>733</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2089/original/733-rockymtnruby2011-start-using-jasmine-write-better-javascript-profit-small.mp4?1318095940</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2089/original/733-rockymtnruby2011-start-using-jasmine-write-better-javascript-profit-small.mp4?1318095940</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-08</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_747_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_747_screen.png">
+	<title>Active Hash - Jeff Dean - Rocky Mountain Ruby 2011</title>
+	<contentId>747</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2187/original/747-rockymtnruby2011-active-hash-small.mp4?1318501743</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2187/original/747-rockymtnruby2011-active-hash-small.mp4?1318501743</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-13</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_746_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_746_screen.png">
+	<title>Be Moar Ridiculous - Anthony Navarre - Rocky Mountain Ruby 2011</title>
+	<contentId>746</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2185/original/746-rockymtnruby2011-be-moar-ridiculous-small.mp4?1318501736</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2185/original/746-rockymtnruby2011-be-moar-ridiculous-small.mp4?1318501736</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-13</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_745_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_745_screen.png">
+	<title>BDSM Project SM Framework - Wayne E.  Seguin - Rocky Mountain Ruby 2011</title>
+	<contentId>745</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2183/original/745-rockymtnruby2011-bdsm-project-sm-framework-small.mp4?1318501730</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2183/original/745-rockymtnruby2011-bdsm-project-sm-framework-small.mp4?1318501730</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-13</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_744_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_744_screen.png">
+	<title>Lightning Talk: Do Your Commit Messages Suck - Ryan McGeary - Rocky Mountain Ruby 2011</title>
+	<contentId>744</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2181/original/744-rockymtnruby2011-lightning-talk-do-your-commit-messages-suck-small.mp4?1318501724</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2181/original/744-rockymtnruby2011-lightning-talk-do-your-commit-messages-suck-small.mp4?1318501724</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-13</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_743_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_743_screen.png">
+	<title>Lightning Talk: In Defense of Unless - Spike Ilacqua - Rocky Mountain Ruby 2011</title>
+	<contentId>743</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2179/original/743-rockymtnruby2011-lightning-talk-in-defense-of-unless-small.mp4?1318501716</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2179/original/743-rockymtnruby2011-lightning-talk-in-defense-of-unless-small.mp4?1318501716</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-13</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_742_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_742_screen.png">
+	<title>Lightning Talk: Deprecatable - Jeremy Hinegardner - Rocky Mountain Ruby 2011</title>
+	<contentId>742</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2177/original/742-rockymtnruby2011-lightning-talk-deprecatable-small.mp4?1318501640</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2177/original/742-rockymtnruby2011-lightning-talk-deprecatable-small.mp4?1318501640</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-13</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_732_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_732_screen.png">
+	<title>Lightning Talk: Developing Developers - Mike Gehard - Rocky Mountain Ruby 2011</title>
+	<contentId>732</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2157/original/732-rockymtnruby2011-developing-developers-small.mp4?1318499032</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2157/original/732-rockymtnruby2011-developing-developers-small.mp4?1318499032</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-13</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_731_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_731_screen.png">
+	<title>Cloning Twitter: Rails + Cassandra = Scalable Sharing - Charles Max Wood - Rocky Mountain Ruby 2011</title>
+	<contentId>731</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2091/original/731-rockymtnruby2011-cloning-twitter-rails-cassandra-scalable-sharing-small.mp4?1318095987</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2091/original/731-rockymtnruby2011-cloning-twitter-rails-cassandra-scalable-sharing-small.mp4?1318095987</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-08</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_730_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_730_screen.png">
+	<title>Ruby Messaging Patterns - Gerred Dillon - Rocky Mountain Ruby 2011</title>
+	<contentId>730</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2106/original/730-rockymtnruby2011-ruby-messaging-patterns-small.mp4?1318182709</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2106/original/730-rockymtnruby2011-ruby-messaging-patterns-small.mp4?1318182709</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_729_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_729_screen.png">
+	<title>There Are No Tests - Jeff Casimir - Rocky Mountain Ruby 2011</title>
+	<contentId>729</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2097/original/729-rockymtnruby2011-there-are-no-tests-small.mp4?1318145153</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2097/original/729-rockymtnruby2011-there-are-no-tests-small.mp4?1318145153</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_728_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_728_screen.png">
+	<title>Implementing Rails 3.1, Backbone.js, CoffeeScript, jQuery, Sass, and CouchDB on EC2 - Rod Cope - Rocky Mountain Ruby 2011</title>
+	<contentId>728</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2093/original/728-rockymtnruby2011-implementing-rails-3-1-backbone-js-coffeescript-jquery-sass-and-couchdb-on-ec2-small.mp4?1318096254</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2093/original/728-rockymtnruby2011-implementing-rails-3-1-backbone-js-coffeescript-jquery-sass-and-couchdb-on-ec2-small.mp4?1318096254</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-08</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_727_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_727_screen.png">
+	<title>Real Time Rack - Konstantin Haase - Rocky Mountain Ruby 2011</title>
+	<contentId>727</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2248/original/727-rockymtnruby2011-real-time-rack-small.mp4?1319016917</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2248/original/727-rockymtnruby2011-real-time-rack-small.mp4?1319016917</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-08</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_725_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_725_screen.png">
+	<title>Using Your Intuition for Innovation and Decision Making - Suzan Bond - Rocky Mountain Ruby 2011</title>
+	<contentId>725</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2060/original/725-rockymtnruby2011-using-your-intuition-for-innovation-and-decision-making-small.mp4?1318093666</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2060/original/725-rockymtnruby2011-using-your-intuition-for-innovation-and-decision-making-small.mp4?1318093666</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-05</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_724_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_724_screen.png">
+	<title>Cognitive Psychology and the Zen of Code - Jay Zeschin - Rocky Mountain Ruby 2011</title>
+	<contentId>724</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2058/original/724-rockymtnruby2011-cognitive-psychology-and-the-zen-of-code-small.mp4?1318093527</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2058/original/724-rockymtnruby2011-cognitive-psychology-and-the-zen-of-code-small.mp4?1318093527</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-05</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_723_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_723_screen.png">
+	<title>Code First, Ask Questions Later - Tim Clem - Rocky Mountain Ruby 2011</title>
+	<contentId>723</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2056/original/723-rockymtnruby2011-code-first-ask-questions-later-small.mp4?1318093248</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2056/original/723-rockymtnruby2011-code-first-ask-questions-later-small.mp4?1318093248</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-05</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_722_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_722_screen.png">
+	<title>Mastering the Ruby Debugger - Jim Weirich - Rocky Mountain Ruby 2011</title>
+	<contentId>722</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2054/original/722-rockymtnruby2011-mastering-the-ruby-debugger-small.mp4?1318093113</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2054/original/722-rockymtnruby2011-mastering-the-ruby-debugger-small.mp4?1318093113</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-05</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_721_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_721_screen.png">
+	<title>Things You Didn't Know About Exceptions - Avdi Grimm - Rocky Mountain Ruby 2011</title>
+	<contentId>721</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2052/original/721-rockymtnruby2011-exceptional-ruby-small.mp4?1318093018</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2052/original/721-rockymtnruby2011-exceptional-ruby-small.mp4?1318093018</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-05</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_720_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_720_screen.png">
+	<title>If You See the Mountain Lion, It's Too Late - Grant Blakeman - Rocky Mountain Ruby 2011</title>
+	<contentId>720</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2046/original/720-rockymtnruby2011-if-you-see-the-mountain-lion-it-s-too-late-small.mp4?1317866144</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2046/original/720-rockymtnruby2011-if-you-see-the-mountain-lion-it-s-too-late-small.mp4?1317866144</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-05</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_719_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_719_screen.png">
+	<title>CRUD is not REST - Hypermedia for Y'All! - Nick Sutterer - Rocky Mountain Ruby 2011</title>
+	<contentId>719</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2050/original/719-rockymtnruby2011-crud-is-not-rest-hypermedia-for-y-all-small.mp4?1318092596</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2050/original/719-rockymtnruby2011-crud-is-not-rest-hypermedia-for-y-all-small.mp4?1318092596</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-05</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_718_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_718_screen.png">
+	<title>API Design Matters - Anthony Eden - Rocky Mountain Ruby 2011</title>
+	<contentId>718</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2048/original/718-rockymtnruby2011-api-design-matters-small.mp4?1317866566</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2048/original/718-rockymtnruby2011-api-design-matters-small.mp4?1317866566</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-05</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_717_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_717_screen.png">
+	<title>Opening Keynote: Code Blindness - Michael Feathers - Rocky Mountain Ruby 2011</title>
+	<contentId>717</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/1978/original/717-rockymtnruby2011-opening-keynote-small.mp4?1317784620</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/1978/original/717-rockymtnruby2011-opening-keynote-small.mp4?1317784620</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-04</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_716_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_716_screen.png">
+	<title>Focus? Why Do I Need More Stinkin' Focus? - Mike Gehard - Rocky Mountain Ruby 2011</title>
+	<contentId>716</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/1973/original/716-rockymtnruby2011-focus-why-do-i-need-more-stinkin-focus-small.mp4?1317775918</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/1973/original/716-rockymtnruby2011-focus-why-do-i-need-more-stinkin-focus-small.mp4?1317775918</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_740_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_740_screen.png">
+	<title>Ruby Coding High - Jim Weirich, Zef Houssney - Rocky Mountain Ruby 2011</title>
+	<contentId>740</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2124/original/740-rockymtnruby2011-ruby-coding-high-large.mp4?1318272832</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2123/original/740-rockymtnruby2011-ruby-coding-high-small.mp4?1318272830</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-10</publish_date>
+	</item>
+</feed>

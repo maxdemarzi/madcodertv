@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_805_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_805_screen.png">
+	<title>Keynote: People The Missing Ingredient - Joe O'Brien - LA Ruby Conference 2012</title>
+	<contentId>805</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/3040/original/805-larubyconf2012-keynote-people-the-missing-ingredient-large.mp4?1331666131</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/3039/original/805-larubyconf2012-keynote-people-the-missing-ingredient-small.mp4?1331666119</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2012-03-13</publish_date>
+	</item>
+</feed>

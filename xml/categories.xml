@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <categories>	  
 	<category title="Confreaks" description="Conference Recordings" sd_img="http://madcoder.tv/images/confreaks/confreaks_logo.jpg" hd_img="http://madcoder.tv/images/confreaks/confreaks_logo.jpg">
-  	    <categoryLeaf title="Golden Gate Ruby 2011" description="Golden Gate Ruby Conference 2011" feed="http://madcoder.tv/xml/cf46.xml"/>
+  	  <categoryLeaf title="LA Ruby 2012" description="LA Ruby 2012" feed="http://madcoder.tv/xml/cf52.xml"/>
+  	  <categoryLeaf title="Mag Rails 2011" description="MagRails 2011" feed="http://madcoder.tv/xml/cf51.xml"/>
+  	  <categoryLeaf title="Ruby Midwest 2011" description="Ruby Midwest 2011" feed="http://madcoder.tv/xml/cf49.xml"/>
+  	  <categoryLeaf title="Mountain.rb 2011" description="Rocky Mountain Ruby Conference 2011" feed="http://madcoder.tv/xml/cf48.xml"/>
+  	  <categoryLeaf title="Ruby Conf 2011" description="Ruby Conference 2011" feed="http://madcoder.tv/xml/cf47.xml"/>
+  	  <categoryLeaf title="Golden Gate Ruby 2011" description="Golden Gate Ruby Conference 2011" feed="http://madcoder.tv/xml/cf46.xml"/>
 	    <categoryLeaf title="Cascadia Ruby 2011" description="Cascadia Ruby 2011" feed="http://madcoder.tv/xml/cf43.xml"/>
 	    <categoryLeaf title="SRC 2011" description="Scotland Ruby 2011" feed="http://madcoder.tv/xml/cf41.xml"/>
 	    <categoryLeaf title="Farmhouse 2011" description="Farmhouse Conf 2011" feed="http://madcoder.tv/xml/cf40.xml"/>

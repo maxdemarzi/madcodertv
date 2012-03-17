@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_770_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_770_screen.png">
+	<title>Keynote - Andy Hunt - Ruby Midwest 2011</title>
+	<contentId>770</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2977/original/770-rubymidwest2011-keynote-large.mp4?1326365207</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2976/original/770-rubymidwest2011-keynote-small.mp4?1326365200</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2012-01-11</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_769_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_769_screen.png">
+	<title>Final Boss: Ruby/Rails in the Video Game Industry  - David Czarnecki - Ruby Midwest 2011</title>
+	<contentId>769</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2980/original/769-rubymidwest2011-final-boss-ruby-rails-in-the-video-game-industry-large.mp4?1326365211</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2978/original/769-rubymidwest2011-final-boss-ruby-rails-in-the-video-game-industry-small.mp4?1326365209</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2012-01-11</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_768_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_768_screen.png">
+	<title>High Performance Ruby:  Threading versus Evented  - Dr. Nic Williams - Ruby Midwest 2011</title>
+	<contentId>768</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2983/original/768-rubymidwest2011-high-performance-ruby-threading-versus-evented-large.mp4?1326365217</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2982/original/768-rubymidwest2011-high-performance-ruby-threading-versus-evented-small.mp4?1326365216</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2012-01-11</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_767_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_767_screen.png">
+	<title>Life on the Edge - James Edward Gray II - Ruby Midwest 2011</title>
+	<contentId>767</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2954/original/d2-08-life-on-the-edge.mp4?1326175295</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2954/original/d2-08-life-on-the-edge.mp4?1326175295</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2012-01-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_766_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_766_screen.png">
+	<title>People Patterns - Joe O'Brien - Ruby Midwest 2011</title>
+	<contentId>766</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2713/original/766-rubymidwest2011-people-patterns-large.mp4?1323839663</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2712/original/766-rubymidwest2011-people-patterns-small.mp4?1323839653</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_765_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_765_screen.png">
+	<title>Recommendation Engines using  Machine Learning, and JRuby  - Matt Kirk - Ruby Midwest 2011</title>
+	<contentId>765</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/3001/original/765-rubymidwest2011-recommendation-engines-using-machine-learning-and-jruby-large.mp4?1326411596</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/3000/original/765-rubymidwest2011-recommendation-engines-using-machine-learning-and-jruby-small.mp4?1326411594</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2012-01-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_764_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_764_screen.png">
+	<title>Modern Databases - Eric Redmond - Ruby Midwest 2011</title>
+	<contentId>764</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2998/original/764-rubymidwest2011-modern-databases-large.mp4?1326411565</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2997/original/764-rubymidwest2011-modern-databases-small.mp4?1326411563</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2012-01-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_763_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_763_screen.png">
+	<title>Confident Code - Avdi Grimm - Ruby Midwest 2011</title>
+	<contentId>763</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2995/original/763-rubymidwest2011-confident-code-large.mp4?1326411554</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2994/original/763-rubymidwest2011-confident-code-small.mp4?1326411552</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2012-01-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_762_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_762_screen.png">
+	<title>Make Awesome Command-Line Apps with Ruby  - David Copeland - Ruby Midwest 2011</title>
+	<contentId>762</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2992/original/762-rubymidwest2011-make-awesome-command-line-apps-with-ruby-large.mp4?1326411351</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2991/original/762-rubymidwest2011-make-awesome-command-line-apps-with-ruby-small.mp4?1326411350</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2012-01-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_761_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_761_screen.png">
+	<title>Running Red Hat OpenShift  with a little help from Ruby  - Matt Hicks - Ruby Midwest 2011</title>
+	<contentId>761</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2989/original/761-rubymidwest2011-running-red-hat-openshift-with-a-little-help-from-ruby-large.mp4?1326411281</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2988/original/761-rubymidwest2011-running-red-hat-openshift-with-a-little-help-from-ruby-small.mp4?1326411280</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2012-01-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_760_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_760_screen.png">
+	<title>Mastering the Ruby Debugger - Jim Weirich - Ruby Midwest 2011</title>
+	<contentId>760</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2959/original/760-rubymidwest2011-mastering-the-ruby-debugger-large.mp4?1326186609</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2958/original/760-rubymidwest2011-mastering-the-ruby-debugger-small.mp4?1326186603</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_759_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_759_screen.png">
+	<title>Keynote: Architecture the Lost Years - Robert Martin - Ruby Midwest 2011</title>
+	<contentId>759</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2716/original/759-rubymidwest2011-keynote-architecture-the-lost-years-large.mp4?1323842135</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2715/original/759-rubymidwest2011-keynote-architecture-the-lost-years-small.mp4?1323842126</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>1900-01-01</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_758_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_758_screen.png">
+	<title>Ruby Community: Awesome; Could Be Awesomer   - Marty Haught - Ruby Midwest 2011</title>
+	<contentId>758</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2986/original/758-rubymidwest2011-ruby-community-awesome-could-be-awesomer-large.mp4?1326399257</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2985/original/758-rubymidwest2011-ruby-community-awesome-could-be-awesomer-small.mp4?1326399253</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2012-01-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_757_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_757_screen.png">
+	<title>Does pair programming have to suck? - Angela Harms - Ruby Midwest 2011</title>
+	<contentId>757</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2876/original/757-rubymidwest2011-does-pair-programming-have-to-suck-large.mp4?1325725794</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2875/original/757-rubymidwest2011-does-pair-programming-have-to-suck-small.mp4?1325725791</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2012-01-04</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_756_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_756_screen.png">
+	<title>Break It Down - Ben Scofield - Ruby Midwest 2011</title>
+	<contentId>756</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2873/original/756-rubymidwest2011-break-it-down-large.mp4?1325725785</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2872/original/756-rubymidwest2011-break-it-down-small.mp4?1325725780</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2012-01-04</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_755_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_755_screen.png">
+	<title>Test Your Legacy Rails Code - Noel Rappin - Ruby Midwest 2011</title>
+	<contentId>755</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2870/original/755-rubymidwest2011-test-your-legacy-rails-code-large.mp4?1325725660</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2869/original/755-rubymidwest2011-test-your-legacy-rails-code-small.mp4?1325725652</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2012-01-04</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_754_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_754_screen.png">
+	<title>How GitHub Uses GitHub to Build GitHub  - Zach Holman - Ruby Midwest 2011</title>
+	<contentId>754</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2828/original/754-rubymidwest2011-how-github-uses-github-to-build-github-large.mp4?1325613707</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2827/original/754-rubymidwest2011-how-github-uses-github-to-build-github-small.mp4?1325613704</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2012-01-02</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_753_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_753_screen.png">
+	<title>Beyond Web Development  - Ruby Rogues, David Copeland, James Edward Gray II, Avdi Grimm - Ruby Midwest 2011</title>
+	<contentId>753</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2825/original/753-rubymidwest2011-beyond-web-development-large.mp4?1325613674</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2824/original/753-rubymidwest2011-beyond-web-development-small.mp4?1325613665</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2012-01-02</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_752_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_752_screen.png">
+	<title>ActiveRecord Anti-Patterns for Fun and Profit  - Ethan Gunderson - Ruby Midwest 2011</title>
+	<contentId>752</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2814/original/752-rubymidwest2011-activerecord-anti-patterns-for-fun-and-profit-large.mp4?1325114378</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2813/original/752-rubymidwest2011-activerecord-anti-patterns-for-fun-and-profit-small.mp4?1325114377</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-12-28</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_751_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_751_screen.png">
+	<title>Rails is the New Rails  - Michael Bleigh - Ruby Midwest 2011</title>
+	<contentId>751</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2811/original/751-rubymidwest2011-rails-is-the-new-rails-large.mp4?1325114370</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2810/original/751-rubymidwest2011-rails-is-the-new-rails-small.mp4?1325114369</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-12-28</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_750_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_750_screen.png">
+	<title>Ruby Safari - Ola Bini - Ruby Midwest 2011</title>
+	<contentId>750</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2911/original/750-rubymidwest2011-ruby-safari-large.mp4?1326127550</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2910/original/750-rubymidwest2011-ruby-safari-small.mp4?1326127547</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2012-01-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_749_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_749_screen.png">
+	<title>No Sudo for You! - Rogelio J. Samour - Ruby Midwest 2011</title>
+	<contentId>749</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2723/original/749-rubymidwest2011-no-sudo-for-you-large.mp4?1324344033</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://confreaks.nethttp://cdn.confreaks.com/system/assets/datas/2722/original/749-rubymidwest2011-no-sudo-for-you-small.mp4?1324344028</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-12-19</publish_date>
+	</item>
+</feed>
