@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_782_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_782_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_782_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_782_screen.jpg">
 	<title>Pattern Matching - Aaron Patterson - MagRails 2011</title>
 	<contentId>782</contentId>
 	<contentType>Talk</contentType>
@@ -19,7 +19,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-12-23</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_781_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_781_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_781_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_781_screen.jpg">
 	<title>Consuming REST API's in Ruby - Stevie Graham - MagRails 2011</title>
 	<contentId>781</contentId>
 	<contentType>Talk</contentType>
@@ -38,7 +38,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-12-23</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_780_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_780_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_780_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_780_screen.jpg">
 	<title>Talking to Rails - Ben Langfield - MagRails 2011</title>
 	<contentId>780</contentId>
 	<contentType>Talk</contentType>
@@ -57,7 +57,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-12-23</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_779_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_779_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_779_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_779_screen.jpg">
 	<title>#NoCV - Bob Marshell - MagRails 2011</title>
 	<contentId>779</contentId>
 	<contentType>Talk</contentType>
@@ -76,7 +76,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-12-23</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_778_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_778_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_778_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_778_screen.jpg">
 	<title>Grown Up Web App Deployment - Lee Hambley - MagRails 2011</title>
 	<contentId>778</contentId>
 	<contentType>Talk</contentType>
@@ -95,7 +95,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-12-23</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_777_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_777_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_777_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_777_screen.jpg">
 	<title>Faster Rails Tests - Tom Clements - MagRails 2011</title>
 	<contentId>777</contentId>
 	<contentType>Talk</contentType>
@@ -114,7 +114,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-12-23</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_776_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_776_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_776_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_776_screen.jpg">
 	<title>The quest for agility - Rachel Davies - MagRails 2011</title>
 	<contentId>776</contentId>
 	<contentType>Talk</contentType>
@@ -133,7 +133,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-12-23</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_775_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_775_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_775_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_775_screen.jpg">
 	<title>Herding Cats - Paul Battley - MagRails 2011</title>
 	<contentId>775</contentId>
 	<contentType>Talk</contentType>
@@ -152,7 +152,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-12-23</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_774_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_774_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_774_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_774_screen.jpg">
 	<title>Better Teams and Better Planning - Sam Phillips - MagRails 2011</title>
 	<contentId>774</contentId>
 	<contentType>Talk</contentType>
@@ -171,7 +171,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-12-23</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_773_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_773_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_773_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_773_screen.jpg">
 	<title>Wolfpack Programming - Jason Ayers - MagRails 2011</title>
 	<contentId>773</contentId>
 	<contentType>Talk</contentType>
@@ -190,7 +190,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-12-23</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_772_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_772_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_772_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_772_screen.jpg">
 	<title>When to Break The Rules - Joe O'Brien - MagRails 2011</title>
 	<contentId>772</contentId>
 	<contentType>Talk</contentType>

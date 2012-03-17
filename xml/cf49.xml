@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_770_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_770_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_770_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_770_screen.jpg">
 	<title>Keynote - Andy Hunt - Ruby Midwest 2011</title>
 	<contentId>770</contentId>
 	<contentType>Talk</contentType>
@@ -19,7 +19,7 @@
 	<synopsis></synopsis>
 	<publish_date>2012-01-11</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_769_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_769_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_769_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_769_screen.jpg">
 	<title>Final Boss: Ruby/Rails in the Video Game Industry  - David Czarnecki - Ruby Midwest 2011</title>
 	<contentId>769</contentId>
 	<contentType>Talk</contentType>
@@ -38,7 +38,7 @@
 	<synopsis></synopsis>
 	<publish_date>2012-01-11</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_768_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_768_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_768_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_768_screen.jpg">
 	<title>High Performance Ruby:  Threading versus Evented  - Dr. Nic Williams - Ruby Midwest 2011</title>
 	<contentId>768</contentId>
 	<contentType>Talk</contentType>
@@ -57,7 +57,7 @@
 	<synopsis></synopsis>
 	<publish_date>2012-01-11</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_767_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_767_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_767_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_767_screen.jpg">
 	<title>Life on the Edge - James Edward Gray II - Ruby Midwest 2011</title>
 	<contentId>767</contentId>
 	<contentType>Talk</contentType>
@@ -76,7 +76,7 @@
 	<synopsis></synopsis>
 	<publish_date>2012-01-09</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_766_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_766_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_766_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_766_screen.jpg">
 	<title>People Patterns - Joe O'Brien - Ruby Midwest 2011</title>
 	<contentId>766</contentId>
 	<contentType>Talk</contentType>
@@ -95,7 +95,7 @@
 	<synopsis></synopsis>
 	<publish_date>1900-01-01</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_765_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_765_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_765_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_765_screen.jpg">
 	<title>Recommendation Engines using  Machine Learning, and JRuby  - Matt Kirk - Ruby Midwest 2011</title>
 	<contentId>765</contentId>
 	<contentType>Talk</contentType>
@@ -114,7 +114,7 @@
 	<synopsis></synopsis>
 	<publish_date>2012-01-09</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_764_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_764_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_764_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_764_screen.jpg">
 	<title>Modern Databases - Eric Redmond - Ruby Midwest 2011</title>
 	<contentId>764</contentId>
 	<contentType>Talk</contentType>
@@ -133,7 +133,7 @@
 	<synopsis></synopsis>
 	<publish_date>2012-01-09</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_763_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_763_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_763_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_763_screen.jpg">
 	<title>Confident Code - Avdi Grimm - Ruby Midwest 2011</title>
 	<contentId>763</contentId>
 	<contentType>Talk</contentType>
@@ -152,7 +152,7 @@
 	<synopsis></synopsis>
 	<publish_date>2012-01-09</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_762_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_762_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_762_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_762_screen.jpg">
 	<title>Make Awesome Command-Line Apps with Ruby  - David Copeland - Ruby Midwest 2011</title>
 	<contentId>762</contentId>
 	<contentType>Talk</contentType>
@@ -171,7 +171,7 @@
 	<synopsis></synopsis>
 	<publish_date>2012-01-09</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_761_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_761_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_761_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_761_screen.jpg">
 	<title>Running Red Hat OpenShift  with a little help from Ruby  - Matt Hicks - Ruby Midwest 2011</title>
 	<contentId>761</contentId>
 	<contentType>Talk</contentType>
@@ -190,7 +190,7 @@
 	<synopsis></synopsis>
 	<publish_date>2012-01-09</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_760_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_760_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_760_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_760_screen.jpg">
 	<title>Mastering the Ruby Debugger - Jim Weirich - Ruby Midwest 2011</title>
 	<contentId>760</contentId>
 	<contentType>Talk</contentType>
@@ -209,7 +209,7 @@
 	<synopsis></synopsis>
 	<publish_date>1900-01-01</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_759_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_759_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_759_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_759_screen.jpg">
 	<title>Keynote: Architecture the Lost Years - Robert Martin - Ruby Midwest 2011</title>
 	<contentId>759</contentId>
 	<contentType>Talk</contentType>
@@ -228,7 +228,7 @@
 	<synopsis></synopsis>
 	<publish_date>1900-01-01</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_758_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_758_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_758_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_758_screen.jpg">
 	<title>Ruby Community: Awesome; Could Be Awesomer   - Marty Haught - Ruby Midwest 2011</title>
 	<contentId>758</contentId>
 	<contentType>Talk</contentType>
@@ -247,7 +247,7 @@
 	<synopsis></synopsis>
 	<publish_date>2012-01-09</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_757_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_757_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_757_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_757_screen.jpg">
 	<title>Does pair programming have to suck? - Angela Harms - Ruby Midwest 2011</title>
 	<contentId>757</contentId>
 	<contentType>Talk</contentType>
@@ -266,7 +266,7 @@
 	<synopsis></synopsis>
 	<publish_date>2012-01-04</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_756_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_756_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_756_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_756_screen.jpg">
 	<title>Break It Down - Ben Scofield - Ruby Midwest 2011</title>
 	<contentId>756</contentId>
 	<contentType>Talk</contentType>
@@ -285,7 +285,7 @@
 	<synopsis></synopsis>
 	<publish_date>2012-01-04</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_755_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_755_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_755_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_755_screen.jpg">
 	<title>Test Your Legacy Rails Code - Noel Rappin - Ruby Midwest 2011</title>
 	<contentId>755</contentId>
 	<contentType>Talk</contentType>
@@ -304,7 +304,7 @@
 	<synopsis></synopsis>
 	<publish_date>2012-01-04</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_754_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_754_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_754_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_754_screen.jpg">
 	<title>How GitHub Uses GitHub to Build GitHub  - Zach Holman - Ruby Midwest 2011</title>
 	<contentId>754</contentId>
 	<contentType>Talk</contentType>
@@ -323,7 +323,7 @@
 	<synopsis></synopsis>
 	<publish_date>2012-01-02</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_753_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_753_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_753_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_753_screen.jpg">
 	<title>Beyond Web Development  - Ruby Rogues, David Copeland, James Edward Gray II, Avdi Grimm - Ruby Midwest 2011</title>
 	<contentId>753</contentId>
 	<contentType>Talk</contentType>
@@ -342,7 +342,7 @@
 	<synopsis></synopsis>
 	<publish_date>2012-01-02</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_752_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_752_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_752_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_752_screen.jpg">
 	<title>ActiveRecord Anti-Patterns for Fun and Profit  - Ethan Gunderson - Ruby Midwest 2011</title>
 	<contentId>752</contentId>
 	<contentType>Talk</contentType>
@@ -361,7 +361,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-12-28</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_751_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_751_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_751_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_751_screen.jpg">
 	<title>Rails is the New Rails  - Michael Bleigh - Ruby Midwest 2011</title>
 	<contentId>751</contentId>
 	<contentType>Talk</contentType>
@@ -380,7 +380,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-12-28</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_750_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_750_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_750_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_750_screen.jpg">
 	<title>Ruby Safari - Ola Bini - Ruby Midwest 2011</title>
 	<contentId>750</contentId>
 	<contentType>Talk</contentType>
@@ -399,7 +399,7 @@
 	<synopsis></synopsis>
 	<publish_date>2012-01-09</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_749_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_749_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_749_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_749_screen.jpg">
 	<title>No Sudo for You! - Rogelio J. Samour - Ruby Midwest 2011</title>
 	<contentId>749</contentId>
 	<contentType>Talk</contentType>

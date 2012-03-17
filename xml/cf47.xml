@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_713_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_713_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_713_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_713_screen.jpg">
 	<title>Sandboxing Ruby: The Good, the Bad, and the Fugly. - Eric Allam  - Ruby Conference 2011</title>
 	<contentId>713</contentId>
 	<contentType>Talk</contentType>
@@ -19,7 +19,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-11-23</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_714_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_714_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_714_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_714_screen.jpg">
 	<title>Complex Ruby concepts dummified - Matt Aimonetti - Ruby Conference 2011</title>
 	<contentId>714</contentId>
 	<contentType>Talk</contentType>
@@ -38,7 +38,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-11-30</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_715_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_715_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_715_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_715_screen.jpg">
 	<title>MongoMapper, Mixins, and Migrations - a look at managing data-model complexity - Tim Connor - Ruby Conference 2011</title>
 	<contentId>715</contentId>
 	<contentType>Talk</contentType>
@@ -57,7 +57,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-12-02</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_710_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_710_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_710_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_710_screen.jpg">
 	<title>Advanced API design: how an awesome API can attract friends, make you rich, and change the world - Jonathan Dahl - Ruby Conference 2011</title>
 	<contentId>710</contentId>
 	<contentType>Talk</contentType>
@@ -76,7 +76,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-11-22</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_711_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_711_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_711_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_711_screen.jpg">
 	<title>Laser: Static Analysis for Ruby, in Ruby - Michael Edgar  - Ruby Conference 2011</title>
 	<contentId>711</contentId>
 	<contentType>Talk</contentType>
@@ -95,7 +95,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-11-30</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_712_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_712_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_712_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_712_screen.jpg">
 	<title>GitHub Flavored Ruby - Tom Preston-Werner - Ruby Conference 2011</title>
 	<contentId>712</contentId>
 	<contentType>Talk</contentType>
@@ -114,7 +114,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-12-03</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_707_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_707_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_707_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_707_screen.jpg">
 	<title>Go  Ruby - Eleanor McHugh - Ruby Conference 2011</title>
 	<contentId>707</contentId>
 	<contentType>Talk</contentType>
@@ -133,7 +133,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-11-21</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_708_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_708_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_708_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_708_screen.jpg">
 	<title>Ruby Community: Awesome; Could Be Awesomer - Marty Haught - Ruby Conference 2011</title>
 	<contentId>708</contentId>
 	<contentType>Talk</contentType>
@@ -152,7 +152,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-11-28</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_709_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_709_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_709_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_709_screen.jpg">
 	<title>Threading versus Evented - Dr. Nic Williams - Ruby Conference 2011</title>
 	<contentId>709</contentId>
 	<contentType>Talk</contentType>
@@ -171,7 +171,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-12-03</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_704_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_704_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_704_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_704_screen.jpg">
 	<title>Ruby in the browser with NativeClient (NaCl) - Ilya Grigorik - Ruby Conference 2011</title>
 	<contentId>704</contentId>
 	<contentType>Talk</contentType>
@@ -190,7 +190,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-11-18</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_705_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_705_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_705_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_705_screen.jpg">
 	<title>Next Level Virtual Machine Maneuver! - Mitchell Hashimoto - Ruby Conference 2011</title>
 	<contentId>705</contentId>
 	<contentType>Talk</contentType>
@@ -209,7 +209,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-11-28</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_706_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_706_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_706_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_706_screen.jpg">
 	<title>How GitHub Uses GitHub to Build GitHub - Zach Holman - Ruby Conference 2011</title>
 	<contentId>706</contentId>
 	<contentType>Talk</contentType>
@@ -228,7 +228,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-12-01</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_701_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_701_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_701_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_701_screen.jpg">
 	<title>Debugging Ruby - Hemant Kumar  - Ruby Conference 2011</title>
 	<contentId>701</contentId>
 	<contentType>Talk</contentType>
@@ -247,7 +247,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-11-18</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_702_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_702_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_702_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_702_screen.jpg">
 	<title>Scaling Ruby with Actors, or How I Learned to Stop Worrying and Love Threads - Mike Perham - Ruby Conference 2011</title>
 	<contentId>702</contentId>
 	<contentType>Talk</contentType>
@@ -266,7 +266,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-11-28</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_703_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_703_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_703_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_703_screen.jpg">
 	<title>Raising the Bar - Tyler Hunt - Ruby Conference 2011</title>
 	<contentId>703</contentId>
 	<contentType>Talk</contentType>
@@ -285,7 +285,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-12-01</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_700_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_700_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_700_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_700_screen.jpg">
 	<title>Q&A with Matz - Yukihiro 'Matz' Matsumoto - Ruby Conference 2011</title>
 	<contentId>700</contentId>
 	<contentType>Talk</contentType>
@@ -304,7 +304,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-11-02</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_737_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_737_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_737_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_737_screen.jpg">
 	<title>Lightning Talk: Let's go to "Shibuya Rubyist Lunch" at Tokyo, Japan - Toshiaki Koshiba - Ruby Conference 2011</title>
 	<contentId>737</contentId>
 	<contentType>Talk</contentType>
@@ -323,7 +323,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-05</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_736_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_736_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_736_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_736_screen.jpg">
 	<title>Lightning Talk: company_fit.should_not == monoculture - Tim Connor - Ruby Conference 2011</title>
 	<contentId>736</contentId>
 	<contentType>Talk</contentType>
@@ -342,7 +342,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-05</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_741_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_741_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_741_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_741_screen.jpg">
 	<title>Lightning Talks - Various Presenters - Ruby Conference 2011</title>
 	<contentId>741</contentId>
 	<contentType>Talk</contentType>
@@ -361,7 +361,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-13</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_697_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_697_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_697_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_697_screen.jpg">
 	<title>Your tests are lying to you - Chris  Parsons - Ruby Conference 2011</title>
 	<contentId>697</contentId>
 	<contentType>Talk</contentType>
@@ -380,7 +380,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-29</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_698_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_698_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_698_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_698_screen.jpg">
 	<title>Float is Legacy - Kenta Murata - Ruby Conference 2011</title>
 	<contentId>698</contentId>
 	<contentType>Talk</contentType>
@@ -399,7 +399,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-31</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_699_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_699_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_699_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_699_screen.jpg">
 	<title>Resources, For Real This Time (with Webmachine) - Sean Cribbs - Ruby Conference 2011</title>
 	<contentId>699</contentId>
 	<contentType>Talk</contentType>
@@ -418,7 +418,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-11-15</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_694_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_694_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_694_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_694_screen.jpg">
 	<title>Test-drive the development of your command-line applications - David Copeland - Ruby Conference 2011</title>
 	<contentId>694</contentId>
 	<contentType>Talk</contentType>
@@ -437,7 +437,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-27</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_695_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_695_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_695_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_695_screen.jpg">
 	<title>Just Say No To :nodoc: and Document Your Code! - Loren Segal - Ruby Conference 2011</title>
 	<contentId>695</contentId>
 	<contentType>Talk</contentType>
@@ -456,7 +456,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-31</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_696_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_696_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_696_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_696_screen.jpg">
 	<title>Be a Minecraft modman with Purugin - Thomas Enebo - Ruby Conference 2011</title>
 	<contentId>696</contentId>
 	<contentType>Talk</contentType>
@@ -475,7 +475,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-11-02</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_691_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_691_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_691_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_691_screen.jpg">
 	<title>Nikita: The Ruby Secret Agent - Brian Ford - Ruby Conference 2011</title>
 	<contentId>691</contentId>
 	<contentType>Talk</contentType>
@@ -494,7 +494,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-27</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_692_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_692_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_692_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_692_screen.jpg">
 	<title>Must It Always Be About Sex? - Joshua Wehner - Ruby Conference 2011</title>
 	<contentId>692</contentId>
 	<contentType>Talk</contentType>
@@ -513,7 +513,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-31</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_693_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_693_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_693_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_693_screen.jpg">
 	<title>KidsRuby: Think Of The Children! - Ron Evans - Ruby Conference 2011</title>
 	<contentId>693</contentId>
 	<contentType>Talk</contentType>
@@ -532,7 +532,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-11-15</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_688_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_688_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_688_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_688_screen.jpg">
 	<title>Getting Fancy on Rubinius  - Christopher Bertels - Ruby Conference 2011</title>
 	<contentId>688</contentId>
 	<contentType>Talk</contentType>
@@ -551,7 +551,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-27</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_689_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_689_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_689_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_689_screen.jpg">
 	<title>Implementation of Ruby 1.9.3 and later  - Koichi Sasada - Ruby Conference 2011</title>
 	<contentId>689</contentId>
 	<contentType>Talk</contentType>
@@ -570,7 +570,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-31</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_690_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_690_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_690_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_690_screen.jpg">
 	<title>Parallel Testing World  - Shota Fukumori - Ruby Conference 2011</title>
 	<contentId>690</contentId>
 	<contentType>Talk</contentType>
@@ -589,7 +589,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-11-02</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_685_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_685_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_685_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_685_screen.jpg">
 	<title>The Well-Grounded Nuby  - David A. Black - Ruby Conference 2011</title>
 	<contentId>685</contentId>
 	<contentType>Talk</contentType>
@@ -608,7 +608,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-27</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_686_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_686_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_686_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_686_screen.jpg">
 	<title>MacRuby on Rails  - Kouji Takao - Ruby Conference 2011</title>
 	<contentId>686</contentId>
 	<contentType>Talk</contentType>
@@ -627,7 +627,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-31</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_687_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_687_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_687_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_687_screen.jpg">
 	<title>Practical Metaprogramming: "Modeling Thought"; Or, Lessons Learned While Using Ruby's MP System to Model a 2,500 Year-Old, Dead Language - Steven Harms - Ruby Conference 2011</title>
 	<contentId>687</contentId>
 	<contentType>Talk</contentType>
@@ -646,7 +646,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-11-02</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_682_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_682_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_682_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_682_screen.jpg">
 	<title>The Secret Life of Ruby: Warrior With A Cause  - Dewayne VanHoozer - Ruby Conference 2011</title>
 	<contentId>682</contentId>
 	<contentType>Talk</contentType>
@@ -665,7 +665,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-27</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_683_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_683_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_683_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_683_screen.jpg">
 	<title>Ruby OpenSSL: Present, Future and why it matters   - Martin BoÃŸlet - Ruby Conference 2011</title>
 	<contentId>683</contentId>
 	<contentType>Talk</contentType>
@@ -684,7 +684,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-31</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_684_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_684_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_684_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_684_screen.jpg">
 	<title>JRuby: Polyglot Heaven - Charles Nutter, Thomas Enebo - Ruby Conference 2011</title>
 	<contentId>684</contentId>
 	<contentType>Talk</contentType>
@@ -703,7 +703,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-31</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_missing_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_missing_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_missing_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_missing_screen.jpg">
 	<title>Services Inception with Ruby - Dave McCrory - Ruby Conference 2011</title>
 	<contentId>679</contentId>
 	<contentType>Talk</contentType>
@@ -722,7 +722,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-27</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_680_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_680_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_680_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_680_screen.jpg">
 	<title>Message in a bottle - Konstantin Haase - Ruby Conference 2011</title>
 	<contentId>680</contentId>
 	<contentType>Talk</contentType>
@@ -741,7 +741,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-31</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_681_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_681_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_681_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_681_screen.jpg">
 	<title>The Return of Shoes  - Steve Klabnik  - Ruby Conference 2011</title>
 	<contentId>681</contentId>
 	<contentType>Talk</contentType>
@@ -760,7 +760,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-31</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_676_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_676_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_676_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_676_screen.jpg">
 	<title>Ruby Software Continuously Delivered and Exhaustively Explained  - Srushti Ambekallu, Brian Guthrie - Ruby Conference 2011</title>
 	<contentId>676</contentId>
 	<contentType>Talk</contentType>
@@ -779,7 +779,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-26</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_677_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_677_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_677_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_677_screen.jpg">
 	<title>A Mentor in the Limelight - Paul Pagel - Ruby Conference 2011</title>
 	<contentId>677</contentId>
 	<contentType>Talk</contentType>
@@ -798,7 +798,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-29</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_678_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_678_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_678_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_678_screen.jpg">
 	<title>MongoDB to MySQL: the How and the Why  - Sarah Mei - Ruby Conference 2011</title>
 	<contentId>678</contentId>
 	<contentType>Talk</contentType>
@@ -817,7 +817,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-31</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_673_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_673_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_673_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_673_screen.jpg">
 	<title>Powerful (but Easy) Data Visualization with the Graph Gem  - Aja Hammerly - Ruby Conference 2011</title>
 	<contentId>673</contentId>
 	<contentType>Talk</contentType>
@@ -836,7 +836,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-20</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_674_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_674_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_674_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_674_screen.jpg">
 	<title>JRuby and Big Data  - Jeremy Hinegardner - Ruby Conference 2011</title>
 	<contentId>674</contentId>
 	<contentType>Talk</contentType>
@@ -855,7 +855,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-24</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_675_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_675_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_675_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_675_screen.jpg">
 	<title>Rails services in the walled garden  - Sidu Ponnappa, Niranjan Paranjape - Ruby Conference 2011</title>
 	<contentId>675</contentId>
 	<contentType>Talk</contentType>
@@ -874,7 +874,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-24</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_670_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_670_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_670_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_670_screen.jpg">
 	<title>Better Than ROT13  - Bradley Grzesiak - Ruby Conference 2011</title>
 	<contentId>670</contentId>
 	<contentType>Talk</contentType>
@@ -893,7 +893,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-20</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_671_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_671_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_671_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_671_screen.jpg">
 	<title>Keeping Ruby Reasonable - Joshua Ballanco - Ruby Conference 2011</title>
 	<contentId>671</contentId>
 	<contentType>Talk</contentType>
@@ -912,7 +912,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-24</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_672_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_672_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_672_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_672_screen.jpg">
 	<title>Pure Ruby GUI  - Micah Martin, Robert Martin - Ruby Conference 2011</title>
 	<contentId>672</contentId>
 	<contentType>Talk</contentType>
@@ -931,7 +931,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-21</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_667_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_667_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_667_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_667_screen.jpg">
 	<title>Release Early and Release Often: Reducing deployment friction  - Andy Delcambre - Ruby Conference 2011</title>
 	<contentId>667</contentId>
 	<contentType>Talk</contentType>
@@ -950,7 +950,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-19</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_668_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_668_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_668_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_668_screen.jpg">
 	<title>Code design and the science of pleasure  - Jonas Nicklas - Ruby Conference 2011</title>
 	<contentId>668</contentId>
 	<contentType>Talk</contentType>
@@ -969,7 +969,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-26</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_669_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_669_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_669_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_669_screen.jpg">
 	<title>LocalCommunity.Build, :through => Code Retreats, Bugmashes & more  - Prakash Murthy - Ruby Conference 2011</title>
 	<contentId>669</contentId>
 	<contentType>Talk</contentType>
@@ -988,7 +988,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-21</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_664_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_664_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_664_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_664_screen.jpg">
 	<title>Evented Telephony Application Design with Adhearsion  - Ben Klang - Ruby Conference 2011</title>
 	<contentId>664</contentId>
 	<contentType>Talk</contentType>
@@ -1007,7 +1007,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-24</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_665_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_665_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_665_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_665_screen.jpg">
 	<title>Advanced EventMachine  - Jonathan Weiss - Ruby Conference 2011</title>
 	<contentId>665</contentId>
 	<contentType>Talk</contentType>
@@ -1026,7 +1026,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-21</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_666_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_666_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_666_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_666_screen.jpg">
 	<title>How Getting Buff Can Make You a Better Rubyist  - Rob Sanheim - Ruby Conference 2011</title>
 	<contentId>666</contentId>
 	<contentType>Talk</contentType>
@@ -1045,7 +1045,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-21</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_661_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_661_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_661_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_661_screen.jpg">
 	<title>So You Think You Can Code: Part Deux - Aaron Patterson, Ben Bleything, Yossef Mendelssohn, John Barnette, Evan Phoenix - Ruby Conference 2011</title>
 	<contentId>661</contentId>
 	<contentType>Talk</contentType>
@@ -1064,7 +1064,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-19</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_662_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_662_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_662_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_662_screen.jpg">
 	<title>"Algorithms" is Not a Four-Letter Word  - Jamis Buck - Ruby Conference 2011</title>
 	<contentId>662</contentId>
 	<contentType>Talk</contentType>
@@ -1083,7 +1083,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-05</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_663_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_663_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_663_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_663_screen.jpg">
 	<title>Parallel worlds of CRuby's GC  - Narihiro Nakamura - Ruby Conference 2011</title>
 	<contentId>663</contentId>
 	<contentType>Talk</contentType>
@@ -1102,7 +1102,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-21</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_658_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_658_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_658_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_658_screen.jpg">
 	<title>Exceptional Ruby  - Avdi Grimm - Ruby Conference 2011</title>
 	<contentId>658</contentId>
 	<contentType>Talk</contentType>
@@ -1121,7 +1121,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-19</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_659_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_659_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_659_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_659_screen.jpg">
 	<title>Why You Don't Get Mock Objects  - Gregory Moeck - Ruby Conference 2011</title>
 	<contentId>659</contentId>
 	<contentType>Talk</contentType>
@@ -1140,7 +1140,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-05</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_660_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_660_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_660_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_660_screen.jpg">
 	<title>Blueprint: configuration management for busy people  - Richard Crowley - Ruby Conference 2011</title>
 	<contentId>660</contentId>
 	<contentType>Talk</contentType>
@@ -1159,7 +1159,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-21</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_655_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_655_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_655_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_655_screen.jpg">
 	<title>Big Data Enterprisy Analytics App and Ruby - Amit Kumar - Ruby Conference 2011</title>
 	<contentId>655</contentId>
 	<contentType>Talk</contentType>
@@ -1178,7 +1178,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-13</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_656_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_656_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_656_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_656_screen.jpg">
 	<title>Writing Solid Ruby Code - Jim Weirich - Ruby Conference 2011</title>
 	<contentId>656</contentId>
 	<contentType>Talk</contentType>
@@ -1197,7 +1197,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-05</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_657_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_657_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_657_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_657_screen.jpg">
 	<title>Persisting Relations Across Time and Space - Piotr Szotkowski - Ruby Conference 2011</title>
 	<contentId>657</contentId>
 	<contentType>Talk</contentType>
@@ -1216,7 +1216,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-20</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_654_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_654_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_654_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_654_screen.jpg">
 	<title>Keynote: Ruby Everywhere - Yukihiro 'Matz' Matsumoto - Ruby Conference 2011</title>
 	<contentId>654</contentId>
 	<contentType>Talk</contentType>

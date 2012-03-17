@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_739_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_739_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_739_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_739_screen.jpg">
 	<title>A Documentation Talk - Zach Holman - Rocky Mountain Ruby 2011</title>
 	<contentId>739</contentId>
 	<contentType>Talk</contentType>
@@ -19,7 +19,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-10</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_735_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_735_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_735_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_735_screen.jpg">
 	<title>Testing Panel - Jeff Casimir, Jim Holmes, Cory Flanigan, Justin Searls - Rocky Mountain Ruby 2011</title>
 	<contentId>735</contentId>
 	<contentType>Talk</contentType>
@@ -38,7 +38,7 @@
 	<synopsis></synopsis>
 	<publish_date>1900-01-01</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_738_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_738_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_738_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_738_screen.jpg">
 	<title>Surviving Growing from Zero to 15,000 Selenium Tests - Jim Holmes - Rocky Mountain Ruby 2011</title>
 	<contentId>738</contentId>
 	<contentType>Talk</contentType>
@@ -57,7 +57,7 @@
 	<synopsis></synopsis>
 	<publish_date>1900-01-01</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_733_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_733_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_733_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_733_screen.jpg">
 	<title>Start using Jasmine.  Write better JavaScript.  Profit. - Cory Flanigan, Justin Searls - Rocky Mountain Ruby 2011</title>
 	<contentId>733</contentId>
 	<contentType>Talk</contentType>
@@ -76,7 +76,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-08</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_747_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_747_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_747_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_747_screen.jpg">
 	<title>Active Hash - Jeff Dean - Rocky Mountain Ruby 2011</title>
 	<contentId>747</contentId>
 	<contentType>Talk</contentType>
@@ -95,7 +95,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-13</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_746_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_746_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_746_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_746_screen.jpg">
 	<title>Be Moar Ridiculous - Anthony Navarre - Rocky Mountain Ruby 2011</title>
 	<contentId>746</contentId>
 	<contentType>Talk</contentType>
@@ -114,7 +114,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-13</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_745_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_745_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_745_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_745_screen.jpg">
 	<title>BDSM Project SM Framework - Wayne E.  Seguin - Rocky Mountain Ruby 2011</title>
 	<contentId>745</contentId>
 	<contentType>Talk</contentType>
@@ -133,7 +133,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-13</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_744_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_744_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_744_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_744_screen.jpg">
 	<title>Lightning Talk: Do Your Commit Messages Suck - Ryan McGeary - Rocky Mountain Ruby 2011</title>
 	<contentId>744</contentId>
 	<contentType>Talk</contentType>
@@ -152,7 +152,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-13</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_743_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_743_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_743_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_743_screen.jpg">
 	<title>Lightning Talk: In Defense of Unless - Spike Ilacqua - Rocky Mountain Ruby 2011</title>
 	<contentId>743</contentId>
 	<contentType>Talk</contentType>
@@ -171,7 +171,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-13</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_742_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_742_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_742_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_742_screen.jpg">
 	<title>Lightning Talk: Deprecatable - Jeremy Hinegardner - Rocky Mountain Ruby 2011</title>
 	<contentId>742</contentId>
 	<contentType>Talk</contentType>
@@ -190,7 +190,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-13</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_732_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_732_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_732_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_732_screen.jpg">
 	<title>Lightning Talk: Developing Developers - Mike Gehard - Rocky Mountain Ruby 2011</title>
 	<contentId>732</contentId>
 	<contentType>Talk</contentType>
@@ -209,7 +209,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-13</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_731_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_731_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_731_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_731_screen.jpg">
 	<title>Cloning Twitter: Rails + Cassandra = Scalable Sharing - Charles Max Wood - Rocky Mountain Ruby 2011</title>
 	<contentId>731</contentId>
 	<contentType>Talk</contentType>
@@ -228,7 +228,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-08</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_730_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_730_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_730_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_730_screen.jpg">
 	<title>Ruby Messaging Patterns - Gerred Dillon - Rocky Mountain Ruby 2011</title>
 	<contentId>730</contentId>
 	<contentType>Talk</contentType>
@@ -247,7 +247,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-09</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_729_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_729_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_729_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_729_screen.jpg">
 	<title>There Are No Tests - Jeff Casimir - Rocky Mountain Ruby 2011</title>
 	<contentId>729</contentId>
 	<contentType>Talk</contentType>
@@ -266,7 +266,7 @@
 	<synopsis></synopsis>
 	<publish_date>1900-01-01</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_728_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_728_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_728_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_728_screen.jpg">
 	<title>Implementing Rails 3.1, Backbone.js, CoffeeScript, jQuery, Sass, and CouchDB on EC2 - Rod Cope - Rocky Mountain Ruby 2011</title>
 	<contentId>728</contentId>
 	<contentType>Talk</contentType>
@@ -285,7 +285,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-08</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_727_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_727_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_727_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_727_screen.jpg">
 	<title>Real Time Rack - Konstantin Haase - Rocky Mountain Ruby 2011</title>
 	<contentId>727</contentId>
 	<contentType>Talk</contentType>
@@ -304,7 +304,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-08</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_725_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_725_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_725_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_725_screen.jpg">
 	<title>Using Your Intuition for Innovation and Decision Making - Suzan Bond - Rocky Mountain Ruby 2011</title>
 	<contentId>725</contentId>
 	<contentType>Talk</contentType>
@@ -323,7 +323,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-05</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_724_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_724_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_724_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_724_screen.jpg">
 	<title>Cognitive Psychology and the Zen of Code - Jay Zeschin - Rocky Mountain Ruby 2011</title>
 	<contentId>724</contentId>
 	<contentType>Talk</contentType>
@@ -342,7 +342,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-05</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_723_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_723_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_723_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_723_screen.jpg">
 	<title>Code First, Ask Questions Later - Tim Clem - Rocky Mountain Ruby 2011</title>
 	<contentId>723</contentId>
 	<contentType>Talk</contentType>
@@ -361,7 +361,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-05</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_722_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_722_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_722_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_722_screen.jpg">
 	<title>Mastering the Ruby Debugger - Jim Weirich - Rocky Mountain Ruby 2011</title>
 	<contentId>722</contentId>
 	<contentType>Talk</contentType>
@@ -380,7 +380,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-05</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_721_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_721_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_721_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_721_screen.jpg">
 	<title>Things You Didn't Know About Exceptions - Avdi Grimm - Rocky Mountain Ruby 2011</title>
 	<contentId>721</contentId>
 	<contentType>Talk</contentType>
@@ -399,7 +399,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-05</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_720_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_720_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_720_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_720_screen.jpg">
 	<title>If You See the Mountain Lion, It's Too Late - Grant Blakeman - Rocky Mountain Ruby 2011</title>
 	<contentId>720</contentId>
 	<contentType>Talk</contentType>
@@ -418,7 +418,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-05</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_719_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_719_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_719_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_719_screen.jpg">
 	<title>CRUD is not REST - Hypermedia for Y'All! - Nick Sutterer - Rocky Mountain Ruby 2011</title>
 	<contentId>719</contentId>
 	<contentType>Talk</contentType>
@@ -437,7 +437,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-05</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_718_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_718_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_718_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_718_screen.jpg">
 	<title>API Design Matters - Anthony Eden - Rocky Mountain Ruby 2011</title>
 	<contentId>718</contentId>
 	<contentType>Talk</contentType>
@@ -456,7 +456,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-05</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_717_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_717_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_717_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_717_screen.jpg">
 	<title>Opening Keynote: Code Blindness - Michael Feathers - Rocky Mountain Ruby 2011</title>
 	<contentId>717</contentId>
 	<contentType>Talk</contentType>
@@ -475,7 +475,7 @@
 	<synopsis></synopsis>
 	<publish_date>2011-10-04</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_716_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_716_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_716_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_716_screen.jpg">
 	<title>Focus? Why Do I Need More Stinkin' Focus? - Mike Gehard - Rocky Mountain Ruby 2011</title>
 	<contentId>716</contentId>
 	<contentType>Talk</contentType>
@@ -494,7 +494,7 @@
 	<synopsis></synopsis>
 	<publish_date>1900-01-01</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_740_screen.png" hdImg="http://madcoder.tv/images/confreaks/confreaks_740_screen.png">
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_740_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_740_screen.jpg">
 	<title>Ruby Coding High - Jim Weirich, Zef Houssney - Rocky Mountain Ruby 2011</title>
 	<contentId>740</contentId>
 	<contentType>Talk</contentType>
