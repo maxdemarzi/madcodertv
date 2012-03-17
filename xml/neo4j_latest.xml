@@ -1,7 +1,83 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
-	<resultLength>4</resultLength>
-	<endIndex>4</endIndex>
+	<resultLength>8</resultLength>
+	<endIndex>8</endIndex>
+	<item sdImg="http://madcoder.tv/images/neo4j/neo4j_03_16_2012_screen.jpg" hdImg="http://madcoder.tv/images/neo4j/neo4j_03_16_2012_screen.jpg">
+	<title>Good Relationships: Get Started with Spring Data Neo4j</title>
+	<contentId>03162012</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>HD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>HD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_03_16_2012.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_03_16_2012.mp4</streamUrl>
+	</media>
+	<synopsis>This webinar is the perfect complement to the ebook Good Relationships, and is aimed towards those interested in quickly learning how to get started using Spring Data Neo4j.</synopsis>
+	<publish_date>2012-03-16</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/neo4j/neo4j_03_08_2012_screen.jpg" hdImg="http://madcoder.tv/images/neo4j/neo4j_03_08_2012_screen.jpg">
+	<title>Hardware Sizing with Neo4j</title>
+	<contentId>03082012</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>HD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>HD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_03_08_2012.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_03_08_2012.mp4</streamUrl>
+	</media>
+	<synopsis>This webinar provides assistance in determining how much hardware is suitable for your particular deployment. Andreas will discuss common use cases to demonstrate common hardware configurations to get key projects up and running.</synopsis>
+	<publish_date>2012-03-08</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/neo4j/neo4j_02_23_2012_screen.jpg" hdImg="http://madcoder.tv/images/neo4j/neo4j_02_23_2012_screen.jpg">
+	<title>Understand Neo4j Commercial Licenses</title>
+	<contentId>02232012</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>HD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>HD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_02_23_2012.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_02_23_2012.mp4</streamUrl>
+	</media>
+	<synopsis>In this fast-paced webinar, Andreas Kollegger walks through the different types of Neo4j open source and commercial licenses. Learn how to decide what type of license, commercial or open source, is right for your situation.</synopsis>
+	<publish_date>2012-02-23</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/neo4j/neo4j_02_16_2012_screen.jpg" hdImg="http://madcoder.tv/images/neo4j/neo4j_02_16_2012_screen.jpg">
+	<title>Deploy Spring Data Neo4j into the Cloud</title>
+	<contentId>02162012</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>HD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>HD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_02_16_2012.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_02_16_2012.mp4</streamUrl>
+	</media>
+	<synopsis>This webinar is a practical guide in deploying your Spring Data Neo4j application into the cloud. Spring Data Neo4j is part of the Spring Data project which aims to provide convenient support for NOSQL databases.</synopsis>
+	<publish_date>2012-02-16</publish_date>
+	</item>
 	<item sdImg="http://madcoder.tv/images/neo4j/neo4j_02_13_2012_screen.jpg" hdImg="http://madcoder.tv/images/neo4j/neo4j_02_13_2012_screen.jpg">
 	<title>Node.js to Heroku with Neo4j</title>
 	<contentId>02132012</contentId>
@@ -37,7 +113,6 @@
 	  <streamBitrate>700</streamBitrate>
 	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_02_09_2012.mp4</streamUrl>
 	</media>
-
 	<synopsis>Andreas Kollegger brings us through a fast paced intro summarizing where graph databases fit in the NOSQL world. He then dives into Neo4j to demonstrate its usability, where it shines in various use cases, and the ease to begin working with the database.</synopsis>
 	<publish_date>2012-02-09</publish_date>
 	</item>
@@ -73,7 +148,7 @@
 	</media>
 	<media>
 	  <streamQuality>SD</streamQuality>
-	  <streamBitrate>1500</streamBitrate>
+	  <streamBitrate>700</streamBitrate>
 	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_01_17_2012.mp4</streamUrl>
 	</media>
 	<synopsis>Michael Hunger shows how to use the Gensen repository which adds an app-store like, social aspect to Heroku development. It provides you with a quick starting point by just selecting template applications via languages, frameworks and add-ons that you want to integrate in your app.</synopsis>
