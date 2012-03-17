@@ -33,6 +33,7 @@
 	</category>
 	<category title="RailsCasts" description="Ruby on Rails Screencasts" sd_img="http://madcoder.tv/images/rc/rc_logo.png" hd_img="http://madcoder.tv/images/rc/rc_logo.png">
 		<categoryLeaf title="Latest" description="" feed="http://madcoder.tv/xml/rc_latest.xml"/>
+		<categoryLeaf title="350-301" description="" feed="http://madcoder.tv/xml/rc_350.xml" />
 		<categoryLeaf title="300-251" description="" feed="http://madcoder.tv/xml/rc_300.xml" />
 		<categoryLeaf title="250-201" description="" feed="http://madcoder.tv/xml/rc_250.xml" />
 		<categoryLeaf title="200-151" description="" feed="http://madcoder.tv/xml/rc_200.xml" />

@@ -1,227 +1,159 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
 	<!-- resultLength indicates the total number of results for this feed -->
-	<resultLength>10</resultLength>
+	<resultLength>8</resultLength>
 	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
-	<endIndex>10</endIndex>
-	<item sdImg="http://madcoder.tv/images/rc/rc_286_screen.png" hdImg="http://madcoder.tv/images/rc/rc_286_screen.png">
-	<title>#286 Draper</title>
-	<contentId>286</contentId>
+	<endIndex>8</endIndex>
+	<item sdImg="http://madcoder.tv/images/rc/rc_332_screen.png" hdImg="http://madcoder.tv/images/rc/rc_332_screen.png">
+	<title>#332 Refinery CMS Basics</title>
+	<contentId>332</contentId>
 	<contentType>Talk</contentType>
 	<contentQuality>SD</contentQuality>
 	<streamFormat>mp4</streamFormat>
 	<media>
 	  <streamQuality>SD</streamQuality>
 	  <streamBitrate>1500</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/286-draper.mp4</streamUrl>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/332-refinery-cms-basics.mp4</streamUrl>
 	</media>
 	<media>
 	  <streamQuality>SD</streamQuality>
 	  <streamBitrate>700</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/286-draper.m4v</streamUrl>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/332-refinery-cms-basics.m4v</streamUrl>
 	</media>
-	<synopsis>Clean up complex view logic using Draper. This gem provides decorators (much like presenters) which bundles view logic in an object oriented fashion. In this episode I do a step-by-step refactoring of a complex template into a decorator.</synopsis>
-
-	<publish_date>2011-10-03</publish_date>
+	<synopsis>If you need to quickly create an informational site that can be easily edited, consider using a content management system. Here I show how to build a site using Refinery CMS.</synopsis>
+	<publish_date>2012-03-14</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/rc/rc_285_screen.png" hdImg="http://madcoder.tv/images/rc/rc_285_screen.png">
-	<title>#285 Spork</title>
-	<contentId>285</contentId>
+	<item sdImg="http://madcoder.tv/images/rc/rc_330_screen.png" hdImg="http://madcoder.tv/images/rc/rc_330_screen.png">
+	<title>#330 Better Sass with Bourbon</title>
+	<contentId>330</contentId>
 	<contentType>Talk</contentType>
 	<contentQuality>SD</contentQuality>
 	<streamFormat>mp4</streamFormat>
 	<media>
 	  <streamQuality>SD</streamQuality>
 	  <streamBitrate>1500</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/285-spork.mp4</streamUrl>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/330-better-sass-with-bourbon.mp4</streamUrl>
 	</media>
 	<media>
 	  <streamQuality>SD</streamQuality>
 	  <streamBitrate>700</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/285-spork.m4v</streamUrl>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/330-better-sass-with-bourbon.m4v</streamUrl>
 	</media>
-	<synopsis>Spork improves the loading time of your test suite by starting up your Rails application once in the background. Use it with Guard for the ultimate combo in fast feedback while doing TDD.</synopsis>
-
-	<publish_date>2011-09-26</publish_date>
+	<synopsis>If you are tired of the browser vendor prefixes in CSS, check out Bourbon. It provides Sass mixins and functions to make CSS more convenient.</synopsis>
+	<publish_date>2012-03-07</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/rc/rc_284_screen.png" hdImg="http://madcoder.tv/images/rc/rc_284_screen.png">
-	<title>#284 Active Admin</title>
-	<contentId>284</contentId>
+	<item sdImg="http://madcoder.tv/images/rc/rc_328_screen.png" hdImg="http://madcoder.tv/images/rc/rc_328_screen.png">
+	<title>#328 Twitter Bootstrap Basics</title>
+	<contentId>328</contentId>
 	<contentType>Talk</contentType>
 	<contentQuality>SD</contentQuality>
 	<streamFormat>mp4</streamFormat>
 	<media>
 	  <streamQuality>SD</streamQuality>
 	  <streamBitrate>1500</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/284-active-admin.mp4</streamUrl>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/328-twitter-bootstrap-basics.mp4</streamUrl>
 	</media>
 	<media>
 	  <streamQuality>SD</streamQuality>
 	  <streamBitrate>700</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/284-active-admin.m4v</streamUrl>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/328-twitter-bootstrap-basics.m4v</streamUrl>
 	</media>
-	<synopsis>Active Admin allows you to quickly build an admin interface with just a few commands. Not only does it look great, but it is very customizable as shown in this episode.</synopsis>
-
-	<publish_date>2011-09-19</publish_date>
+	<synopsis>Twitter Bootstrap can help make beautiful web apps quickly by providing you with useful CSS and JavaScript. Here you will learn how to include it into Rails with the twitter-bootstrap-rails gem.</synopsis>
+	<publish_date>2012-02-28</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/rc/rc_283_screen.png" hdImg="http://madcoder.tv/images/rc/rc_283_screen.png">
-	<title>#283 Authentication with Sorcery</title>
-	<contentId>283</contentId>
+	<item sdImg="http://madcoder.tv/images/rc/rc_326_screen.png" hdImg="http://madcoder.tv/images/rc/rc_326_screen.png">
+	<title>#326 ActiveAttr</title>
+	<contentId>326</contentId>
 	<contentType>Talk</contentType>
 	<contentQuality>SD</contentQuality>
 	<streamFormat>mp4</streamFormat>
 	<media>
 	  <streamQuality>SD</streamQuality>
 	  <streamBitrate>1500</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/283-authentication-with-sorcery.mp4</streamUrl>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/326-activeattr.mp4</streamUrl>
 	</media>
 	<media>
 	  <streamQuality>SD</streamQuality>
 	  <streamBitrate>700</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/283-authentication-with-sorcery.m4v</streamUrl>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/326-activeattr.m4v</streamUrl>
 	</media>
-	<synopsis>Sorcery is a full-featured, modular solution to authentication which leaves the controller and view layers up to you.</synopsis>
-
-	<publish_date>2011-09-12</publish_date>
+	<synopsis>ActiveAttr provides what Active Model left out. If you need to create a table-less model with features similar to Active Record, watch this episode.</synopsis>
+	<publish_date>2012-02-21</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/rc/rc_282_screen.png" hdImg="http://madcoder.tv/images/rc/rc_282_screen.png">
-	<title>#282 Upgrading to Rails 3.1</title>
-	<contentId>282</contentId>
+	<item sdImg="http://madcoder.tv/images/rc/rc_324_screen.png" hdImg="http://madcoder.tv/images/rc/rc_324_screen.png">
+	<title>#324 Passing Data to JavaScript</title>
+	<contentId>324</contentId>
 	<contentType>Talk</contentType>
 	<contentQuality>SD</contentQuality>
 	<streamFormat>mp4</streamFormat>
 	<media>
 	  <streamQuality>SD</streamQuality>
 	  <streamBitrate>1500</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/282-upgrading-to-rails-3-1.mp4</streamUrl>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/324-passing-data-to-javascript.mp4</streamUrl>
 	</media>
 	<media>
 	  <streamQuality>SD</streamQuality>
 	  <streamBitrate>700</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/282-upgrading-to-rails-3-1.m4v</streamUrl>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/324-passing-data-to-javascript.m4v</streamUrl>
 	</media>
-	<synopsis>It is incredibly easy to upgrade to Rails 3.1, but if you want to take advantage of the asset pipeline you will need to put in some extra effort. Have no fear because I walk you through each of the necessary steps in this episode.</synopsis>
-
-	<publish_date>2011-09-05</publish_date>
+	<synopsis>There are a variety of ways to pass variables from a Rails application to JavaScript. Here I show three techniques: a script tag, a data attribute, and the Gon gem.</synopsis>
+	<publish_date>2012-02-13</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/rc/rc_281_screen.png" hdImg="http://madcoder.tv/images/rc/rc_281_screen.png">
-	<title>#281 Foreman</title>
-	<contentId>281</contentId>
+	<item sdImg="http://madcoder.tv/images/rc/rc_322_screen.png" hdImg="http://madcoder.tv/images/rc/rc_322_screen.png">
+	<title>#322 RABL</title>
+	<contentId>322</contentId>
 	<contentType>Talk</contentType>
 	<contentQuality>SD</contentQuality>
 	<streamFormat>mp4</streamFormat>
 	<media>
 	  <streamQuality>SD</streamQuality>
 	  <streamBitrate>1500</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/281-foreman.mp4</streamUrl>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/322-rabl.mp4</streamUrl>
 	</media>
 	<media>
 	  <streamQuality>SD</streamQuality>
 	  <streamBitrate>700</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/281-foreman.m4v</streamUrl>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/322-rabl.m4v</streamUrl>
 	</media>
-	<synopsis>Foreman can help manage multiple processes that your Rails app depends upon when running in development. It also provides an export command to move them into production.</synopsis>
-
-	<publish_date>2011-08-29</publish_date>
+	<synopsis>RABL - Ruby API Builder Language - provides a DSL for generating JSON or XML responses in a Ruby application. Learn how to share and configure complex JSON data in this episode.</synopsis>
+	<publish_date>2012-02-08</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/rc/rc_280_screen.png" hdImg="http://madcoder.tv/images/rc/rc_280_screen.png">
-	<title>#280 Pry with Rails</title>
-	<contentId>280</contentId>
+	<item sdImg="http://madcoder.tv/images/rc/rc_320_screen.png" hdImg="http://madcoder.tv/images/rc/rc_320_screen.png">
+	<title>#320 Jbuilder</title>
+	<contentId>320</contentId>
 	<contentType>Talk</contentType>
 	<contentQuality>SD</contentQuality>
 	<streamFormat>mp4</streamFormat>
 	<media>
 	  <streamQuality>SD</streamQuality>
 	  <streamBitrate>1500</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/280-pry-with-rails.mp4</streamUrl>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/320-jbuilder.mp4</streamUrl>
 	</media>
 	<media>
 	  <streamQuality>SD</streamQuality>
 	  <streamBitrate>700</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/280-pry-with-rails.m4v</streamUrl>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/320-jbuilder.m4v</streamUrl>
 	</media>
-	<synopsis>Pry is an alternative to IRB and sports many great features. Here I show how to integrate it into a Rails app, and how it can aid in debugging.</synopsis>
-
-	<publish_date>2011-08-22</publish_date>
+	<synopsis>Jbuilder provides a DSL for generating JSON. It includes a template engine which allows you to create complex responses with helpers and conditions.</synopsis>
+	<publish_date>2012-01-30</publish_date>
 	</item>
-	<item sdImg="http://madcoder.tv/images/rc/rc_279_screen.png" hdImg="http://madcoder.tv/images/rc/rc_279_screen.png">
-	<title>#279 Understanding the Asset Pipeline</title>
-	<contentId>279</contentId>
+	<item sdImg="http://madcoder.tv/images/rc/rc_318_screen.png" hdImg="http://madcoder.tv/images/rc/rc_318_screen.png">
+	<title>#318 Upgrading to Rails 3.2</title>
+	<contentId>318</contentId>
 	<contentType>Talk</contentType>
 	<contentQuality>SD</contentQuality>
 	<streamFormat>mp4</streamFormat>
 	<media>
 	  <streamQuality>SD</streamQuality>
 	  <streamBitrate>1500</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/279-understanding-the-asset-pipeline.mp4</streamUrl>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/318-upgrading-to-rails-3-2.mp4</streamUrl>
 	</media>
 	<media>
 	  <streamQuality>SD</streamQuality>
 	  <streamBitrate>700</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/279-understanding-the-asset-pipeline.m4v</streamUrl>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/318-upgrading-to-rails-3-2.m4v</streamUrl>
 	</media>
-	<synopsis>The asset pipeline is probably the biggest feature in Rails 3.1, but it can seem like magic at first. Here I dive into exactly how the asset pipeline works.</synopsis>
-
-	<publish_date>2011-08-15</publish_date>
-	</item>
-	<item sdImg="http://madcoder.tv/images/rc/rc_278_screen.png" hdImg="http://madcoder.tv/images/rc/rc_278_screen.png">
-	<title>#278 Search with Sunspot</title>
-	<contentId>278</contentId>
-	<contentType>Talk</contentType>
-	<contentQuality>SD</contentQuality>
-	<streamFormat>mp4</streamFormat>
-	<media>
-	  <streamQuality>SD</streamQuality>
-	  <streamBitrate>1500</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/278-search-with-sunspot.mp4</streamUrl>
-	</media>
-	<media>
-	  <streamQuality>SD</streamQuality>
-	  <streamBitrate>700</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/278-search-with-sunspot.m4v</streamUrl>
-	</media>
-	<synopsis>Sunspot makes it easy to do full text searching through Solr. Here I show how to search on various attributes and add facets for filtering the search further.</synopsis>
-
-	<publish_date>2011-08-08</publish_date>
-	</item>
-	<item sdImg="http://madcoder.tv/images/rc/rc_277_screen.png" hdImg="http://madcoder.tv/images/rc/rc_277_screen.png">
-	<title>#277 Mountable Engines</title>
-	<contentId>277</contentId>
-	<contentType>Talk</contentType>
-	<contentQuality>SD</contentQuality>
-	<streamFormat>mp4</streamFormat>
-	<media>
-	  <streamQuality>SD</streamQuality>
-	  <streamBitrate>1500</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/277-mountable-engines.mp4</streamUrl>
-	</media>
-	<media>
-	  <streamQuality>SD</streamQuality>
-	  <streamBitrate>700</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/277-mountable-engines.m4v</streamUrl>
-	</media>
-	<synopsis>Engines are receiving a major update in Rails 3.1. You can mount them at any path, embed assets, run generators and more. See how in this episode.</synopsis>
-
-	<publish_date>2011-08-01</publish_date>
-	</item>
-	<item sdImg="http://madcoder.tv/images/rc/rc_276_screen.png" hdImg="http://madcoder.tv/images/rc/rc_276_screen.png">
-	<title>#276 Testing Time and Web Requests</title>
-	<contentId>276</contentId>
-	<contentType>Talk</contentType>
-	<contentQuality>SD</contentQuality>
-	<streamFormat>mp4</streamFormat>
-	<media>
-	  <streamQuality>SD</streamQuality>
-	  <streamBitrate>1500</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/276-testing-time-web-requests.mp4</streamUrl>
-	</media>
-	<media>
-	  <streamQuality>SD</streamQuality>
-	  <streamBitrate>700</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/276-testing-time-web-requests.m4v</streamUrl>
-	</media>
-	<synopsis>It can be difficult to test code that deals with the current time or an external web request. Here I show you how to do both using the Timecop and FakeWeb gems.</synopsis>
-
-	<publish_date>2011-07-25</publish_date>
+	<synopsis>Rails 3.2 sports many new features including automatic explain queries, tagged logging, key-value store in Active Record, improved migration generator and more. Learn all about these new features in this episode.</synopsis>
+	<publish_date>2012-01-23</publish_date>
 	</item>
 </feed>
