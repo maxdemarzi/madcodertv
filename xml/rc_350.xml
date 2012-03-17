@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>50</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>50</endIndex>
+	<item sdImg="http://madcoder.tv/images/rc/rc_332_screen.png" hdImg="http://madcoder.tv/images/rc/rc_332_screen.png">
+	<title>#332 Refinery CMS Basics</title>
+	<contentId>332</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/332-refinery-cms-basics.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/332-refinery-cms-basics.m4v</streamUrl>
+	</media>
+	<synopsis>If you need to quickly create an informational site that can be easily edited, consider using a content management system. Here I show how to build a site using Refinery CMS.</synopsis>
+	<publish_date>2012-03-14</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_330_screen.png" hdImg="http://madcoder.tv/images/rc/rc_330_screen.png">
+	<title>#330 Better Sass with Bourbon</title>
+	<contentId>330</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/330-better-sass-with-bourbon.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/330-better-sass-with-bourbon.m4v</streamUrl>
+	</media>
+	<synopsis>If you are tired of the browser vendor prefixes in CSS, check out Bourbon. It provides Sass mixins and functions to make CSS more convenient.</synopsis>
+	<publish_date>2012-03-07</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_328_screen.png" hdImg="http://madcoder.tv/images/rc/rc_328_screen.png">
+	<title>#328 Twitter Bootstrap Basics</title>
+	<contentId>328</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/328-twitter-bootstrap-basics.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/328-twitter-bootstrap-basics.m4v</streamUrl>
+	</media>
+	<synopsis>Twitter Bootstrap can help make beautiful web apps quickly by providing you with useful CSS and JavaScript. Here you will learn how to include it into Rails with the twitter-bootstrap-rails gem.</synopsis>
+	<publish_date>2012-02-28</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_326_screen.png" hdImg="http://madcoder.tv/images/rc/rc_326_screen.png">
+	<title>#326 ActiveAttr</title>
+	<contentId>326</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/326-activeattr.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/326-activeattr.m4v</streamUrl>
+	</media>
+	<synopsis>ActiveAttr provides what Active Model left out. If you need to create a table-less model with features similar to Active Record, watch this episode.</synopsis>
+	<publish_date>2012-02-21</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_324_screen.png" hdImg="http://madcoder.tv/images/rc/rc_324_screen.png">
+	<title>#324 Passing Data to JavaScript</title>
+	<contentId>324</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/324-passing-data-to-javascript.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/324-passing-data-to-javascript.m4v</streamUrl>
+	</media>
+	<synopsis>There are a variety of ways to pass variables from a Rails application to JavaScript. Here I show three techniques: a script tag, a data attribute, and the Gon gem.</synopsis>
+	<publish_date>2012-02-13</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_322_screen.png" hdImg="http://madcoder.tv/images/rc/rc_322_screen.png">
+	<title>#322 RABL</title>
+	<contentId>322</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/322-rabl.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/322-rabl.m4v</streamUrl>
+	</media>
+	<synopsis>RABL - Ruby API Builder Language - provides a DSL for generating JSON or XML responses in a Ruby application. Learn how to share and configure complex JSON data in this episode.</synopsis>
+	<publish_date>2012-02-08</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_320_screen.png" hdImg="http://madcoder.tv/images/rc/rc_320_screen.png">
+	<title>#320 Jbuilder</title>
+	<contentId>320</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/320-jbuilder.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/320-jbuilder.m4v</streamUrl>
+	</media>
+	<synopsis>Jbuilder provides a DSL for generating JSON. It includes a template engine which allows you to create complex responses with helpers and conditions.</synopsis>
+	<publish_date>2012-01-30</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_318_screen.png" hdImg="http://madcoder.tv/images/rc/rc_318_screen.png">
+	<title>#318 Upgrading to Rails 3.2</title>
+	<contentId>318</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/318-upgrading-to-rails-3-2.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/318-upgrading-to-rails-3-2.m4v</streamUrl>
+	</media>
+	<synopsis>Rails 3.2 sports many new features including automatic explain queries, tagged logging, key-value store in Active Record, improved migration generator and more. Learn all about these new features in this episode.</synopsis>
+	<publish_date>2012-01-23</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_316_screen.png" hdImg="http://madcoder.tv/images/rc/rc_316_screen.png">
+	<title>#316 Private Pub</title>
+	<contentId>316</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/316-private-pub.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/316-private-pub.m4v</streamUrl>
+	</media>
+	<synopsis>Private Pub makes it easier than ever to publish and subscribe to real-time events in a Rails app. You can use publish_to with a block of JavaScript or supply a hash for use with JSON.</synopsis>
+	<publish_date>2012-01-16</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_314_screen.png" hdImg="http://madcoder.tv/images/rc/rc_314_screen.png">
+	<title>#314 Pretty URLs with FriendlyId</title>
+	<contentId>314</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/314-pretty-urls-with-friendlyid.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/314-pretty-urls-with-friendlyid.m4v</streamUrl>
+	</media>
+	<synopsis>If you are tired of model ids in the URL, overriding to_param can only get you so far. The friendly_id plugin can help by making it easy to generate a URL slug and maintain a history.</synopsis>
+	<publish_date>2012-01-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_312_screen.png" hdImg="http://madcoder.tv/images/rc/rc_312_screen.png">
+	<title>#312 Sending HTML Email</title>
+	<contentId>312</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/312-sending-html-email.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/312-sending-html-email.m4v</streamUrl>
+	</media>
+	<synopsis>HTML email can be difficult to code because any CSS should be made inline. Here I present a few tools for doing this including the premailer-rails3 and roadie gems.</synopsis>
+	<publish_date>2012-01-02</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_310_screen.png" hdImg="http://madcoder.tv/images/rc/rc_310_screen.png">
+	<title>#310 Getting Started with Rails</title>
+	<contentId>310</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/310-getting-started-with-rails.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/310-getting-started-with-rails.m4v</streamUrl>
+	</media>
+	<synopsis>Learning Ruby on Rails can be overwhelming, especially if you are new to programming. Here I will take you on a tour through various resources to help get started with Rails.</synopsis>
+	<publish_date>2011-12-26</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_308_screen.png" hdImg="http://madcoder.tv/images/rc/rc_308_screen.png">
+	<title>#308 Oh My ZSH</title>
+	<contentId>308</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/308-oh-my-zsh.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/308-oh-my-zsh.m4v</streamUrl>
+	</media>
+	<synopsis>As Rails developers, we frequently use the command line. Here I will show how to switch to Z Shell using Oh My ZSH including how to make your own theme and plugins.</synopsis>
+	<publish_date>2011-12-19</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_306_screen.png" hdImg="http://madcoder.tv/images/rc/rc_306_screen.png">
+	<title>#306 ElasticSearch Part 1</title>
+	<contentId>306</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/306-elasticsearch-part-1.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/306-elasticsearch-part-1.m4v</streamUrl>
+	</media>
+	<synopsis>Add full text searching using ElasticSearch and Tire. Here I will show the steps involved in adding this search to an existing application. This is the first part in a two part series.</synopsis>
+	<publish_date>2011-12-12</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_304_screen.png" hdImg="http://madcoder.tv/images/rc/rc_304_screen.png">
+	<title>#304 OmniAuth Identity</title>
+	<contentId>304</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/304-omniauth-identity.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/304-omniauth-identity.m4v</streamUrl>
+	</media>
+	<synopsis>With the release of OmniAuth 1.0 there is a new Identity strategy which allows users to register/login with a password if they don't want to use an external provider.</synopsis>
+	<publish_date>2011-12-05</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_302_screen.png" hdImg="http://madcoder.tv/images/rc/rc_302_screen.png">
+	<title>#302 In-Place Editing</title>
+	<contentId>302</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/302-in-place-editing.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/302-in-place-editing.m4v</streamUrl>
+	</media>
+	<synopsis>Edit an attribute in-place without leaving a page using the Best In Place gem. Learn how to add validations and support for various field types.</synopsis>
+	<publish_date>2011-11-28</publish_date>
+	</item>
+</feed>
