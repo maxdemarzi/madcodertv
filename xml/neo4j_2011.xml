@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<resultLength>3</resultLength>
+	<endIndex>3</endIndex>
+  <item sdImg="http://madcoder.tv/images/neo4j/neo4j_12_19_2011_screen.jpg" hdImg="http://madcoder.tv/images/neo4j/neo4j_12_19_2011_screen.jpg">
+	<title>Querying Stanley Kubrick: An Intro to Cypher</title>
+	<contentId>12192011</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>HD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>HD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_12_19_2011.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_12_19_2011.mp4</streamUrl>
+	</media>
+	<synopsis>Alistair Jones introduces the deceptively simple yet demonstrably powerful expressions of the Cypher Query language. Considering the Cineasts movie dataset, he uses Cypher to ask simple questions like, "which actors appeared most often in Stanley Kubrick films?"</synopsis>
+	<publish_date>2011-12-19</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/neo4j/neo4j_12_02_2011_screen.jpg" hdImg="http://madcoder.tv/images/neo4j/neo4j_12_02_2011_screen.jpg">
+	<title>Heroku, Neo4j and Google Spreadsheet in 10min. Flat.</title>
+	<contentId>12022011</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>HD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>HD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_12_02_2011.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_12_02_2011.mp4</streamUrl>
+	</media>
+	<synopsis>A screencast about deploying an application using the Neo4j add-on on Heroku to expose a readonly Cypher endpoint. Then integrating with a Google Spreadsheet for querying and rendering of the results.</synopsis>
+	<publish_date>2011-12-02</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/neo4j/neo4j_12_01_2011_screen.jpg" hdImg="http://madcoder.tv/images/neo4j/neo4j_12_01_2011_screen.jpg">
+	<title>Introduction to Neo4j</title>
+	<contentId>12012011</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>HD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>HD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_12_01_2011.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_12_01_2011.mp4</streamUrl>
+	</media>
+	<synopsis>CEO Emil Eifrém introduces NOSQL, graph databases and Neo4j. He presents the evolution and current state of the NOSQL field and discusses the applicability of the technologies. After showing the property graph datamodel he outlines the possibilities and use-cases for complex, connected enterprise data.</synopsis>
+	<publish_date>2011-12-01</publish_date>
+	</item>
+</feed>
