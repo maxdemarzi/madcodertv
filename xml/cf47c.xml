@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+		<item sdImg="http://madcoder.tv/images/confreaks/confreaks_678_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_678_screen.jpg">
+	<title>MongoDB to MySQL: the How and the Why  - Sarah Mei - Ruby Conference 2011</title>
+	<contentId>678</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2516/original/678-rubyconf2011-mongodb-to-mysql-the-how-and-the-why-large.mp4?1320092624</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2515/original/678-rubyconf2011-mongodb-to-mysql-the-how-and-the-why-small.mp4?1320092621</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-31</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_673_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_673_screen.jpg">
+	<title>Powerful (but Easy) Data Visualization with the Graph Gem  - Aja Hammerly - Ruby Conference 2011</title>
+	<contentId>673</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2298/original/673-rubyconf2011-powerful-but-easy-data-visualization-with-the-graph-gem-large.mp4?1319149204</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2297/original/673-rubyconf2011-powerful-but-easy-data-visualization-with-the-graph-gem-small.mp4?1319149199</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-20</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_674_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_674_screen.jpg">
+	<title>JRuby and Big Data  - Jeremy Hinegardner - Ruby Conference 2011</title>
+	<contentId>674</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2370/original/674-rubyconf2011-jruby-and-big-data-large.mp4?1319489682</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2369/original/674-rubyconf2011-jruby-and-big-data-small.mp4?1319489674</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-24</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_675_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_675_screen.jpg">
+	<title>Rails services in the walled garden  - Sidu Ponnappa, Niranjan Paranjape - Ruby Conference 2011</title>
+	<contentId>675</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2373/original/675-rubyconf2011-rails-services-in-the-walled-garden-large.mp4?1319489733</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2372/original/675-rubyconf2011-rails-services-in-the-walled-garden-small.mp4?1319489725</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-24</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_670_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_670_screen.jpg">
+	<title>Better Than ROT13  - Bradley Grzesiak - Ruby Conference 2011</title>
+	<contentId>670</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2304/original/670-rubyconf2011-better-than-rot13-large.mp4?1319151128</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2303/original/670-rubyconf2011-better-than-rot13-small.mp4?1319151120</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-20</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_671_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_671_screen.jpg">
+	<title>Keeping Ruby Reasonable - Joshua Ballanco - Ruby Conference 2011</title>
+	<contentId>671</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2386/original/671-rubyconf2011-keeping-ruby-reasonable-large.mp4?1319503357</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2385/original/671-rubyconf2011-keeping-ruby-reasonable-small.mp4?1319503350</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-24</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_672_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_672_screen.jpg">
+	<title>Pure Ruby GUI  - Micah Martin, Robert Martin - Ruby Conference 2011</title>
+	<contentId>672</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2346/original/672-rubyconf2011-pure-ruby-gui-large.mp4?1319241348</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2345/original/672-rubyconf2011-pure-ruby-gui-small.mp4?1319241342</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-21</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_667_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_667_screen.jpg">
+	<title>Release Early and Release Often: Reducing deployment friction  - Andy Delcambre - Ruby Conference 2011</title>
+	<contentId>667</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2270/original/667-rubyconf2011-release-early-and-release-often-reducing-deployment-friction-large.mp4?1319068856</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2269/original/667-rubyconf2011-release-early-and-release-often-reducing-deployment-friction-small.mp4?1319068855</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-19</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_668_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_668_screen.jpg">
+	<title>Code design and the science of pleasure  - Jonas Nicklas - Ruby Conference 2011</title>
+	<contentId>668</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2410/original/668-rubyconf2011-code-design-and-the-science-of-pleasure-large.mp4?1319665494</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2409/original/668-rubyconf2011-code-design-and-the-science-of-pleasure-small.mp4?1319665486</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-26</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_669_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_669_screen.jpg">
+	<title>LocalCommunity.Build, :through => Code Retreats, Bugmashes & more  - Prakash Murthy - Ruby Conference 2011</title>
+	<contentId>669</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2343/original/669-rubyconf2011-localcommunity-build-through-code-retreats-bugmashes-more-large.mp4?1319241327</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2342/original/669-rubyconf2011-localcommunity-build-through-code-retreats-bugmashes-more-small.mp4?1319241322</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-21</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_664_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_664_screen.jpg">
+	<title>Evented Telephony Application Design with Adhearsion  - Ben Klang - Ruby Conference 2011</title>
+	<contentId>664</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2367/original/664-rubyconf2011-evented-telephony-application-design-with-adhearsion-large.mp4?1319489581</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2366/original/664-rubyconf2011-evented-telephony-application-design-with-adhearsion-small.mp4?1319489574</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-24</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_665_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_665_screen.jpg">
+	<title>Advanced EventMachine  - Jonathan Weiss - Ruby Conference 2011</title>
+	<contentId>665</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2334/original/665-rubyconf2011-advanced-eventmachine-large.mp4?1319241249</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2333/original/665-rubyconf2011-advanced-eventmachine-small.mp4?1319241241</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-21</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_666_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_666_screen.jpg">
+	<title>How Getting Buff Can Make You a Better Rubyist  - Rob Sanheim - Ruby Conference 2011</title>
+	<contentId>666</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2340/original/666-rubyconf2011-how-getting-buff-can-make-you-a-better-rubyist-large.mp4?1319241309</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2339/original/666-rubyconf2011-how-getting-buff-can-make-you-a-better-rubyist-small.mp4?1319241300</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-21</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_661_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_661_screen.jpg">
+	<title>So You Think You Can Code: Part Deux - Aaron Patterson, Ben Bleything, Yossef Mendelssohn, John Barnette, Evan Phoenix - Ruby Conference 2011</title>
+	<contentId>661</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2276/original/661-rubyconf2011-so-you-think-you-can-code-part-deux-large.mp4?1319071928</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2275/original/661-rubyconf2011-so-you-think-you-can-code-part-deux-small.mp4?1319071907</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-19</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_662_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_662_screen.jpg">
+	<title>"Algorithms" is Not a Four-Letter Word  - Jamis Buck - Ruby Conference 2011</title>
+	<contentId>662</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/1989/original/662-rubyconf2011-algorithms-is-not-a-four-letter-word-large.mp4?1317828265</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/1988/original/662-rubyconf2011-algorithms-is-not-a-four-letter-word-small.mp4?1317828257</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-05</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_663_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_663_screen.jpg">
+	<title>Parallel worlds of CRuby's GC  - Narihiro Nakamura - Ruby Conference 2011</title>
+	<contentId>663</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2337/original/663-rubyconf2011-parallel-worlds-of-cruby-s-gc-large.mp4?1319241284</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2336/original/663-rubyconf2011-parallel-worlds-of-cruby-s-gc-small.mp4?1319241278</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-21</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_658_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_658_screen.jpg">
+	<title>Exceptional Ruby  - Avdi Grimm - Ruby Conference 2011</title>
+	<contentId>658</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2272/original/658-rubyconf2011-exceptional-ruby-small.mp4?1319069430</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2273/original/658-rubyconf2011-exceptional-ruby-large.mp4?1319069431</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-19</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_659_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_659_screen.jpg">
+	<title>Why You Don't Get Mock Objects  - Gregory Moeck - Ruby Conference 2011</title>
+	<contentId>659</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/1992/original/659-rubyconf2011-why-you-don-t-get-mock-objects-large.mp4?1317828297</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/1991/original/659-rubyconf2011-why-you-don-t-get-mock-objects-small.mp4?1317828292</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-05</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_660_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_660_screen.jpg">
+	<title>Blueprint: configuration management for busy people  - Richard Crowley - Ruby Conference 2011</title>
+	<contentId>660</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2331/original/660-rubyconf2011-blueprint-configuration-management-for-busy-people-large.mp4?1319241076</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2330/original/660-rubyconf2011-blueprint-configuration-management-for-busy-people-small.mp4?1319241072</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-21</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_655_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_655_screen.jpg">
+	<title>Big Data Enterprisy Analytics App and Ruby - Amit Kumar - Ruby Conference 2011</title>
+	<contentId>655</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2246/original/655-rubyconf2011-big-data-enterprisy-analytics-app-and-ruby-large.mp4?1319016900</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2245/original/655-rubyconf2011-big-data-enterprisy-analytics-app-and-ruby-small.mp4?1319016895</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-13</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_656_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_656_screen.jpg">
+	<title>Writing Solid Ruby Code - Jim Weirich - Ruby Conference 2011</title>
+	<contentId>656</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2011/original/656-rubyconf2011-writing-solid-ruby-code-large.mp4?1317859075</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2010/original/656-rubyconf2011-writing-solid-ruby-code-small.mp4?1317859072</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-05</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_657_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_657_screen.jpg">
+	<title>Persisting Relations Across Time and Space - Piotr Szotkowski - Ruby Conference 2011</title>
+	<contentId>657</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2301/original/657-rubyconf2011-persisting-relations-across-time-and-space-large.mp4?1319151096</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2300/original/657-rubyconf2011-persisting-relations-across-time-and-space-small.mp4?1319151086</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-20</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_654_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_654_screen.jpg">
+	<title>Keynote: Ruby Everywhere - Yukihiro 'Matz' Matsumoto - Ruby Conference 2011</title>
+	<contentId>654</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/1961/original/654-rubyconf2011-keynote-ruby-everywhere-large.mp4?1317753528</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/1960/original/654-rubyconf2011-keynote-ruby-everywhere-small.mp4?1317753524</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-04</publish_date>
+	</item>
+</feed>

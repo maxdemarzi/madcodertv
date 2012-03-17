@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+		<item sdImg="http://madcoder.tv/images/confreaks/confreaks_699_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_699_screen.jpg">
+	<title>Resources, For Real This Time (with Webmachine) - Sean Cribbs - Ruby Conference 2011</title>
+	<contentId>699</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2594/original/699-rubyconf2011-resources-for-real-this-time-with-webmachine-large.mp4?1321452734</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2593/original/699-rubyconf2011-resources-for-real-this-time-with-webmachine-small.mp4?1321452730</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-11-15</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_694_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_694_screen.jpg">
+	<title>Test-drive the development of your command-line applications - David Copeland - Ruby Conference 2011</title>
+	<contentId>694</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2448/original/694-rubyconf2011-test-drive-the-development-of-your-command-line-applications-large.mp4?1319759128</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2447/original/694-rubyconf2011-test-drive-the-development-of-your-command-line-applications-small.mp4?1319759125</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-27</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_695_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_695_screen.jpg">
+	<title>Just Say No To :nodoc: and Document Your Code! - Loren Segal - Ruby Conference 2011</title>
+	<contentId>695</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2534/original/695-rubyconf2011-just-say-no-to-nodoc-and-document-your-code-large.mp4?1320094316</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2533/original/695-rubyconf2011-just-say-no-to-nodoc-and-document-your-code-small.mp4?1320094312</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-31</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_696_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_696_screen.jpg">
+	<title>Be a Minecraft modman with Purugin - Thomas Enebo - Ruby Conference 2011</title>
+	<contentId>696</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2577/original/696-rubyconf2011-be-a-minecraft-modman-with-purugin-large.mp4?1320316215</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2576/original/696-rubyconf2011-be-a-minecraft-modman-with-purugin-small.mp4?1320316208</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-11-02</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_691_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_691_screen.jpg">
+	<title>Nikita: The Ruby Secret Agent - Brian Ford - Ruby Conference 2011</title>
+	<contentId>691</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2445/original/691-rubyconf2011-nikita-the-ruby-secret-agent-large.mp4?1319759115</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2444/original/691-rubyconf2011-nikita-the-ruby-secret-agent-small.mp4?1319759107</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-27</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_692_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_692_screen.jpg">
+	<title>Must It Always Be About Sex? - Joshua Wehner - Ruby Conference 2011</title>
+	<contentId>692</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2519/original/692-rubyconf2011-must-it-always-be-about-sex-large.mp4?1320092786</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2518/original/692-rubyconf2011-must-it-always-be-about-sex-small.mp4?1320092784</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-31</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_693_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_693_screen.jpg">
+	<title>KidsRuby: Think Of The Children! - Ron Evans - Ruby Conference 2011</title>
+	<contentId>693</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2597/original/693-rubyconf2011-kidsruby-think-of-the-children-large.mp4?1321452756</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2596/original/693-rubyconf2011-kidsruby-think-of-the-children-small.mp4?1321452752</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-11-15</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_688_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_688_screen.jpg">
+	<title>Getting Fancy on Rubinius  - Christopher Bertels - Ruby Conference 2011</title>
+	<contentId>688</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2442/original/688-rubyconf2011-getting-fancy-on-rubinius-large.mp4?1319759094</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2441/original/688-rubyconf2011-getting-fancy-on-rubinius-small.mp4?1319759089</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-27</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_689_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_689_screen.jpg">
+	<title>Implementation of Ruby 1.9.3 and later  - Koichi Sasada - Ruby Conference 2011</title>
+	<contentId>689</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2528/original/689-rubyconf2011-implementation-of-ruby-1-9-3-and-later-large.mp4?1320093345</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2527/original/689-rubyconf2011-implementation-of-ruby-1-9-3-and-later-small.mp4?1320093341</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-31</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_690_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_690_screen.jpg">
+	<title>Parallel Testing World  - Shota Fukumori - Ruby Conference 2011</title>
+	<contentId>690</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2571/original/690-rubyconf2011-parallel-testing-world-large.mp4?1320282676</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2570/original/690-rubyconf2011-parallel-testing-world-small.mp4?1320282673</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-11-02</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_685_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_685_screen.jpg">
+	<title>The Well-Grounded Nuby  - David A. Black - Ruby Conference 2011</title>
+	<contentId>685</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2439/original/685-rubyconf2011-the-well-grounded-nuby-large.mp4?1319759078</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2438/original/685-rubyconf2011-the-well-grounded-nuby-small.mp4?1319759067</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-27</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_686_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_686_screen.jpg">
+	<title>MacRuby on Rails  - Kouji Takao - Ruby Conference 2011</title>
+	<contentId>686</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2531/original/686-rubyconf2011-macruby-on-rails-large.mp4?1320093927</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2530/original/686-rubyconf2011-macruby-on-rails-small.mp4?1320093923</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-31</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_687_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_687_screen.jpg">
+	<title>Practical Metaprogramming: "Modeling Thought"; Or, Lessons Learned While Using Ruby's MP System to Model a 2,500 Year-Old, Dead Language - Steven Harms - Ruby Conference 2011</title>
+	<contentId>687</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2548/original/687-rubyconf2011-practical-metaprogramming-modeling-thought-or-lessons-learned-while-using-ruby-s-mp-system-to-model-a-2-500-year-old-dead-language-large.mp4?1320278267</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2547/original/687-rubyconf2011-practical-metaprogramming-modeling-thought-or-lessons-learned-while-using-ruby-s-mp-system-to-model-a-2-500-year-old-dead-language-small.mp4?1320278264</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-11-02</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_682_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_682_screen.jpg">
+	<title>The Secret Life of Ruby: Warrior With A Cause  - Dewayne VanHoozer - Ruby Conference 2011</title>
+	<contentId>682</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2436/original/682-rubyconf2011-the-secret-life-of-ruby-warrior-with-a-cause-large.mp4?1319758998</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2435/original/682-rubyconf2011-the-secret-life-of-ruby-warrior-with-a-cause-small.mp4?1319758991</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-27</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_683_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_683_screen.jpg">
+	<title>Ruby OpenSSL: Present, Future and why it matters   - Martin BoÃŸlet - Ruby Conference 2011</title>
+	<contentId>683</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2510/original/683-rubyconf2011-ruby-openssl-present-future-and-why-it-matters-large.mp4?1320091664</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2509/original/683-rubyconf2011-ruby-openssl-present-future-and-why-it-matters-small.mp4?1320091663</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-31</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_684_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_684_screen.jpg">
+	<title>JRuby: Polyglot Heaven - Charles Nutter, Thomas Enebo - Ruby Conference 2011</title>
+	<contentId>684</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2522/original/684-rubyconf2011-jruby-polyglot-heaven-large.mp4?1320092810</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2521/original/684-rubyconf2011-jruby-polyglot-heaven-small.mp4?1320092807</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-31</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_missing_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_missing_screen.jpg">
+	<title>Services Inception with Ruby - Dave McCrory - Ruby Conference 2011</title>
+	<contentId>679</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2402/original/d2-r1-2-services-inception-with-ruby_1.mp4?1319662929</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2402/original/d2-r1-2-services-inception-with-ruby_1.mp4?1319662929</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-27</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_680_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_680_screen.jpg">
+	<title>Message in a bottle - Konstantin Haase - Ruby Conference 2011</title>
+	<contentId>680</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2513/original/680-rubyconf2011-message-in-a-bottle-large.mp4?1320092157</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2512/original/680-rubyconf2011-message-in-a-bottle-small.mp4?1320092155</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-31</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_681_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_681_screen.jpg">
+	<title>The Return of Shoes  - Steve Klabnik  - Ruby Conference 2011</title>
+	<contentId>681</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2525/original/681-rubyconf2011-the-return-of-shoes-large.mp4?1320093146</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2524/original/681-rubyconf2011-the-return-of-shoes-small.mp4?1320093139</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-31</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_676_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_676_screen.jpg">
+	<title>Ruby Software Continuously Delivered and Exhaustively Explained  - Srushti Ambekallu, Brian Guthrie - Ruby Conference 2011</title>
+	<contentId>676</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2407/original/676-rubyconf2011-ruby-software-continuously-delivered-and-exhaustively-explained-large.mp4?1319665473</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2406/original/676-rubyconf2011-ruby-software-continuously-delivered-and-exhaustively-explained-small.mp4?1319665469</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-26</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/confreaks/confreaks_677_screen.jpg" hdImg="http://madcoder.tv/images/confreaks/confreaks_677_screen.jpg">
+	<title>A Mentor in the Limelight - Paul Pagel - Ruby Conference 2011</title>
+	<contentId>677</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2468/original/677-rubyconf2011-a-mentor-in-the-limelight-large.mp4?1319930768</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://cdn.confreaks.com/system/assets/datas/2467/original/677-rubyconf2011-a-mentor-in-the-limelight-small.mp4?1319930764</streamUrl>
+	</media>
+	<synopsis></synopsis>
+	<publish_date>2011-10-29</publish_date>
+	</item>
+</feed>
