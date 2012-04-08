@@ -4,6 +4,63 @@
 	<resultLength>50</resultLength>
 	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
 	<endIndex>50</endIndex>
+	<item sdImg="http://madcoder.tv/images/rc/rc_338_screen.png" hdImg="http://madcoder.tv/images/rc/rc_338_screen.png">
+	<title>#338 Globalize3</title>
+	<contentId>338</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/338-globalize3.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/338-globalize3.m4v</streamUrl>
+	</media>
+	<synopsis>Rails has great internationalization (I18n) support making it easy to translate static text into other languages, but how do we translate database content? Learn how using Globalize 3 in this episode.</synopsis>
+	<publish_date>2012-04-04</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_336_screen.png" hdImg="http://madcoder.tv/images/rc/rc_336_screen.png">
+	<title>#336 Copycopter</title>
+	<contentId>336</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/336-copycopter.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/336-copycopter.m4v</streamUrl>
+	</media>
+	<synopsis>Copycopter provides a nice interface that clients can use to edit the text in a Rails application. Learn how to deploy a Copycopter server using Heroku and integrate it in a Rails application through I18n.</synopsis>
+	<publish_date>2012-03-27</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_334_screen.png" hdImg="http://madcoder.tv/images/rc/rc_334_screen.png">
+	<title>#334 Compass and CSS Sprites</title>
+	<contentId>334</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/334-compass-css-sprites.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/334-compass-css-sprites.m4v</streamUrl>
+	</media>
+	<synopsis>Compass improves the Sass experience by providing useful mixins, functions, and more. You will also learn how to make CSS sprites with it in this episode.</synopsis>
+	<publish_date>2012-03-21</publish_date>
+	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_332_screen.png" hdImg="http://madcoder.tv/images/rc/rc_332_screen.png">
 	<title>#332 Refinery CMS Basics</title>
 	<contentId>332</contentId>
