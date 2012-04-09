@@ -2,6 +2,82 @@
 <feed>
 	<resultLength>11</resultLength>
 	<endIndex>11</endIndex>
+		<item sdImg="http://madcoder.tv/images/neo4j/neo4j_03_26_2012_screen.jpg" hdImg="http://madcoder.tv/images/neo4j/neo4j_03_26_2012_screen.jpg">
+	<title>Make it Social Webinar</title>
+	<contentId>03262012</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>HD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>HD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_03_26_2012.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_03_26_2012.mp4</streamUrl>
+	</media>
+	<synopsis>Guest presenter Prasanna Pendse from ThoughtWorks This webinar discusses FitStudio, and social fitness website built with Ruby on Rails and Neo4j. With this real use case, learn the benefits of graph databases for building your own social app.</synopsis>
+	<publish_date>2012-03-26</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/neo4j/neo4j_03_22_2012_screen.jpg" hdImg="http://madcoder.tv/images/neo4j/neo4j_03_22_2012_screen.jpg">
+	<title>Understand Neo4j Commercial Licenses</title>
+	<contentId>03222012</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>HD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>HD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_03_22_2012.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_03_22_2012.mp4</streamUrl>
+	</media>
+	<synopsis>In this fast-paced webinar, Andreas Kollegger walks through the different types of Neo4j open source and commercial licenses. Learn how to decide what type of license, commercial or open source, is right for your situation.</synopsis>
+	<publish_date>2012-03-22</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/neo4j/neo4j_03_16_2012c_screen.jpg" hdImg="http://madcoder.tv/images/neo4j/neo4j_03_16_2012c_screen.jpg">
+	<title>Live Graph Session: How Allison knows James</title>
+	<contentId>03162012</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>HD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>HD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_03_16_2012c.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_03_16_2012c.mp4</streamUrl>
+	</media>
+	<synopsis>A fun way to demonstrate the power of thinking in graphs. In this quick demonstration, Allison Sparrow draws out how she has come to meet James Ward of Heroku. In our extremely connected lives, graphs provide an intuitive way to store and relate data that directly reflects how people interact.</synopsis>
+	<publish_date>2012-03-16</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/neo4j/neo4j_03_16_2012b_screen.jpg" hdImg="http://madcoder.tv/images/neo4j/neo4j_03_16_2012b_screen.jpg">
+	<title>Heroku Challenge Winner</title>
+	<contentId>03162012</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>HD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>HD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_03_16_2012b.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://df54v7sijex2k.cloudfront.net/neo4j_03_16_2012b.mp4</streamUrl>
+	</media>
+	<synopsis>Cloudstock 2012- Allison Sparrow has a chat with James Ward, Principal Developer Evangelist at Heroku (Salesforce.com) to discuss cloud deployments and developer advances in the cloud space. They then announce the Neo4j Heroku Challenge winner and discuss some of their favorite runner ups.</synopsis>
+	<publish_date>2012-03-16</publish_date>
+	</item>
 	<item sdImg="http://madcoder.tv/images/neo4j/neo4j_03_16_2012_screen.jpg" hdImg="http://madcoder.tv/images/neo4j/neo4j_03_16_2012_screen.jpg">
 	<title>Good Relationships: Get Started with Spring Data Neo4j</title>
 	<contentId>03162012</contentId>
