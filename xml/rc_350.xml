@@ -4,6 +4,44 @@
 	<resultLength>50</resultLength>
 	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
 	<endIndex>50</endIndex>
+	<item sdImg="http://madcoder.tv/images/rc/rc_342_screen.png" hdImg="http://madcoder.tv/images/rc/rc_342_screen.png">
+	<title>#342 Migrating to PostgreSQL</title>
+	<contentId>342</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/342-migrating-to-postgresql.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/342-migrating-to-postgresql.m4v</streamUrl>
+	</media>
+	<synopsis>Postgres is a feature-packed relational database that every Rails developer should consider using. Here you will learn how to install it, add it to a new application, and transition from an existing SQLite app using the "taps" gem.</synopsis>
+	<publish_date>2012-04-17</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_340_screen.png" hdImg="http://madcoder.tv/images/rc/rc_340_screen.png">
+	<title>#340 DataTables</title>
+	<contentId>340</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/340-datatables.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/340-datatables.m4v</streamUrl>
+	</media>
+	<synopsis>DataTables makes it easy to convert a plain HTML table into one with pagination, sorting, and searching - all done with JavaScript and jQuery. Here I show how to set this up and use a Rails application as the data source.</synopsis>
+	<publish_date>2012-04-11</publish_date>
+	</item>
 	<item sdImg="http://madcoder.tv/images/rc/rc_338_screen.png" hdImg="http://madcoder.tv/images/rc/rc_338_screen.png">
 	<title>#338 Globalize3</title>
 	<contentId>338</contentId>
