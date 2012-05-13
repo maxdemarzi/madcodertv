@@ -4,6 +4,63 @@
 	<resultLength>8</resultLength>
 	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
 	<endIndex>8</endIndex>
+	<item sdImg="http://madcoder.tv/images/rc/rc_348_screen.png" hdImg="http://madcoder.tv/images/rc/rc_348_screen.png">
+	<title>#348 The Rails API Gem</title>
+	<contentId>348</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/348-the-rails-api-gem.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/348-the-rails-api-gem.m4v</streamUrl>
+	</media>
+	<synopsis>It is often asked: Is Rails a good fit if I only need to serve an API? In this episode I show how to use the Rails API gem to create a slimmer Rails application designed to respond with JSON.</synopsis>
+	<publish_date>2012-05-09</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_346_screen.png" hdImg="http://madcoder.tv/images/rc/rc_346_screen.png">
+	<title>#346 Wizard Forms with Wicked</title>
+	<contentId>346</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/346-wizard-forms-with-wicked.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/346-wizard-forms-with-wicked.m4v</streamUrl>
+	</media>
+	<synopsis>Creating a wizard form can be tricky in Rails. Learn how Wicked can help by turning a controller into a series of multiple steps.</synopsis>
+	<publish_date>2012-05-03</publish_date>
+	</item>
+	<item sdImg="http://madcoder.tv/images/rc/rc_344_screen.png" hdImg="http://madcoder.tv/images/rc/rc_344_screen.png">
+	<title>#344 Queue Classic</title>
+	<contentId>344</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>1500</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/344-queue-classic.mp4</streamUrl>
+	</media>
+	<media>
+	  <streamQuality>SD</streamQuality>
+	  <streamBitrate>700</streamBitrate>
+	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/344-queue-classic.m4v</streamUrl>
+	</media>
+	<synopsis>PostgreSQL can act as a worker queue which can replace the need for a separate process to manage the background jobs. Here you will learn how to do this with the queue_classic gem.</synopsis>
+	<publish_date>2012-04-24</publish_date>
+	</item>
   <item sdImg="http://madcoder.tv/images/rc/rc_342_screen.png" hdImg="http://madcoder.tv/images/rc/rc_342_screen.png">
 	<title>#342 Migrating to PostgreSQL</title>
 	<contentId>342</contentId>
@@ -193,62 +250,5 @@
 	</media>
 	<synopsis>There are a variety of ways to pass variables from a Rails application to JavaScript. Here I show three techniques: a script tag, a data attribute, and the Gon gem.</synopsis>
 	<publish_date>2012-02-13</publish_date>
-	</item>
-	<item sdImg="http://madcoder.tv/images/rc/rc_322_screen.png" hdImg="http://madcoder.tv/images/rc/rc_322_screen.png">
-	<title>#322 RABL</title>
-	<contentId>322</contentId>
-	<contentType>Talk</contentType>
-	<contentQuality>SD</contentQuality>
-	<streamFormat>mp4</streamFormat>
-	<media>
-	  <streamQuality>SD</streamQuality>
-	  <streamBitrate>1500</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/322-rabl.mp4</streamUrl>
-	</media>
-	<media>
-	  <streamQuality>SD</streamQuality>
-	  <streamBitrate>700</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/322-rabl.m4v</streamUrl>
-	</media>
-	<synopsis>RABL - Ruby API Builder Language - provides a DSL for generating JSON or XML responses in a Ruby application. Learn how to share and configure complex JSON data in this episode.</synopsis>
-	<publish_date>2012-02-08</publish_date>
-	</item>
-	<item sdImg="http://madcoder.tv/images/rc/rc_320_screen.png" hdImg="http://madcoder.tv/images/rc/rc_320_screen.png">
-	<title>#320 Jbuilder</title>
-	<contentId>320</contentId>
-	<contentType>Talk</contentType>
-	<contentQuality>SD</contentQuality>
-	<streamFormat>mp4</streamFormat>
-	<media>
-	  <streamQuality>SD</streamQuality>
-	  <streamBitrate>1500</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/320-jbuilder.mp4</streamUrl>
-	</media>
-	<media>
-	  <streamQuality>SD</streamQuality>
-	  <streamBitrate>700</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/320-jbuilder.m4v</streamUrl>
-	</media>
-	<synopsis>Jbuilder provides a DSL for generating JSON. It includes a template engine which allows you to create complex responses with helpers and conditions.</synopsis>
-	<publish_date>2012-01-30</publish_date>
-	</item>
-	<item sdImg="http://madcoder.tv/images/rc/rc_318_screen.png" hdImg="http://madcoder.tv/images/rc/rc_318_screen.png">
-	<title>#318 Upgrading to Rails 3.2</title>
-	<contentId>318</contentId>
-	<contentType>Talk</contentType>
-	<contentQuality>SD</contentQuality>
-	<streamFormat>mp4</streamFormat>
-	<media>
-	  <streamQuality>SD</streamQuality>
-	  <streamBitrate>1500</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/318-upgrading-to-rails-3-2.mp4</streamUrl>
-	</media>
-	<media>
-	  <streamQuality>SD</streamQuality>
-	  <streamBitrate>700</streamBitrate>
-	  <streamUrl>http://media.railscasts.com/assets/episodes/videos/318-upgrading-to-rails-3-2.m4v</streamUrl>
-	</media>
-	<synopsis>Rails 3.2 sports many new features including automatic explain queries, tagged logging, key-value store in Active Record, improved migration generator and more. Learn all about these new features in this episode.</synopsis>
-	<publish_date>2012-01-23</publish_date>
 	</item>
 </feed>
